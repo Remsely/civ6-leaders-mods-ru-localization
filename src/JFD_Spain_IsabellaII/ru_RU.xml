@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MOD_JFD_SPAIN_ISABELLA_II_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР -- ИЗАБЕЛЛА II[NEWLINE][NEWLINE]ОСОБЕННОСТЬ - ПРОНУНСИАМЬЕНТО[NEWLINE]Назначенные [ICON_GOVERNOR] губернаторы приносят по +2 очка [ICON_GREATGENERAL] великого полководца. Получает лояльность во всех городах и [ICON_ENVOY] посла за каждого великого полководца. Становится доступен уникальный юнит «Изабеллино» после открытия социального института «Национализм».[NEWLINE][NEWLINE]ЮНИТ - ИЗАБЕЛЛИНО[NEWLINE]Уникальный испанский юнит Промышленной эры, если лидером является Изабелла II. При победе в бою приносит [ICON_CULTURE] культуру и [ICON_FAITH] веру в размере 25% [ICON_STRENGTH] боевой мощи побежденных юнитов, если сражение идет в границах Испании или рядом с ними.[NEWLINE][NEWLINE]ПОВЕСТКА - ИНТРИГИ КРИСТИНОС[NEWLINE]Наслаждается обществом придворных и стремится поддерживать как высокую [ICON_FAITH] веру, так и высокую [ICON_CULTURE] культуру. В [ICON_GLORY_GOLDEN_AGE] Золотой век она делит это удовольствие с цивилизациями, делающими то же самое. В остальные эпохи она предпочитает цивилизации, которые являются ее друзьями и имеют сильную регулярную армию.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JFD_ISABELLA_II_NAME" Language="ru_RU">
+			<Text>Изабелла II|Изабеллы II|Изабелле II|Изабеллу II|Изабеллой II|Изабелле II</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_CRISTINO_INTRIQUE_NAME" Language="ru_RU">
+			<Text>Интриги кристинос</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_CRISTINO_INTRIQUE_DESCRIPTION" Language="ru_RU">
+			<Text>Наслаждается обществом придворных и стремится поддерживать как высокую [ICON_FAITH] веру, так и высокую [ICON_CULTURE] культуру. В [ICON_GLORY_GOLDEN_AGE] Золотой век она делит это удовольствие с цивилизациями, делающими то же самое. В остальные эпохи она предпочитает цивилизации, которые являются ее друзьями и имеют сильную регулярную армию.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_ISABELLA_II_REASON_LEADS_CULTURE_AND_GOLDEN_AGE" Language="ru_RU">
+			<Text>(У вас сильная культура, и у вас Золотой век.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_CRISTINO_INTRIQUE_LEADS_CULTURE_AND_GOLDEN_AGE" Language="ru_RU">
+			<Text>Изабелла II краснеет от вашей великой красоты</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_ISABELLA_II_REASON_LEADS_FAITH_AND_GOLDEN_AGE" Language="ru_RU">
+			<Text>(У вас сильная вера, и у вас Золотой век.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_CRISTINO_INTRIQUE_LEADS_FAITH_AND_GOLDEN_AGE" Language="ru_RU">
+			<Text>Изабелла II льстит вашей религиозной преданности</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_ISABELLA_II_REASON_FRIEND_AND_LEADS_STANDING_ARMY_NOT_GOLDEN_AGE" Language="ru_RU">
+			<Text>(Вы ее друг, у вас сильная регулярная армия, и у вас нет Золотого века.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_CRISTINO_INTRIQUE_FRIEND_AND_LEADS_STANDING_ARMY_NOT_GOLDEN_AGE" Language="ru_RU">
+			<Text>Изабелла II впечатлена вашей огромной армией</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_ISABELLA_II" Language="ru_RU">
+			<Text>Ваши права на испанский трон не останутся без защиты, Изабелла II. Хитростью и искусством ваших генералов и их армий порядок можно будет восстановить в ваших землях. Мир поддерживает ваше право по рождению, и теперь вам остается лишь усмирить непокорные мятежи тех, кто оспаривает ваше законное место государыни.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_PRONUNCIAMIENTO_NAME" Language="ru_RU">
+			<Text>Пронунсиамьенто</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_PRONUNCIAMIENTO_DESCRIPTION" Language="ru_RU">
+			<Text>Назначенные [ICON_GOVERNOR] губернаторы приносят по +2 очка [ICON_GREATGENERAL] великого полководца. Получает лояльность во всех городах и [ICON_ENVOY] посла за каждого великого полководца. Становится доступен уникальный юнит «Изабеллино» после открытия социального института «Национализм».</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_PRONUNCIAMIENTO_NOTIFICATION" Language="ru_RU">
+			<Text>Наше дело встревожило другие державы. [COLOR_FLOAT_FOOD]Получено +{1_Num} [ICON_ENVOY] посол.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ISABELLA_II_TITLE" Language="ru_RU">
+			<Text>Изабелла II</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ISABELLA_II_SUBTITLE" Language="ru_RU">
+			<Text>Королева Испании</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ISABELLA_II_QUOTE" Language="ru_RU">
+			<Text>Королева высока ростом, но скорее грузна, чем величава.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ISABELLA_II_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Изабелла родилась в Мадриде 10 октября 1830 года, дочь Фердинанда VII Испанского и Марии Кристины Неаполитанской. Ее дядя дон Карлос отказался признать ее право на трон, и после смерти Фердинанда в конце 1833 года вспыхнула ожесточенная гражданская война между консервативными силами, поддерживавшими дона Карлоса, и либеральными группами, поддерживавшими юную принцессу и ее мать, королеву-регентшу. Карлисты были разбиты в 1839 году, но на следующий год Бальдомеро Эспартеро, либерал и самый могущественный генерал страны, вынудил Марию Кристину покинуть Испанию. Изабелла осталась.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ISABELLA_II_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Три года спустя консерваторы свергли Эспартеро и его либеральных сторонников, и 8 ноября 1843 года тринадцатилетнюю Изабеллу объявили совершеннолетней и короновали. Образование Изабеллы было скудным; она едва умела читать и, по всеобщему мнению, была сравнительно невежественна. Но она была весьма привлекательна и совершенно очаровательна. С 1843 по 1868 год Изабелла царствовала, но не правила. Большую часть этого времени Испанией управляла коалиция гражданских консерваторов и армейских генералов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ISABELLA_II_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>10 октября 1846 года Изабелла вышла замуж за своего двоюродного брата Франсиско де Асис. Тогда еще привлекательная шестнадцатилетняя девушка, щедрая, дружелюбная, любившая танцы и влюбчивая, она была глубоко разочарована робким и женоподобным Франсиско. На следующий день после свадьбы он съехал из покоев королевы, а ее первый любовник, красавец генерал Серрано, въехал. Он стал первым из многих, пока ее бурная сексуальная жизнь (или то, что английский наблюдатель назвал ее «ужасным конституциональным недугом») не стала предметом разговоров всей Европы. Тем не менее она считала себя набожной католичкой и находилась под сильным влиянием суеверных и часто фанатичных монахинь и монахов, окружавших ее при дворе.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ISABELLA_II_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>Скандальная личная жизнь Изабеллы, ее антилиберализм и экономический кризис в Испании 1866 года привели к народной революции в сентябре 1868 года. Изабелла бежала во Францию и 25 июня 1870 года отреклась от престола в пользу сына Альфонса XII. Он был коронован королем Испании в начале 1875 года после упразднения республики, провозглашенной в 1873 году.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ISABELLA_II_CHAPTER_HISTORY_PARA_5" Language="ru_RU">
+			<Text>В изгнании Изабелла сохранила пристрастие к мужчинам и любовь к танцам. Однако поражение Испании в 1898 году, по-видимому, сломило ее дух; после этого года здоровье ее стало ухудшаться, и 19 апреля 1904 года она умерла в своем парижском доме.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ISABELLA_II_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Изабелла II возглавляет еще одну мировую морскую империю, но, в отличие от Англии, эта - ведущий претендент на победу господством.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ISABELLA_II_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Изабелла II хочет держать своих любимых генералов рядом. Она хочет обеспечить единое и лояльное государство на родном континенте, а затем отправиться в плавание искать дополнительные места для поселений. Если ей не удастся найти на других континентах места для мирного заселения, она применит своих конкистадоров, чтобы силой закрепиться. Оказавшись там, способность цивилизации «Миссии и Серебряный флот» позволит ей получать от иностранного присутствия выгоду. Она будет давить на всех, кто не исповедует ее религию, пока не обратит весь мир в свою веру.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ну надо же, какой хорошенький. И как же тебя зовут? Нет, тише. Дай мне сказать. Я Изабелла II, королева и великая красавица Испании.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ты выглядишь совсем измученным. Почему бы нам не уединиться на этот вечер? У меня поблизости как раз есть чудесный город для такого случая.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>О, дорогой, надеюсь, ты не пытаешься меня соблазнить. Ладно уж, если ты настаиваешь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ты пришел полюбоваться красотой Мадрида? Севильи? Барселоны? Выбирай. Уверена, на все это стоит посмотреть.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Чудесно видеть тебя снова.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Чудесно. Надеюсь, они красавчики.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ох, ну что ты, забыл, кто я? Я Изабелла II Испанская, дорогой. У меня нет времени на твою делегацию.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Прошу, дорогой, не примешь ли ты мою делегацию? Это было бы очень мило с твоей стороны. Боюсь, предложить мне нечего, кроме моей вечной благодарности.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Тогда договорились.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>У Испании и так довольно неприятностей внутри границ, чтобы еще добавлять вас, благодарю покорно.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Так не обсудить ли нам право прохода? Быть может, сегодня вечером, на прогулке по дворцовым садам?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Чудесно. Просто восхитительно.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ох, не будь так глуп.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ты дорогой друг Испании и мне, знаешь это? Ты чувствуешь то же? Я очень надеюсь, что да.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Я в восторге.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ну правда.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Испания щедро вознаграждает своих союзников. А я вознаграждаю их великодушно. Без сомнения, ты примешь это предложение вступить в союз с Испанией?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Дорогой, ты очаровательный человек. Я бы хотела как-нибудь снова видеть тебя рядом.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Уф, с тобой совсем не весело.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ах, прошу. Я разберусь с твоими войсками, если придется, но это было бы по-настоящему хлопотно. Может, ты просто, не знаю, уберешь их подальше?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ISABELLA_II_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ISABELLA_II_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ну полно, не будем играть в эти игры.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ты неприятный тип, знаешь это? (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Ох, ну что там еще?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Тогда мы идем на войну, дорогой.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Какое ужасное беспокойство ты мне причинил. Надеюсь, ты доволен собой. Но ладно, я согласна.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Не будь глупцом.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Не вернуться ли нам к миру? Эта война ужасно утомительна.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>Какое чудовищное дело - свергнуть Изабеллу II Испанскую. Это абсурд!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_ISABELLA_II_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ISABELLA_II_ANY]</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JFD_ISABELLINO_NAME" Language="ru_RU">
+			<Text>Изабеллино|Изабеллино|Изабеллино|Изабеллино|Изабеллино|Изабеллино</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JFD_ISABELLINO_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный испанский юнит Промышленной эры, если лидером является Изабелла II. При победе в бою приносит [ICON_CULTURE] культуру и [ICON_FAITH] веру в размере 25% [ICON_STRENGTH] боевой мощи побежденных юнитов, если сражение идет в границах Испании или рядом с ними.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_ISABELLINO_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Первая карлистская война - гражданская война в Испании 1833-1840 годов, в которой сражались группировки из-за престолонаследия и характера испанской монархии. Она велась между сторонниками регентши Марии Кристины, действовавшей от имени Изабеллы II Испанской, и сторонниками брата покойного короля, Карлоса де Бурбона (Карла V). Целью карлистов было возвращение к абсолютной монархии. Португалия, Франция и Великобритания поддерживали регентство и направили добровольцев и даже регулярные войска для борьбы с карлистской армией. </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JFD_ISABELLINO_NAME" Language="ru_RU">
+			<Text>Карлистские войны</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JFD_ISABELLINO_DESCRIPTION" Language="ru_RU">
+			<Text>При победе в бою приносит [ICON_CULTURE] культуру и [ICON_FAITH] веру в размере 25% [ICON_STRENGTH] боевой мощи побежденных юнитов, если сражение идет в границах Испании или рядом с ними.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

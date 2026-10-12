@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MOD_JFD_PAPAL_STATES_PIUS_IX_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР -- ПИЙ IX[NEWLINE][NEWLINE]ОСОБЕННОСТЬ -- ПЕРВЫЙ ВАТИКАНСКИЙ СОБОР[NEWLINE]Получает дополнительную дипломатическую ячейку после изучения социальных институтов «Божественное право» и «Реформация». Получает [ICON_ENVOY] посла, когда кто-либо основывает религию, и двух - если религию основал он сам.[NEWLINE][NEWLINE]ПОВЕСТКА - СИЛЛАБУС[NEWLINE]Дружелюбен к цивилизациям, которые слабы в [ICON_FAITH] вере и придерживаются той же религии. Не любит еретические цивилизации, исповедующие другую религию.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JFD_PIUS_IX_NAME" Language="ru_RU">
+			<Text>Пий IX|Пия IX|Пию IX|Пия IX|Пием IX|Пие IX</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_INFALLABILITY_NAME" Language="ru_RU">
+			<Text>Силлабус</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_INFALLABILITY_DESCRIPTION" Language="ru_RU">
+			<Text>Дружелюбен к цивилизациям, которые слабы в [ICON_FAITH] вере и придерживаются той же религии. Не любит еретические цивилизации, исповедующие другую религию.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_PIUS_IX_LAGS_FAITH" Language="ru_RU">
+			<Text>(У вас слабая вера.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_JFD_INFALLABILITY_LAGS_FAITH" Language="ru_RU">
+			<Text>Пий IX готов наставлять вас в вашей слабой вере</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_PIUS_IX_REASON_DIFF_RELIGION" Language="ru_RU">
+			<Text>(Вы не исповедуете его религию)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_INFALLABILITY_DIFF_RELIGION" Language="ru_RU">
+			<Text>Пий IX осуждает вас за ваши ереси</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_PIUS_IX_REASON_SAME_RELIGION" Language="ru_RU">
+			<Text>(Вы исповедуете его религию)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_INFALLABILITY_SAME_RELIGION" Language="ru_RU">
+			<Text>Пий IX хвалит вас за приверженность Единой Истинной Вере</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_PIUS_IX" Language="ru_RU">
+			<Text>Святой отец Пий IX, наместник Христа, христианская цивилизация в ваших руках. Но схождение ложных религий и неистового национализма грозит поглотить мир во тьме. Примите светскую власть Святой Матери-Церкви и с ее помощью восстановите Царство Божие на земле.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_VATICAN_COUNCILS_NAME" Language="ru_RU">
+			<Text>Первый Ватиканский собор</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_VATICAN_COUNCILS_DESCRIPTION" Language="ru_RU">
+			<Text>Получает дополнительную дипломатическую ячейку после изучения социальных институтов «Божественное право» и «Реформация». Получает [ICON_ENVOY] посла, когда кто-либо основывает религию, и двух - если религию основал он сам.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_VATICAN_COUNCILS_NOTIFICATION" Language="ru_RU">
+			<Text>Новая религия предвещает новую дипломатию в вопросах веры. Получено +{1_Num} [COLOR_GREEN][ICON_ENVOY] послов[ENDCOLOR].</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_PIUS_IX_TITLE" Language="ru_RU">
+			<Text>Пий IX</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_PIUS_IX_SUBTITLE" Language="ru_RU">
+			<Text>Государь Папской области</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_PIUS_IX_QUOTE" Language="ru_RU">
+			<Text>Если будущий папа станет учить чему-либо, противному католической вере, не следуйте за ним.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_PIUS_IX_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Пий IX, урожденный Джованни Мария Мастаи-Ферретти, родился 13 мая 1792 года в Сенигаллии, Италия. В 1827 году он стал архиепископом Сполето, а в 1832 году - епископом Имолы. Он уже считался либералом, когда в 1840 году его возвели в кардиналы. После смерти Григория XVI конклав, разделенный на прогрессивных и консервативных прелатов, 16 июня 1846 года избрал папой Мастаи-Ферретти, предпочтя его реакционеру Луиджи Ламбручини.[NEWLINE][NEWLINE]Новый папа начал свой понтификат - самый долгий в истории - с осуществления остро необходимых реформ. За улучшением финансового управления и обращения с преступниками в Папской области последовало смягчение цензуры. Политические нововведения 1847 года постановили, что священником должен быть только государственный секретарь, а совет советников папы и его министры будут выборными должностными лицами. Для Рима было учреждено муниципальное управление, часть которого состояла из выборных представителей. Руководя этими конкретными либеральными переменами на собственных землях, Пий IX поощрял итальянский национализм.[NEWLINE][NEWLINE]Но то, что он всегда был реформатором, а никогда не революционером, Пий IX быстро доказал после революций 1848 года. Вынужденный отъезд из Рима в Гаэту и провозглашение Римской республики охладили его пыл по отношению к итальянскому национализму. Прежде всего и всегда преданный благу Церкви, он был готов поддержать введение в нее демократических элементов, но никогда не соглашался на потерю светской власти папы.[NEWLINE][NEWLINE]Когда движение за единство Италии в 1859 году переросло в войну, Пий IV пытался сохранять нейтралитет, но не смог уберечь папские земли от расчленения. Его отказ уступить хоть какую-то часть этих владений на переговорах с победившими пьемонтцами привел к тому, что он потерял их все. 18 сентября 1860 года Папская область была захвачена, и лишь присутствие французских войск защищало Рим. Было образовано либеральное Королевство Италия, и до последнего вздоха Пий IX оставался его злейшим врагом.[NEWLINE][NEWLINE]Пока французы держали гарнизон в Риме, Пий IX мог удерживать столицу, и из нее он пускал в ход все духовное оружие своего арсенала. Знаменитый Силлабус заблуждений 1864 года - список ошибочных модернистских утверждений - специально отвергал мысль о том, что папа когда-либо свяжет себя с прогрессом или современной цивилизацией. Ватиканский собор 18 июля 1870 года сделал древнюю доктрину о непогрешимости папы догматом Церкви. Пий IX сделал своей неустанной задачей вновь навязать верующим ультрамонтанскую власть средневековой Церкви.[NEWLINE][NEWLINE]Французы вывели войска из Рима в 1870 году с началом Франко-прусской войны. Итальянские солдаты заняли город 20 сентября того же года, а в октябре состоялся плебисцит, на котором подавляющее большинство проголосовало за присоединение Рима к Итальянскому королевству. Остаток жизни Пий IX провел в Ватикане. Он отказывался вести переговоры с новым королевством, парламент которого в одностороннем порядке объявил, что папа сохраняет суверенитет и полную власть над Ватиканом. Он мог поддерживать дипломатические отношения с другими государствами и получал компенсацию за потерю территорий. Эти меры его не успокоили, и он умер непримиренным 7 февраля 1878 года.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_PIUS_IX_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Будучи религией с собственным государством, Папская область - сильный религиозный игрок: ее религиозные юниты выносливы и трудолюбивы, а вера для нее превыше всего.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_PIUS_IX_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Религиозные юниты Папской области служат дольше и бросают вызов врагам благодаря дополнительным зарядам и игнорированию зон контроля. Дополнительные послы Пия позволят ему использовать религию для господства над городами-государствами. Их уникальная епархия обеспечит изобилие веры, а швейцарская гвардия защитит от врагов, пытающихся одолеть их военным путем.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Добро пожаловать, сын мой. Мы - Пий IX, верховный понтифик и епископ Рима. Мы молимся, чтобы ваше пребывание было благотворным.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы приглашаем вас в нашу великолепную столицу, чтобы вы увидели, что построила вера в Бога.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы рады, что вы приняли приглашение.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы предлагаем обменяться сведениями о наших столицах.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Добро пожаловать, дитя мое.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы приняли вашу делегацию в надежде, что она укрепит нашу веру.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы отказали вашей делегации. Мы не так легко принимаем нечестивцев и язычников.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы направили к вам папского легата, а вместе с ним - торжественность и достоинство Церкви.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Итак, мы согласны.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы не можем согласиться.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы просим вас обменяться с нами правом прохода.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы можем согласиться.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы не можем принять это.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы желаем протянуть вам руку дружбы.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы у вас в долгу.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы разочарованы.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы ищем союзников, чтобы отогнать тьму из сердец людей. Присоединитесь ли вы к нам в этом священном походе?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Ваша преданность вдохновляет, хоть вам и недостает веры в нас.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Ваши ереси не будут терпимы еще долго.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы просим вас отвести ваших солдат от наших священных земель.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_PIUS_IX_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_PIUS_IX_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы потрясены вашей дерзостью.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Пора положить конец вашим ересям. Мы осуждаем вас. (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_INFALLABILITY_DIFF_RELIGION" Language="ru_RU">
+			<Text>(Вы исповедуете другую религию.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Вы не восторжествуете.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы делаем то, что должно, во имя Бога и Его Святой Матери-Церкви.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы согласны на мир.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Мы не можем потакать вашим безрассудным просьбам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>В эти тяжелые времена мы молим о мире.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>Да помилует вас Бог.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_PIUS_IX_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_PIUS_IX_ANY]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

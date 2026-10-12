@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JFD's Spain: Pedro de Valdivia — русский перевод -->
+<GameData>
+	<LocalizedText>
+		<!-- MOD -->
+		<Replace Tag="LOC_MOD_JFD_SPAIN_VALDIVIA_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР — ПЕДРО ДЕ ВАЛЬДИВИЯ[NEWLINE][NEWLINE]ОСОБЕННОСТЬ — ЭНКОМЬЕНДА[NEWLINE]Все города, основанные на континенте, отличном от родного, получают бесплатного строителя и единовременную сумму [ICON_GOLD] золота. Вы получаете уникальный юнит «Янакона» после изучения социального института «Исследование».[NEWLINE][NEWLINE]ЮНИТ — ЯНАКОНА[NEWLINE]Уникальный разведывательный юнит Испании эпохи Возрождения, если лидером является Педро де Вальдивия. Может входить на чужую территорию без соглашения о праве прохода.[NEWLINE][NEWLINE]ПОВЕСТКА — НОВАЯ ЭСТРЕМАДУРА[NEWLINE]Стремится захватить как можно больше земли. Уважает цивилизации, исповедующие его религию, если они тоже захватывают как можно больше земли. Считает цивилизации, исповедующие его религию, но контролирующие мало территории, оскорблением Бога.</Text>
+		</Replace>
+		<!-- LEADER -->
+		<Replace Tag="LOC_LEADER_JFD_VALDIVIA_SPAIN_NAME" Language="ru_RU">
+			<Text>Педро де Вальдивия|Педро де Вальдивии|Педро де Вальдивии|Педро де Вальдивию|Педро де Вальдивией|Педро де Вальдивии</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_EXTREMADURA_SPAIN" Language="ru_RU">
+			<Text>Эстремадура</Text>
+		</Replace>
+		<!-- Agenda -->
+		<Replace Tag="LOC_AGENDA_JFD_NUEVA_EXTREMADURA_SPAIN_NAME" Language="ru_RU">
+			<Text>Новая Эстремадура</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_NUEVA_EXTREMADURA_SPAIN_DESCRIPTION" Language="ru_RU">
+			<Text>Стремится захватить как можно больше земли. Уважает цивилизации, исповедующие его религию, если они тоже захватывают как можно больше земли. Считает цивилизации, исповедующие его религию, но контролирующие мало территории, оскорблением Бога.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_VALDIVIA_SPAIN_REASON_MANY_CITIES_AND_SAME_RELIGION" Language="ru_RU">
+			<Text>(Вы исповедуете ту же религию, и у вас много городов.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_NUEVA_EXTREMADURA_SPAIN_MANY_CITIES_AND_SAME_RELIGION" Language="ru_RU">
+			<Text>Педро де Вальдивия хвалит ваше распространение веры в Бога</Text>
+		</Replace>
+		<!-- DOM -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_VALDIVIA_SPAIN" Language="ru_RU">
+			<Text>Новый свет манит, и вас ждут слава и богатство, Педро де Вальдивия. Отправляйтесь в дальние земли и основывайте новые колонии. Пустите в дело своих поселенцев и сделайте так, чтобы ваше наследие вызывало зависть всей Испанской империи.</Text>
+		</Replace>
+		<!-- Traits -->
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_ENCOMIENDA_SPAIN_NAME" Language="ru_RU">
+			<Text>Энкомьенда</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_ENCOMIENDA_SPAIN_DESCRIPTION" Language="ru_RU">
+			<Text>Все города, основанные на континенте, отличном от родного, получают бесплатного строителя и единовременную сумму [ICON_GOLD] золота. Вы получаете уникальный юнит «Янакона» после изучения социального института «Исследование».</Text>
+		</Replace>
+		<!-- Pedia -->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_VALDIVIA_SPAIN_TITLE" Language="ru_RU">
+			<Text>Педро де Вальдивия</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_VALDIVIA_SPAIN_TAB_NAME" Language="ru_RU">
+			<Text>Педро де Вальдивия (Испания)</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_VALDIVIA_SPAIN_SUBTITLE" Language="ru_RU">
+			<Text>Королевский губернатор Чили</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_VALDIVIA_SPAIN_QUOTE" Language="ru_RU">
+			<Text>Если бы смерть приходила из Испании, мы бы все жили долго.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_VALDIVIA_SPAIN_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Педро де Вальдивия родился в округе Ла-Серена в Эстремадуре. Рано поступив в испанскую армию, он воевал во Фландрии, а затем в битве при Павии в 1525 году. В Америку он прибыл в 1535 году, провел спокойный год в Венесуэле и отправился дальше, в Перу. Там он принял участие на стороне Эрнандо Писарро в битве при Лас-Салинас в 1538 году, в которой Альмагро был разбит и взят в плен. Вальдивия женился еще в Испании, но в Перу привязался к вдове Инес де Суарес, которая сопровождала его в Чили как любовница.[NEWLINE][NEWLINE]В начале 1540 года, с разрешения Франсиско Писарро, Вальдивия покинул Куско и отправился в Чили с небольшой экспедицией и неким Санчо де Осом в качестве партнера. По дороге Санчо, добиваясь единоличного руководства, попытался убить Вальдивию, но потерпел неудачу. Его простили, но с тех пор ему пришлось смириться с подчиненным положением.[NEWLINE][NEWLINE]В центральном Чили Вальдивия в 1541 году основал Сантьяго на реке Мапочо, а три года спустя Хуан Бохон основал Ла-Серену в долине Кокимбо. За ними последовали Консепсьон, Вильяррика, Империаль, Вальдивия и Ангол. Вальпараисо, хотя испанцы с самого начала использовали его как порт, до гораздо более позднего времени не имел значительного населения. Сантьяго был в основном разрушен вскоре после основания индейцами аконкагуа во время отсутствия Вальдивии. Однако испанцы там не были уничтожены: оборону в основном вела Инес де Суарес, и нападавшие отступили. В конечном итоге давление со стороны политического начальства вынудило Вальдивию прекратить отношения с Инес.[NEWLINE][NEWLINE]Когда в Перу началось восстание Гонсало Писарро, мятежники безуспешно пытались перетянуть Вальдивию на свою сторону. В начале 1548 года Вальдивия присоединился к королевской армии Педро де ла Гаски в Перу, и его военный опыт сыграл большую роль в победе при Хаквихауане 9 апреля того же года. Вальдивия вернулся в Чили со значительно окрепшими положением и престижем.[NEWLINE][NEWLINE]Ранее, узнав об убийстве Франсиско Писарро в 1541 году, Вальдивия вывел Чили из перуанского подчинения и признавал лишь королевскую власть, и корона сочла такое устройство приемлемым. Теперь, обезопасив свои владения, он продвигал исследование на юг и содействовал развитию страны, разделив землю между наиболее способными соратниками и раздав индейцев по энкомьендам. В Чили были полезные ископаемые, но Вальдивия определенно ставил добычу ниже земледелия и скотоводства.[NEWLINE][NEWLINE]В 1550 году у Вальдивии произошло столкновение с воинственными араукано за рекой Био-Био, в котором он разбил их, но отнюдь не сломил их волю к сопротивлению, а она лишь окрепла, когда конкистадор основал в их землях поселение Консепсьон. Он выступил против них в 1553 году и построил форт в Тукапеле. Ранее он взял в плен и, видимо, подружился с Лаутаро, юношей-араукано, ставшим его конюхом. Лаутаро втайне оставался верен своему народу и вернулся к нему, чтобы показать вождю Каупольикану способ захвата Вальдивии. Испанского предводителя взяли в плен в Рождество 1553 года. Хотя существуют разные описания его казни, вероятнее всего, вождь Пильмайкен ударил его боевой дубинкой по голове.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_VALDIVIA_SPAIN_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Вальдивия возглавляет еще одну глобальную морскую империю, но, в отличие от Англии, эта — главный претендент на победу господством.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_VALDIVIA_SPAIN_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Вальдивия хочет немедленно пустить свои колонии в дело. Если он не найдет на других континентах мест для мирного заселения, он применит своих конкистадоров, чтобы закрепиться силой. Оказавшись на месте, способность цивилизации «Миссии и флот сокровищ» обеспечит, что иностранное присутствие станет для него выгодным. Он будет давить на всех, кто не следует его религии, пока не обратит весь мир в свои верования.</Text>
+		</Replace>
+		<!-- Diplomacy -->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Я Педро де Вальдивия, королевский губернатор Чили. Если вы пришли за славой, ищите ее в другом месте: я уже взял ее себе.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Чили растет день ото дня. Не желаете ли присоединиться ко мне в моем ближайшем городе и увидеть, как она процветает?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Согласен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Как поживает ваша колония? Молюсь, чтобы вам сопутствовала удача. Расскажете мне?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Славный денек, не так ли?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Тогда я встречусь с вашей делегацией так же, как встретился бы с вами.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Сейчас не время для таких дел.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Надеюсь, вы тепло примете мою делегацию, как я принял бы вашу.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Это приемлемо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Я не позволю вам просто так разгуливать по этим землям.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Я прошу соглашения о праве прохода. Эти земли коварны, не будем делать их еще коварнее.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Значит, решено.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Вы шутите.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Ваше дело истинно и справедливо. Для меня будет честью назвать вас другом.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Отличная новость.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Тогда убирайтесь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>В этих суровых землях нужно использовать всякую помощь, какую только можно собрать. Присоединитесь ли вы ко мне в союзе?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Слава Богу и отечеству, друг мой.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Вы великим позором покрываете Бога.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Я буду защищать эти земли до смерти. Не ищите со мной драки.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Я этого не потерплю.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Вы действуете не во имя Бога, а ради собственной жадности. У вас нет права на земли, над которыми вы объявляете власть. (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_NUEVA_EXTREMADURA_SPAIN" Language="ru_RU">
+			<Text>(Вы контролируете очень мало территории.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Тогда мы будем драться насмерть.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>За славу — на войну!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Что ж, надо так надо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Ваше завоевание завершится раньше, чем я соглашусь на мир.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Сложите оружие.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>Лучше смерть, чем бесчестье.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_VALDIVIA_SPAIN_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_VALDIVIA_SPAIN_ANY]</Text>
+		</Replace>
+		<!-- Unit -->
+		<Replace Tag="LOC_UNIT_JFD_YANACONA_SPAIN_NAME" Language="ru_RU">
+			<Text>Янакона|Янаконы|Янаконе|Янакону|Янаконой|Янаконе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JFD_YANACONA_SPAIN_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный разведывательный юнит Испании эпохи Возрождения, если лидером является Педро де Вальдивия. Может входить на чужую территорию без соглашения о праве прохода.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_YANACONA_SPAIN_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Янакуна первоначально были людьми в империи инков, вышедшими из системы айлью и выполнявшими на постоянной основе разнообразные работы для инков, для куйи (королевы инков) или для религиозных учреждений. Когда испанские конкистадоры прибыли на территорию нынешнего Перу, янакуна объявили себя «друзьями испанцев». Они помогли испанцам взять империю под контроль. Во время испанского завоевания империи инков испанцы стали использовать это название для коренных жителей, которых они держали в услужении, в энкомьендах или в военных силах, называя их indios auxiliares (индейские вспомогательные войска). </Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

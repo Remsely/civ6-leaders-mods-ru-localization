@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MOD_JFD_ROME_COMMODUS_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР -- КОММОД[NEWLINE][NEWLINE]ОСОБЕННОСТЬ - ИМПЕРАТОР-ГЛАДИАТОР[NEWLINE]Районы развлекательных комплексов получают бонус к [ICON_FAITH] вере за соседство с другими районами. Здания развлекательного комплекса можно покупать за [ICON_FAITH] веру. При наличии развлекательного комплекса становится доступен уникальный проект «Плебейские игры».[NEWLINE][NEWLINE]ПРОЕКТ - ПЛЕБЕЙСКИЕ ИГРЫ[NEWLINE]Уникальный проект района Рима, если Коммод является лидером. Пока активен, дает +1 [ICON_Amenities] довольства, [ICON_CULTURE] культуры и [ICON_FAITH] веры, а по завершении - очки [ICON_GREATGENERAL] великого полководца.[NEWLINE][NEWLINE]ПОВЕСТКА - ВЛАДЫКА РАЗВРАТА[NEWLINE]Старается развлекать свой народ, строя множество арен, и уважает цивилизации, которые также заботятся о довольстве населения. С подозрением относится к цивилизациям с большим количеством [ICON_GOLD] золота или [ICON_FAITH] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JFD_COMMODUS_NAME" Language="ru_RU">
+			<Text>Коммод|Коммода|Коммоду|Коммода|Коммодом|Коммоде</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_COMMODIANA" Language="ru_RU">
+			<Text>Коммода</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_POPULUS_SENATUSQUE_NAME" Language="ru_RU">
+			<Text>Владыка разврата</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_POPULUS_SENATUSQUE_DESCRIPTION" Language="ru_RU">
+			<Text>Старается развлекать свой народ, строя множество арен, и уважает цивилизации, которые также заботятся о довольстве населения. С подозрением относится к цивилизациям с большим количеством [ICON_GOLD] золота или [ICON_FAITH] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_COMMODUS_REASON_LEADS_HAPPINESS" Language="ru_RU">
+			<Text>(Ваши города довольны.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_POPULUS_SENATUSQUE_LEADS_HAPPINESS" Language="ru_RU">
+			<Text>Коммод уважает ваше внимание к довольству населения</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_COMMODUS_REASON_LEADS_FAITH" Language="ru_RU">
+			<Text>(Вы сильны в вере.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_POPULUS_SENATUSQUE_LEADS_FAITH" Language="ru_RU">
+			<Text>Коммод чувствует угрозу в вашей преданности другим богам</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_COMMODUS_REASON_LEADS_INCOME" Language="ru_RU">
+			<Text>(У вас много золота.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_POPULUS_SENATUSQUE_LEADS_INCOME" Language="ru_RU">
+			<Text>Коммод завидует богатству вашей цивилизации</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_COMMODUS" Language="ru_RU">
+			<Text>Рим рукоплещет вам, великий император Коммод. Народ жаждет ваших игр и ревет от восторга, когда вы выходите на арену. Пусть Сенат и его старцы препираются. Пришло время залить арену кровью и славой, которых жаждет Рим.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_HERCULES_COMMODIANUS_NAME" Language="ru_RU">
+			<Text>Император-гладиатор</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_HERCULES_COMMODIANUS_DESCRIPTION" Language="ru_RU">
+			<Text>Районы развлекательных комплексов получают бонус к [ICON_FAITH] вере за соседство с другими районами. Здания развлекательного комплекса можно покупать за [ICON_FAITH] веру. При наличии развлекательного комплекса становится доступен уникальный проект «Плебейские игры».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COMMODUS_TITLE" Language="ru_RU">
+			<Text>Коммод</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COMMODUS_SUBTITLE" Language="ru_RU">
+			<Text>Император Рима</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COMMODUS_QUOTE" Language="ru_RU">
+			<Text>Более дикий, чем Домициан, более гнусный, чем Нерон.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COMMODUS_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Коммод был римским императором с 180 по 192 год н. э. Со смертью императора Марка Аврелия в марте 180 года н. э. долгое правление пяти хороших императоров подошло к концу, а вместе с ним завершился и Римский мир (Pax Romana). Императоры, правившие следующие сто лет, стали свидетелями времени хаоса и упадка. Первым из этих бездарных правителей был Коммод, сын Марка Аврелия, который, по мнению большинства историков, был не только развратным и продажным, но и манией величия страдал, видя в себе перевоплощение греческого бога Геракла.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COMMODUS_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Луций Аврелий Коммод родился у философа-императора и Фаустины Младшей в Ланувии, городе в четырнадцати милях к юго-востоку от Рима, 31 августа 161 года н. э. Он был десятым из четырнадцати детей и единственным выжившим сыном - его брат-близнец Тит Аврелий Фульв Антонин умер в четыре года. Он стал первым императором, родившимся при правящем отце, и последним, кто получил трон по наследству, поскольку предыдущие пять императоров (включая Марка) получали его через усыновление.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COMMODUS_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Вскоре будущий император разочаровал отца: хотя он получил качественное образование, Коммод не унаследовал трудолюбия отца, государственные дела казались ему скучными, и некоторые полагали, что это доказывает его незаконнорожденность из-за предполагаемых измен матери. Сражаясь рядом с Марком на северной границе в 178 и 179 годах н. э., Коммод вернулся в Рим в 180 году н. э. после смерти отца (ему было всего восемнадцать) и заключил мирный договор, на удивление выгодный для Рима. Со временем он передал бразды правления в чужие руки, а сам предался мирским удовольствиям. Одним из первых, кто принял на себя часть обязанностей императора, был Сотер, чьи отношения с Коммодом вскоре навлекли гнев и сената, и императорского двора. Со временем Коммод оставил бразды правления в чужих руках, а сам предавался мирским удовольствиям.[NEWLINE][NEWLINE]Хотя Коммод считал свое двенадцатилетнее правление новым «золотым веком», его безразличие к политике вместе с праздной жизнью и крайней подозрительностью привели к тому, что другие могли бы назвать эпохой террора. Историк Кассий Дион, назвавший его царство «железным и ржавым», писал: «Этот человек не был злым по природе, напротив, он был простодушен, как никто другой. Однако его великая простота вместе с трусостью упустила лучшую жизнь, а затем привела к развратным и жестоким привычкам, которые скоро стали второй натурой». Поскольку он полагался на других в управлении, окружающие понимали, что им легко манипулировать, и это позволило возникнуть ряду заговоров против его жизни - один даже затеяли его старшая сестра Луцилла и несколько сенаторов в 182 году н. э.[NEWLINE][NEWLINE]Луцилла считала, что Марк Аврелий обошел ее и ее мужа Луция Вера как возможных наследников трона. План был достаточно прост: Клавдий Помпеян Квинтиан, ее племянник, должен был ждать в засаде, пока император войдет в Колизей, и ударить его кинжалом; однако убийство сорвалось, когда Квинтиан занес кинжал и вместо того, чтобы быстро ударить Коммода, крикнул: «Вот что посылает тебе сенат». Не успел он закончить фразу, как его схватила преторианская гвардия. Это неудавшееся покушение вместе с недавней смертью доверенного камергера императора Сотера заставило Коммода действовать решительно - все причастные к заговору были казнены. Вопреки утверждениям некоторых авторов, Луцилла не была казнена сразу; ее сослали и казнили гораздо позже. Коммод также воспользовался случаем и казнил Патерна, командира преторианской гвардии, причастного как к убийству Сотера, так и к заговору Луциллы.[NEWLINE][NEWLINE]В это тяжелое для Коммода время Тигидий Перенн, деливший с Патерном командование преторианской гвардией, воспользовался моментом и начал сближаться с уязвимым императором, приняв на себя значительную часть государственной власти, что позволило Коммоду заниматься другими интересами. После заговора сестры император отказывался появляться на людях, и все общение шло через нового камергера. Перенн отнесся к новой роли серьезно и оказался жестоким и эффективным, устраняя любых соперников своей власти и нажив по пути множество врагов. По мере того как он копил огромные богатства, а Коммод все дальше отходил от государственных обязанностей, Перенн начал считать истинным императором себя, а не Коммода, дойдя до замысла убрать императора и готовить к наследованию собственных сыновей. Геродиан в «Истории Римской империи» писал: «Перенн лично взял на себя полное управление империей, движимый ненасытной жаждой денег, презрением к тому, что имел, и жадным стремлением к тому, что еще не принадлежало ему». К несчастью, у него появился один враг - бывший раб и член императорского двора Клеандр, который и погубил его. В 185 году н. э. через группу из 1500 солдат, возвращавшихся из Британии, Клеандр передал Коммоду сведения о замысле Перенна свергнуть его и захватить власть - немедленно был отдан приказ о казни Перенна (и его сыновей).[NEWLINE][NEWLINE]Клеандр занял место нового камергера императора, и, как и при Перенне, Коммод был волен вернуться к жизни наслаждений, а Клеандр, как и его предшественник, уничтожил всякую оппозицию. Продавалось все - сенаторские места и наместничества, и, разумеется, часть денег доставалась Коммоду. Однако, как и Перенн, Клеандр продержался недолго. В 190 году н. э. его погубила нехватка зерна. Уполномоченный по зерну Папирий Дионисий прекратил выдачу зерна населению, обвинив Клеандра и его жадность - Клеандр якобы скупил все зерно. Люди пришли в ярость, и через несколько дней, собравшись в Большом цирке, подняли бунт. Народ требовал головы Клеандра и пошел по улицам к резиденции императора - вилле Квинтилиев. Коммод боялся за свою жизнь, и когда попытки усмирить толпу провалились, он дал людям то, чего они хотели, - голову Клеандра, которую насадили на шест и пронесли по улицам Рима. После этого Коммод понял, что ему придется самому взять управление в свои руки.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COMMODUS_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>Появился новый Коммод, видевший в себе возродившегося Геракла, который появлялся на людях в плаще из львиной шкуры, надетой на голову (отсылка к Немейскому льву из двенадцати подвигов Геракла). Сенат даже заставили объявить его живым богом. Геродиан писал: «Сначала он отказался от родового имени и приказал, чтобы его называли не Коммод, сын Марка, а Геракл, сын Зевса. Отбросив римский и императорский наряд, он облачился в львиную шкуру и взял палицу Геракла. ... Он воздвиг свои статуи по всему городу... ибо хотел, чтобы даже его статуи внушали страх». Затем он переименовал двенадцать месяцев, а когда пожар 191 года н. э. уничтожил большую часть города (включая храм Мира и храм Весты), воспользовался случаем, чтобы полностью перестроить Рим. Считая себя новым основателем, он переименовал Рим в Колонию Луция Анния Коммодиана; жители стали называться коммодианцами. К удивлению всех, он даже участвовал в гладиаторских боях, сражаясь с калеками и множеством зверей с приподнятой платформы, среди которых были тигр, слон и даже гиппопотам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COMMODUS_CHAPTER_HISTORY_PARA_5" Language="ru_RU">
+			<Text>Когда он решил в день Нового года в 193 году н. э. выйти на арену, чтобы отпраздновать возрождение города, его любовница Марция (жена Бруттия Криспина была сослана и казнена в 191 году н. э.), новый камергер (Эклект) и новый командир преторианской гвардии (Квинт Эмилий Лет) поняли, что он зашел слишком далеко. Когда им не удалось отговорить его от нелепых планов, он пришел в ярость и пригрозил добавить их имена в длинный список тех, кого хотел казнить. Позже, как обычно, Марция принесла Коммоду кубок вина перед купанием, но на этот раз в нем был яд. Когда яд не подействовал, вошел тренер Коммода Нарцисс (профессиональный борец) и задушил его. Хотя многие хотели волочить его тело по улицам Рима, Пертинакс (который, как ни странно, и унаследовал власть после Коммода) завладел телом, не допустил осквернения, и в конце концов Коммод был погребен в мавзолее Адриана.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COMMODUS_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Будьте уверены, Рим никогда не прекратит попытки стать самой большой империей в игре. Впрочем, Коммод, вероятно, пренебрежет этим ради своих игр.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_COMMODUS_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Рим хочет быстро построить города, а затем изучить инженерное дело. С появлением инженерного дела к городам могут быть добавлены бани, что позволит им быстрее расти (и быстро расширяться благодаря вниманию Коммода к развлекательным комплексам). Их способность «Все дороги ведут в Рим» приносит стабильный доход от сети городов ([ICON_TradeRoute] торговые пути, ведущие из внутренних городов империи в чужие земли, должны работать хорошо; не все их [ICON_TradeRoute] торговые пути должны быть внутренними). Это расширение наверняка приведет к конфликту, но как раз к этому времени появится возможность создавать легионы. Способность легиона строить форты появляется у Рима на две эпохи раньше, чем у других цивилизаций. Их эффективное использование - ключ к удержанию обширной и могущественной империи.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Приветствую, правитель. Я непобедимый римский Геракл, Коммод, император Рима. Разве моя империя не самая впечатляющая из всех, что ты видел?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Приходи, ты должен увидеть Рим. Он лучше любого города, который ты видел.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Ну если уж надо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Давай посмотрим, какая у тебя столица. Она не будет такой впечатляющей, как моя, конечно, но хоть что-то. Ну, если только ты не живешь в шатре...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Опять ты...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Ладно, приму твою делегацию, если придется.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Мне некогда возиться с твоими глупыми делегациями. Я отослал их назад.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Встреть мою делегацию со всем причитающимся мне почтением, или сильно меня разгневаешь. Тогда можешь развлекаться с юными мальчиками, которых я тебе отправил.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Хорошо, давай покончим с этим.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Зачем мне это? Ты правда не понимаешь, с кем говоришь?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Думаю, нам нужно открыть границы. Пусть твои люди приедут в Рим и увидят его игры.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Хорошо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Ты шутишь... Неужели ты настолько глуп?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Ты называешь себя другом? Так докажи это, заявив об этом публично.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Ладно, ладно, как скажешь. Мне уже скучно...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Не думаю...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Мне пригодился бы кто-то вроде тебя для защиты Рима. Согласен на союз?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Что ж, ты заботишься о довольстве своего народа, я - о своем. Мы могли бы поладить.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Ты думаешь, что можешь стоять со мной вровень? Ты не достоин даже стоять рядом.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Твоим людям не место на границах Рима. Немедленно убери их!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COMMODUS_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_COMMODUS_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>О, вот как? Хочешь увидеть мою ярость, да?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Ты отрываешь меня от постели и любовников. Хотел бы я, чтобы ты просто перестал мне докучать (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_POPULUS_SENATUSQUE_LEADS_INCOME" Language="ru_RU">
+			<Text>(У вас много золота.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_POPULUS_SENATUSQUE_LEADS_FAITH" Language="ru_RU">
+			<Text>(У вас много веры.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>С радостью, твоя смерть станет зрелищем для моего народа.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Мой народ требует славы. Думаю, твоей крови ему будет в самый раз.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Жалко, но ладно, пусть.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Ха. Сражайся со мной честно, трус.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Мне надоела эта война. Есть занятия получше. Давай покончим с ней.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>Рим не проживет без меня. Он падет на свой меч, но не примет другого.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_COMMODUS_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_COMMODUS_ANY]</Text>
+		</Replace>
+		<Replace Tag="LOC_RESOURCE_JFD_COMMODUS_NAME" Language="ru_RU">
+			<Text>Плебейские игры</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_JFD_PLEBEIAN_GAMES_NAME" Language="ru_RU">
+			<Text>Плебейские игры</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_JFD_PLEBEIAN_GAMES_SHORT_NAME" Language="ru_RU">
+			<Text>Плебейские игры</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_JFD_PLEBEIAN_GAMES_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный проект района Рима, если Коммод является лидером. Пока активен, дает +1 [ICON_Amenities] довольства, [ICON_CULTURE] культуры и [ICON_FAITH] веры, а по завершении - очки [ICON_GREATGENERAL] великого полководца.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

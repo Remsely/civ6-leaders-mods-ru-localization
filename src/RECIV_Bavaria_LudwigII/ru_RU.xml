@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- ЦИВИЛИЗАЦИЯ -->
+		<Replace Tag="LOC_CIVILIZATION_JNR_BAVARIA_NAME" Language="ru_RU">
+			<Text>Бавария|Баварии|Баварии|Баварию|Баварией|Баварии</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_JNR_BAVARIA_DESCRIPTION" Language="ru_RU">
+			<Text>Баварская империя|Баварской империи|Баварской империи|Баварскую империю|Баварской империей|Баварской империи</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_JNR_BAVARIA_ADJECTIVE" Language="ru_RU">
+			<Text>баварск.|баварск.|баварск.|баварск.|баварск.|баварск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_JNR_BAVARIA_LOCATION" Language="ru_RU">
+			<Text>Европа</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_JNR_BAVARIA_SIZE" Language="ru_RU">
+			<Text>Предположительно 76 тыс. кв. км (29 тыс. кв. миль) в 1840 году, вместе с Пфальцем</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_JNR_BAVARIA_POPULATION" Language="ru_RU">
+			<Text>Предположительно 4,4 млн в 1840 году, вместе с Пфальцем</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_JNR_BAVARIA_CAPITAL" Language="ru_RU">
+			<Text>Регенсбург до 1255 года, позднее Мюнхен</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_JNR_WEISS_BLAU_NAME" Language="ru_RU">
+			<Text>Бело-синяя родина</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_JNR_WEISS_BLAU_DESCRIPTION" Language="ru_RU">
+			<Text>+1 к привлекательности на всех клетках. Клетки с притягивающей привлекательностью получают +1 [ICON_FAITH] веры при улучшенном бонусном ресурсе, +1 [ICON_CULTURE] культуры при улучшенном роскошном ресурсе и +1 [ICON_SCIENCE] науки при улучшенном стратегическом ресурсе. На клетках с потрясающей привлекательностью эти показатели удваиваются.</Text>
+		</Replace>
+		<!-- РАЙОН -->
+		<Replace Tag="LOC_DISTRICT_JNR_DULT_NAME" Language="ru_RU">
+			<Text>Дульт|Дульта|Дульту|Дульт|Дультом|Дульте</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_JNR_DULT_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный район Баварии. Заменяет район развлекательного комплекса, дает +2 [ICON_Amenities] довольства и дешевле в строительстве. Также дает +1 [ICON_Amenities] довольства за каждое чудо света в этом городе.[NEWLINE]Дает крупные бонусы за соседство театральным площадям, центрам коммерции и священным местам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_JNR_DULT_DESCRIPTION_UC" Language="ru_RU">
+			<Text>Уникальный район Баварии. Заменяет район развлекательного комплекса, дает +2 [ICON_Amenities] довольства и дешевле в строительстве. Также дает +1 [ICON_Amenities] довольства за каждое чудо света в этом городе.[NEWLINE]Дает дополнительный стандартный бонус за соседство священным местам.[NEWLINE]Получает дополнительный стандартный бонус за соседство со священными местами и фермами.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_JNR_DULT_GOLD" Language="ru_RU">
+			<Text>+{1_num} [ICON_Gold] золота от соседнего района Дульт.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_JNR_DULT_FAITH" Language="ru_RU">
+			<Text>+{1_num} [ICON_Faith] веры от соседнего района Дульт.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_JNR_DULT_CULTURE" Language="ru_RU">
+			<Text>+{1_num} [ICON_Culture] культуры от соседнего района Дульт.</Text>
+		</Replace>
+		<!-- ЮНИТЫ -->
+		<Replace Tag="LOC_UNIT_JNR_BAVARIAN_GEBIRGSSCHUETZE_NAME" Language="ru_RU">
+			<Text>Гебиргсшютце|гебиргсшютце|гебиргсшютце|гебиргсшютце|гебиргсшютце|гебиргсшютце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_GEBIRGSSCHUETZE_DEFENSION_NAME" Language="ru_RU">
+			<Text>Ландесдефензион</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_GEBIRGSSCHUETZE_DEFENSION_DESCRIPTION" Language="ru_RU">
+			<Text>+4 к [ICON_Strength] боевой мощи на клетках с притягивающей привлекательностью, а на клетках с потрясающей привлекательностью - до +8 к [ICON_Strength] боевой мощи.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_GEBIRGSSCHUETZE_DEFENSION_DESCRIPTION_CHARMING" Language="ru_RU">
+			<Text>+{1_Amount} от притягивающей привлекательности</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_GEBIRGSSCHUETZE_DEFENSION_DESCRIPTION_BREATHTAKING" Language="ru_RU">
+			<Text>+{1_Amount} от потрясающей привлекательности</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_GEBIRGSSCHUETZE_TRADITION_NAME" Language="ru_RU">
+			<Text>Почетный караул</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_GEBIRGSSCHUETZE_TRADITION_DESCRIPTION" Language="ru_RU">
+			<Text>За каждое полученное повышение дает +1 [ICON_CULTURE] культуры, пока юнит находится в районе Дульт.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_GEBIRGSSCHUETZE_TRADITION_DESCRIPTION_GOV" Language="ru_RU">
+			<Text>За каждое полученное повышение дает +1 [ICON_CULTURE] культуры, пока юнит находится в районе Дульт, или +1 [ICON_FAVOR] мирового влияния, пока он находится на правительственной площади.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_GEBIRGSSCHUETZE_TRADITION_DESCRIPTION_DIPLO" Language="ru_RU">
+			<Text>За каждое полученное повышение дает +1 [ICON_CULTURE] культуры, пока юнит находится в районе Дульт, или +1 [ICON_FAVOR] мирового влияния, пока он находится на правительственной площади или в дипломатическом квартале.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JNR_BAVARIAN_GEBIRGSSCHUETZE_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный баварский юнит Промышленной эры, заменяющий рейнджера.[NEWLINE]{LOC_ABILITY_JNR_GEBIRGSSCHUETZE_DEFENSION_DESCRIPTION}[NEWLINE]{LOC_ABILITY_JNR_GEBIRGSSCHUETZE_TRADITION_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JNR_BAVARIAN_GEBIRGSSCHUETZE_DESCRIPTION_GOV" Language="ru_RU">
+			<Text>Уникальный баварский юнит Промышленной эры, заменяющий рейнджера.[NEWLINE]{LOC_ABILITY_JNR_GEBIRGSSCHUETZE_DEFENSION_DESCRIPTION}[NEWLINE]{LOC_ABILITY_JNR_GEBIRGSSCHUETZE_TRADITION_DESCRIPTION_GOV}</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JNR_BAVARIAN_GEBIRGSSCHUETZE_DESCRIPTION_DIPLO" Language="ru_RU">
+			<Text>Уникальный баварский юнит Промышленной эры, заменяющий рейнджера.[NEWLINE]{LOC_ABILITY_JNR_GEBIRGSSCHUETZE_DEFENSION_DESCRIPTION}[NEWLINE]{LOC_ABILITY_JNR_GEBIRGSSCHUETZE_TRADITION_DESCRIPTION_DIPLO}</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JNR_BAVARIAN_PAPPENHEIMER_NAME" Language="ru_RU">
+			<Text>Паппенгеймер|паппенгеймера|паппенгеймеру|паппенгеймера|паппенгеймером|паппенгеймере</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_PAPPENHEIMER_MAGDEBURG_NAME" Language="ru_RU">
+			<Text>Магдебургская свадьба</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_PAPPENHEIMER_MAGDEBURG_DESCRIPTION" Language="ru_RU">
+			<Text>Разграбление стоит всего 1 [ICON_Movement] очко перемещения.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_PAPPENHEIMER_CATHOLIC_LEAGUE_NAME" Language="ru_RU">
+			<Text>Католическая лига</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_PAPPENHEIMER_CATHOLIC_LEAGUE_DESCRIPTION" Language="ru_RU">
+			<Text>+5 к [ICON_Strength] боевой мощи во время текущей враждебной чрезвычайной ситуации.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JNR_PAPPENHEIMER_CATHOLIC_LEAGUE_DESCRIPTION_COMBAT" Language="ru_RU">
+			<Text>+{Amount} от текущей враждебной чрезвычайной ситуации</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JNR_BAVARIAN_PAPPENHEIMER_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный баварский юнит эпохи Возрождения, заменяющий кирасиров.[NEWLINE]{LOC_ABILITY_JNR_PAPPENHEIMER_MAGDEBURG_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JNR_BAVARIAN_PAPPENHEIMER_DESCRIPTION_XP1" Language="ru_RU">
+			<Text>Уникальный баварский юнит эпохи Возрождения, заменяющий кирасиров.[NEWLINE]{LOC_ABILITY_JNR_PAPPENHEIMER_MAGDEBURG_DESCRIPTION}[NEWLINE]{LOC_ABILITY_JNR_PAPPENHEIMER_CATHOLIC_LEAGUE_DESCRIPTION}</Text>
+		</Replace>
+		<!-- ГОРОДА -->
+		<Replace Tag="LOC_CITY_NAME_INGOLSTADT" Language="ru_RU">
+			<Text>Ингольштадт</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BAYREUTH" Language="ru_RU">
+			<Text>Байройт</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PASSAU" Language="ru_RU">
+			<Text>Пассау</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_COBURG" Language="ru_RU">
+			<Text>Кобург</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LANDSHUT" Language="ru_RU">
+			<Text>Ландсхут</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ERLANGEN" Language="ru_RU">
+			<Text>Эрланген</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BAMBERG" Language="ru_RU">
+			<Text>Бамберг</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCHWEINFURT" Language="ru_RU">
+			<Text>Швайнфурт</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FURTH" Language="ru_RU">
+			<Text>Фюрт</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FREISING" Language="ru_RU">
+			<Text>Фрайзинг</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HOF" Language="ru_RU">
+			<Text>Хоф</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMBERG" Language="ru_RU">
+			<Text>Амберг</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANSBACH" Language="ru_RU">
+			<Text>Ансбах</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ROSENHEIM" Language="ru_RU">
+			<Text>Розенхайм</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KEMPTEN" Language="ru_RU">
+			<Text>Кемптен</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STRAUBING" Language="ru_RU">
+			<Text>Штраубинг</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BAD_KISSINGEN" Language="ru_RU">
+			<Text>Бад-Киссинген</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ASCHAFFENBURG" Language="ru_RU">
+			<Text>Ашаффенбург</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MEMMINGEN" Language="ru_RU">
+			<Text>Мемминген</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ERDING" Language="ru_RU">
+			<Text>Эрдинг</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PARTENKIRCHEN" Language="ru_RU">
+			<Text>Партенкирхен</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TRAUNSTEIN" Language="ru_RU">
+			<Text>Траунштайн</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NORDLINGEN" Language="ru_RU">
+			<Text>Нердлинген</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STARNBERG" Language="ru_RU">
+			<Text>Штарнберг</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OBERSTORF" Language="ru_RU">
+			<Text>Оберстдорф</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BAD_TOLZ" Language="ru_RU">
+			<Text>Бад-Тельц</Text>
+		</Replace>
+		<!-- ИМЕНА ГРАЖДАН -->
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MALE_1" Language="ru_RU">
+			<Text>Андерль</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MALE_2" Language="ru_RU">
+			<Text>Густль</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MALE_3" Language="ru_RU">
+			<Text>Одило</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MALE_4" Language="ru_RU">
+			<Text>Шорш</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MALE_5" Language="ru_RU">
+			<Text>Зепп</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MALE_6" Language="ru_RU">
+			<Text>Штахус</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MALE_7" Language="ru_RU">
+			<Text>Тассило</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MALE_8" Language="ru_RU">
+			<Text>Тони</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MALE_9" Language="ru_RU">
+			<Text>Файт</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MALE_10" Language="ru_RU">
+			<Text>Вигерль</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_FEMALE_1" Language="ru_RU">
+			<Text>Бербль</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_FEMALE_2" Language="ru_RU">
+			<Text>Додо</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_FEMALE_3" Language="ru_RU">
+			<Text>Эви</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_FEMALE_4" Language="ru_RU">
+			<Text>Гретль</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_FEMALE_5" Language="ru_RU">
+			<Text>Ханнерль</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_FEMALE_6" Language="ru_RU">
+			<Text>Лизль</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_FEMALE_7" Language="ru_RU">
+			<Text>Мария</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_FEMALE_8" Language="ru_RU">
+			<Text>Рези</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_FEMALE_9" Language="ru_RU">
+			<Text>Траудль</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_FEMALE_10" Language="ru_RU">
+			<Text>Ценци</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_MALE_1" Language="ru_RU">
+			<Text>Алоис</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_MALE_2" Language="ru_RU">
+			<Text>Антон</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_MALE_3" Language="ru_RU">
+			<Text>Фердинанд</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_MALE_4" Language="ru_RU">
+			<Text>Франц</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_MALE_5" Language="ru_RU">
+			<Text>Корбиниан</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_MALE_6" Language="ru_RU">
+			<Text>Леопольд</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_MALE_7" Language="ru_RU">
+			<Text>Людвиг</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_MALE_8" Language="ru_RU">
+			<Text>Максимилиан</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_MALE_9" Language="ru_RU">
+			<Text>Северин</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_MALE_10" Language="ru_RU">
+			<Text>Ксавер</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_FEMALE_1" Language="ru_RU">
+			<Text>Антония</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_FEMALE_2" Language="ru_RU">
+			<Text>Доротея</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_FEMALE_3" Language="ru_RU">
+			<Text>Елизавета</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_FEMALE_4" Language="ru_RU">
+			<Text>Франциска</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_FEMALE_5" Language="ru_RU">
+			<Text>Лотти</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_FEMALE_6" Language="ru_RU">
+			<Text>Штеффи</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_FEMALE_7" Language="ru_RU">
+			<Text>Тереза</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_FEMALE_8" Language="ru_RU">
+			<Text>Зузи</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_FEMALE_9" Language="ru_RU">
+			<Text>Виктория</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JNR_BAVARIA_MODERN_FEMALE_10" Language="ru_RU">
+			<Text>Врони</Text>
+		</Replace>
+		<!-- РЕКИ, ГОРЫ, ОЗЕРА -->
+		<Replace Tag="LOC_NAMED_RIVER_MAIN_NAME" Language="ru_RU">
+			<Text>Река Майн</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_ISAR_NAME" Language="ru_RU">
+			<Text>Река Изар</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_INN_NAME" Language="ru_RU">
+			<Text>Река Инн</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_ILLER_NAME" Language="ru_RU">
+			<Text>Река Иллер</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_LECH_NAME" Language="ru_RU">
+			<Text>Река Лех</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_ALTMUEHL_NAME" Language="ru_RU">
+			<Text>Река Альтмюль</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_WERTACH_NAME" Language="ru_RU">
+			<Text>Река Вертах</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_PARKSTEIN_NAME" Language="ru_RU">
+			<Text>Парксштайн</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LINDENSTUMPF_NAME" Language="ru_RU">
+			<Text>Линденштумпф</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_RAUHER_KULM_NAME" Language="ru_RU">
+			<Text>Рауэр-Кульм</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_BAVARIAN_FOREST_NAME" Language="ru_RU">
+			<Text>Баварский Лес</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_UPPER_PALATINE_FOREST_NAME" Language="ru_RU">
+			<Text>Верхнепфальцский Лес</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_FICHTEL_MOUNTAINS_NAME" Language="ru_RU">
+			<Text>Фихтельгебирге</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_FRANCONIAN_JURA_NAME" Language="ru_RU">
+			<Text>Франконская Юра</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_TEGERNSEE_NAME" Language="ru_RU">
+			<Text>Тегернзе</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_STAFFELSEE_NAME" Language="ru_RU">
+			<Text>Штаффельзе</Text>
+		</Replace>
+		<!-- ДИНАМИЧЕСКИЕ ИМЕНА (Nomina) -->
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MONARCHY_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Граф {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MONARCHY_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Графиня {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MONARCHY_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Графство {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MONARCHY_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Графство {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MONARCHY_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Князь {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MONARCHY_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княгиня {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MONARCHY_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княжество {2_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MONARCHY_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княжество {2_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MONARCHY_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Герцог {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MONARCHY_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Герцогиня {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MONARCHY_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Герцогство {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MONARCHY_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Герцогство {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MONARCHY_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Король {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MONARCHY_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Королева {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MONARCHY_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Королевство {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MONARCHY_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Королевство {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_THEOCRACY_MILITARY_ORDER_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Великий магистр {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_THEOCRACY_MILITARY_ORDER_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Великая магистресса {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_THEOCRACY_MILITARY_ORDER_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Королевский {1_Adjective} орден Святого Георгия</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_THEOCRACY_MILITARY_ORDER_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Королевский {1_Adjective} орден Святого Георгия</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_THEOCRACY_CHRISTIAN_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Князь-аббат {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_THEOCRACY_CHRISTIAN_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княгиня-аббатиса {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_THEOCRACY_CHRISTIAN_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княжеское аббатство {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_THEOCRACY_CHRISTIAN_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княжеское аббатство {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_THEOCRACY_CHRISTIAN_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Князь-епископ {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_THEOCRACY_CHRISTIAN_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княгиня-епископесса {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_THEOCRACY_CHRISTIAN_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княжество-епископство {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_THEOCRACY_CHRISTIAN_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княжество-епископство {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_THEOCRACY_CHRISTIAN_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Князь-архиепископ {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_THEOCRACY_CHRISTIAN_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княгиня-архиепископесса {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_THEOCRACY_CHRISTIAN_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княжество-архиепископство {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_THEOCRACY_CHRISTIAN_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Княжество-архиепископство {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_THEOCRACY_CHRISTIAN_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Папа {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_THEOCRACY_CHRISTIAN_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Папесса {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_THEOCRACY_CHRISTIAN_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Папство {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_THEOCRACY_CHRISTIAN_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Папство {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_THEOCRACY_PROTESTANT_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Пастор {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_THEOCRACY_PROTESTANT_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Пасторша {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_THEOCRACY_PROTESTANT_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Община {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_THEOCRACY_PROTESTANT_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Община {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_THEOCRACY_PROTESTANT_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Декан {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_THEOCRACY_PROTESTANT_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Декан {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_THEOCRACY_PROTESTANT_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Деканат {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_THEOCRACY_PROTESTANT_SMALL_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Деканат {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_THEOCRACY_PROTESTANT_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Епископ региона {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_THEOCRACY_PROTESTANT_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Епископесса региона {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_THEOCRACY_PROTESTANT_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Епископство {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_THEOCRACY_PROTESTANT_MEDIUM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Епископство {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_THEOCRACY_PROTESTANT_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Земельный епископ {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_THEOCRACY_PROTESTANT_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Земельный епископ {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_THEOCRACY_PROTESTANT_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>{1_Adjective} евангелическая церковь</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_THEOCRACY_PROTESTANT_LARGE_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>{1_Adjective} евангелическая церковь</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MERCHANT_REPUBLIC_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Бургомистр {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MERCHANT_REPUBLIC_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Бургомистр {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MERCHANT_REPUBLIC_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Вольный город {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MERCHANT_REPUBLIC_TINY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Вольный город {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MERCHANT_REPUBLIC_SMALL_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Первый лозунгер {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MERCHANT_REPUBLIC_SMALL_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Первая лозунгерин {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MERCHANT_REPUBLIC_SMALL_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Вольный город {2_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MERCHANT_REPUBLIC_SMALL_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Вольный город {2_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MERCHANT_REPUBLIC_MEDIUM_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Обер-бургомистр {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MERCHANT_REPUBLIC_MEDIUM_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Обер-бургомистр {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MERCHANT_REPUBLIC_MEDIUM_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Республика {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MERCHANT_REPUBLIC_MEDIUM_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Республика {1_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MERCHANT_REPUBLIC_LARGE_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Председатель {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MERCHANT_REPUBLIC_LARGE_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Председательница {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MERCHANT_REPUBLIC_LARGE_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Баварская лига</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MERCHANT_REPUBLIC_LARGE_LAND_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Баварская лига</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MERCHANT_REPUBLIC_SMALL_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Первый лозунгер {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MERCHANT_REPUBLIC_SMALL_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Первая лозунгерин {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MERCHANT_REPUBLIC_SMALL_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Вольный город {2_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MERCHANT_REPUBLIC_SMALL_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Вольный город {2_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MERCHANT_REPUBLIC_MEDIUM_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Обер-бургомистр {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MERCHANT_REPUBLIC_MEDIUM_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Обер-бургомистр {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MERCHANT_REPUBLIC_MEDIUM_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Республика {2_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MERCHANT_REPUBLIC_MEDIUM_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Республика {2_Capital}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_MERCHANT_REPUBLIC_LARGE_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Председатель {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_MERCHANT_REPUBLIC_LARGE_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Председательница {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_MERCHANT_REPUBLIC_LARGE_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Баварская лига</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_MERCHANT_REPUBLIC_LARGE_SEA_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Баварская лига</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_FASCISM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Генеральный государственный комиссар {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_FASCISM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Генеральный государственный комиссар {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_FASCISM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>{1_Adjective} Орднунгсцелле</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_FASCISM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>{1_Adjective} Орднунгсцелле</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_COMMUNISM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Генеральный секретарь {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_COMMUNISM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Генеральный секретарь {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_COMMUNISM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Баварская советская республика</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_COMMUNISM_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Баварская советская республика</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MALE_GOVERNMENT_DEMOCRACY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Премьер-министр {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FEMALE_GOVERNMENT_DEMOCRACY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Премьер-министр {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_SHORT_CIV_GOVERNMENT_DEMOCRACY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Свободное государство {1_Name}</Text>
+		</Replace>
+		<Replace Tag="LOC_LONG_CIV_GOVERNMENT_DEMOCRACY_CIVILIZATION_JNR_BAVARIA" Language="ru_RU">
+			<Text>Свободное государство {1_Name}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

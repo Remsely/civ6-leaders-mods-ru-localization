@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- ЛИДЕР: ДИПЛОМАТИЯ -->
+		<Replace Tag="LOC_AGENDA_LEU_PORFIRIO_NAME" Language="ru_RU">
+			<Text>Меньше политики, больше управления</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_LEU_PORFIRIO_DESCRIPTION" Language="ru_RU">
+			<Text>Уважает цивилизации, которые лидируют по завершению специализированных проектов районов и разделяют его форму правления. Не любит цивилизации с другой формой правления, терпящие рядом с собой бандитов и варваров, и считает их своими врагами.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_LEU_PORFIRIO_POSITIVE" Language="ru_RU">
+			<Text>Порфирио нравятся цивилизации, разделяющие его форму правления и застроившие свои города районами.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Да, покажите миру, что наш способ управления - настоящий путь к прогрессу. Мы с вами верим в настоящее будущее.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_LEU_PORFIRIO_REASON_ANY" Language="ru_RU">
+			<Text>(У вас та же форма правления, и у вас много районов)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_LEU_PORFIRIO_NEGATIVE" Language="ru_RU">
+			<Text>Порфирио не любит цивилизации, которые не разделяют его форму правления и оставляют варваров в живых.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Ваша форма правления полна анархии! И бандиты, свободно разгуливающие по вашим землям, - лучшее тому доказательство.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_LEU_PORFIRIO_REASON_ANY" Language="ru_RU">
+			<Text>(У вас другая форма правления, и вы терпите варваров близ своей территории)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Приветствую вас от имени Мексики - я ее президент, Хосе де ла Крус Порфирио Диас. Надеюсь, вы тоже видите ценность сильной власти, образованного населения и трудолюбивого народа.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Я построил в Мексике много станций, вы можете доехать по ним до столицы, чтобы мы представились друг другу как джентльмены!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Почту за честь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Я предлагаю историческую встречу на высшем уровне в моей столице. Не хотели бы вы принять в ней участие?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Я отправил несколько дипломатов в вашу столицу вместе с моими гуардиями рурал. Относитесь к ним так, как относились бы ко мне.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Их немедленно разместят..</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Думаю, нет.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Рад вас видеть.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Прошу вашего дальнейшего сотрудничества во имя прогресса и производства.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Согласен, я немедленно отправлю патрули, чтобы истребить бандитов!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Я намерен держать свои границы под жестким контролем.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Мои сьентификос согласны, вместе мы пойдем далеко.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Боюсь, лесть в моей администрации далеко не заведет.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Я, быть может, суров, но Мексика процветает благодаря этому! В этот день вы совершили ошибку.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Вы не приносите жертв ради своего народа. Вы не патриот. Вы не герой! Не говорите со мной! (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Хорошо, это наверняка поспособствует развитию.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Я не люблю бандитов, а вы ведете себя как один из них.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Наша объединенная сила могла бы утвердить наш авторитет по всему миру. Прошу вас принять участие.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Что? Вы не понимаете, чем рискуете?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Я намерен установить мир как можно скорее, и если для этого придется вас уничтожить, я сделаю это энергично.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Вы показали, что не желаете дружбы. Вместо этого вы получите быструю взбучку!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Мне не нужен этот ложный мир, который вы предлагаете.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Нашим нациям нужен мир, чтобы мы могли думать и работать. Поэтому я предлагаю эти условия.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Я победил, потому что делаю то, что необходимо. И теперь я делаю это как для вашего народа, так и для моего.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LEU_PORFIRIO_ANY" Language="ru_RU">
+			<Text>Мексика нуждалась во мне. Я был суров, но справедлив. Но теперь я вынужден уйти в отставку и могу лишь просить, чтобы вы оказались способным преемником.</Text>
+		</Replace>
+		<!-- ЛИДЕР: ЦИВИЛОПЕДИЯ -->
+		<Replace Tag="LOC_LEADER_LEU_PORFIRIO_NAME" Language="ru_RU">
+			<Text>Порфирио Диас|Порфирио Диаса|Порфирио Диасу|Порфирио Диаса|Порфирио Диасом|Порфирио Диасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PORFIRIO_TITLE" Language="ru_RU">
+			<Text>Хосе де ла Крус Порфирио Диас Мори</Text>
+		</Replace>
+		<Replace Tag="PEDIA_LEADERS_PAGE_LEADER_LEU_PORFIRIO_SUBTITLE" Language="ru_RU">
+			<Text>Президент Мексики</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LEU_PORFIRIO_01" Language="ru_RU">
+			<Text>Мехико</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PORFIRIO_QUOTE" Language="ru_RU">
+			<Text>Единственный способ управлять этой страной - так, как это делал я; суровый опыт научит вас этому уроку..</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_LEU_PORFIRIO" Language="ru_RU">
+			<Text>Генерал Диас! Мексиканский народ жаждет вашего руководства! Понадобятся ваш просвещенный ум и твердая рука, чтобы вывести страну на путь порядка и прогресса. Возьмите народ под свое командование: и сила его оружия, и крепость его духа обеспечат Мексике место среди великих держав мира!</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_LEU_PORFIRIO_NAME" Language="ru_RU">
+			<Text>Лос Сьентификос</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_LEU_PORFIRIO_DESCRIPTION" Language="ru_RU">
+			<Text>Великие инженеры, великие торговцы и великие ученые, приобретенные в [ICON_Glory_Golden_Age]Золотой век, получают дополнительный заряд. [NEWLINE]Становится доступна гуардия рурал после открытия технологии «Нарезные стволы».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PORFIRIO_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Бонус Золотого века у Порфирио дает возможность с помощью проектов получить всех великих людей для нужной вам победы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PORFIRIO_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Играя за Порфирио, будьте готовы использовать своих полководцев, чтобы начать Золотой век Порфириата. Бонус Золотого века дает прекрасную возможность получить всех великих людей, нужных для вашей победы, и особенно полезен, если вы стремитесь к победе по культуре.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PORFIRIO_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Хосе де ла Крус Порфирио Диас Мори (1830-1915) был мексиканским генералом, президентом, политиком и диктатором. Он правил Мексикой железной рукой 35 лет, с 1876 по 1911 год. Период его правления, называемый Порфириатом, отмечен большим прогрессом и модернизацией, экономика Мексики росла бурно. Однако плоды этого ощутили очень немногие, поскольку миллионы пеонов трудились почти в рабстве. Он потерял власть в 1910-1911 годах после фальсификации выборов против Франсиско И. Мадеро, что привело к Мексиканской революции (1910-1920).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PORFIRIO_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Порфирио Диас родился метисом, то есть потомком индейцев и европейцев, в штате Оахака в 1830 году. Он родился в крайней бедности и так и не достиг полной грамотности. Он занимался правом, но в 1855 году присоединился к отряду либеральных партизан, воевавших против вновь поднявшегося Антонио Лопеса де Санта-Анны. Вскоре он обнаружил, что армия - его настоящее призвание, и остался в армии, сражаясь против французов и в гражданских войнах, терзавших Мексику в середине и конце XIX века. Он оказался на стороне либерального политика и восходящей звезды Бенито Хуареса, хотя лично они никогда не были дружны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PORFIRIO_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>5 мая 1862 года мексиканские войска под командованием генерала Игнасио Сарагосы разбили значительно более многочисленные и лучше оснащенные французские силы вторжения близ города Пуэбла. Эту битву мексиканцы ежегодно отмечают как «Синко де Майо». Одним из ключевых участников сражения был молодой генерал Порфирио Диас, командовавший кавалерийским отрядом.  Хотя битва при Пуэбле лишь отсрочила неизбежный поход французов на Мехико, она сделала Диаса знаменитым и закрепила за ним репутацию одного из лучших военных умов на службе у Хуареса.  Диас продолжал сражаться на стороне либералов во время недолгого правления Максимилиана Австрийского (1864-1867) и сыграл важную роль в восстановлении Хуареса на посту президента.  Однако их отношения оставались прохладными, и Диас баллотировался против Хуареса в 1871 году. Проиграв, Диас поднял мятеж, и Хуаресу потребовалось четыре месяца, чтобы подавить восстание. Амнистированный в 1872 году после внезапной смерти Хуареса, Диас начал замышлять возвращение к власти. При поддержке Соединенных Штатов и католической церкви он ввел армию в Мехико в 1876 году, сместил президента Себастьяна Лердо де Техаду и захватил власть в сомнительных «выборах».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PORFIRIO_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>Дон Порфирио оставался у власти до 1911 года. Он был президентом все это время, кроме 1880-1884 годов, когда правил через своего ставленника Мануэля Гонсалеса. После 1884 года он отказался от фарса правления через кого-то другого и несколько раз переизбирал себя, иногда нуждаясь в том, чтобы его подобранный лично Конгресс изменял Конституцию, позволяя ему это. Он удерживал власть искусным манипулированием влиятельными элементами мексиканского общества, давая каждому ровно столько пирога, чтобы тот оставался доволен. Исключены полностью были только бедные.  Диас создал экономический бум, позволив иностранным инвестициям освоить огромные ресурсы Мексики. Деньги потекли из Соединенных Штатов и Европы, и вскоре были построены шахты, плантации и фабрики, гудевшие от производства.  Американцы и британцы вкладывали крупные средства в шахты и нефть, у французов были большие текстильные фабрики, а немцы контролировали фармацевтическую и скобяную промышленность. Многие испанцы приезжали в Мексику работать торговцами и на плантациях, где их презирали бедные рабочие. Экономика росла бурно, и были проложены многие мили железнодорожных путей, соединивших все важные города и порты.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_PORFIRIO_CHAPTER_HISTORY_PARA_5" Language="ru_RU">
+			<Text>В 1910 году Диас объявил, что допустит честные и свободные выборы. Оторванный от реальности, он считал, что выиграет любую честную борьбу. Франсиско И. Мадеро, писатель и спирит из богатой семьи, решил баллотироваться против Диаса. У Мадеро не было каких-либо великих, дальновидных идей для Мексики, он просто наивно полагал, что Диасу пора уйти в сторону, а он не хуже любого другого, чтобы занять его место. Диас арестовал Мадеро и украл выборы, когда стало ясно, что Мадеро победит. Освобожденный Мадеро бежал в Соединенные Штаты, объявил себя победителем и призвал к вооруженной революции.  Многие откликнулись на призыв Мадеро. В Морелосе Эмилиано Сапата уже около года боролся с могущественными землевладельцами и быстро поддержал Мадеро. На севере вожди бандитов, ставшие полевыми командирами, Панчо Вилья и Паскуаль Ороско вышли в поле со своими мощными армиями. В мексиканской армии были приличные офицеры, так как Диас хорошо им платил, но рядовые солдаты были недоплачены, больны и плохо обучены. Вилья и Ороско несколько раз разгромили федералов, все ближе подходя к Мехико с Мадеро на буксире. В мае 1911 года Диас понял, что потерпел поражение, и ему позволили отправиться в изгнание.</Text>
+		</Replace>
+		<!-- ЦИВИЛИЗАЦИЯ -->
+		<Replace Tag="LOC_CIVILIZATION_LEU_MEXICO_NAME" Language="ru_RU">
+			<Text>Мексика|Мексики|Мексике|Мексику|Мексикой|Мексике</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LEU_MEXICO_DESCRIPTION" Language="ru_RU">
+			<Text>Мексиканская империя|Мексиканской империи|Мексиканской империи|Мексиканскую империю|Мексиканской империей|Мексиканской империи</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LEU_MEXICO_ADJECTIVE" Language="ru_RU">
+			<Text>мексиканск.|мексиканск.|мексиканск.|мексиканск.|мексиканск.|мексиканск.</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LEU_MEXICO_DESCRIPTION_JFD_CIVILIZATION" Language="ru_RU">
+			<Text>Мексиканская цивилизация</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_LEU_MEXICO_NAME" Language="ru_RU">
+			<Text>Три культуры</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_LEU_MEXICO_DESCRIPTION" Language="ru_RU">
+			<Text>+2 [ICON_Production] производства от [ICON_GreatWork_Portrait]шедевров-портретов и [ICON_GreatWork_Landscape]шедевров-пейзажей.[NEWLINE]+4 [ICON_Culture]культуры от [ICON_GreatWork_Artifact]артефактов и [ICON_GreatWork_Sculpture]шедевров-скульптур.[NEWLINE]+4 [ICON_Faith]веры от [ICON_GreatWork_Relic]реликвий и [ICON_GreatWork_Religious]религиозных шедевров.[NEWLINE]Монументы получают 2 ячейки для [ICON_GreatWork_Portrait] шедевров искусства.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_LEU_MEXICO_DESCRIPTION_HERO" Language="ru_RU">
+			<Text>+2 [ICON_Production] производства от [ICON_GreatWork_Portrait]шедевров-портретов и [ICON_GreatWork_Landscape]шедевров-пейзажей.[NEWLINE]+4 [ICON_Culture]культуры от [ICON_GreatWork_Artifact]артефактов и [ICON_GreatWork_Sculpture]шедевров-скульптур.[NEWLINE]+4 [ICON_Faith]веры от [ICON_GreatWork_Relic]реликвий и [ICON_GreatWork_Religious]религиозных шедевров.[NEWLINE][ICON_GreatWork_HeroRelic] Героические реликвии получают все 3 бонуса.[NEWLINE]Монументы получают 2 ячейки для [ICON_GreatWork_Portrait] шедевров искусства.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_LEU_MEXICO_LOCATION" Language="ru_RU">
+			<Text>Северная Америка</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_LEU_MEXICO_POPULATION" Language="ru_RU">
+			<Text>119 530 753</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_LEU_MEXICO_SIZE" Language="ru_RU">
+			<Text>761 610 кв. миль (1 972 550 кв. км)</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_LEU_MEXICO_CAPITAL" Language="ru_RU">
+			<Text>Мехико</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_MEXICO_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>До прихода европейцев Мексика была страной, где уживались разнообразные и богатые по составу культурные группы - от охотников-собирателей чичимеков засушливой северной пустыни до групп гватемальского нагорья в южных джунглях. Власть между этими группами переходила на протяжении веков, и ко времени прихода испанцев ацтеки, большая и могущественная империя, господствовавшая в обширной долине Мехико, были доминирующей цивилизацией региона. Однако их правление продлилось лишь около двухсот лет: они пали не только под натиском испанцев с их передовым оружием и принесенными ими болезнями, но отчасти и благодаря примерно пятидесяти тысячам местных жителей, помогавших конкистадорам завоевать ацтеков, своего рода расплата за налоги и жестокое обращение с данниками.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_MEXICO_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>После падения ацтеков испанцы быстро заинтересовались новыми землями, усеянными золотом, серебром и другими материалами, которые испанская корона считала ценными, и стали посылать колонистов из своих карибских колоний и из Испании в эти новые земли, провозгласив завоеванные земли вице-королевством Новая Испания. Вице-королевство оставалось самой ценной и процветающей колонией королевства на протяжении последующих веков, снабжая и финансируя Испанию богатым сырьем. Забирая земли коренных жителей себе, они сначала делили их между колонистами по системе энкомьенд, или пожалований на дань, а затем перешли к системе асьенд, или земельных пожалований. [NEWLINE][NEWLINE]Тем временем, когда африканские рабы и европейские поселенцы заселяли эту область, прежнее коренное население, по сообщениям, насчитывавшее десятки миллионов, было сокращено завезенной оспой и другими европейскими болезнями, к которым у него не было природного иммунитета, и у испанцев оставались лишь небольшие проблемы с удержанием колонии под контролем; основными центрами сопротивления оставались полуостров Юкатан и менее контролируемые северо-западные районы. Эта система асьенд, эксплуатировавшая землю на пользу Испании, а не колонии, рабство и угнетение коренных жителей продолжались со времени завоевания ацтеков Эрнаном Кортесом до движения за независимость в 1821 году.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_MEXICO_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>По причинам, схожим с другими колониями заморских европейских держав, Мексика и другие испанские колонии в начале 1800-х годов стремились добиться суверенитета от метрополии: десятки тысяч людей вооружились, чтобы бороться за свободу, и в это время появилось множество популярных фигур мексиканской истории. Одним из них был католический священник отец Мигель Идальго-и-Костилья, который 16 сентября 1810 года зазвонил в колокола своей церкви, призывая местных жителей «...вернуть у испанцев землю, украденную у ваших предков...»; эту дату мексиканцы отмечают как день независимости. После казни Идальго испанцами в 1811 году его сменил другой священник, Хосе Мария Морелос-и-Павон, оказавшийся гораздо более способным лидером, чем его предшественник. Морелос созвал национальный конгресс 6 ноября 1812 года, официально объявивший Мексику суверенным образованием, отдельным от Испании.[NEWLINE][NEWLINE] Хотя он был казнен в 1815 году, его армию националистов возглавил генерал Висенте Герреро, и борьба продолжалась еще шесть лет до 1821 года. Из-за разногласий между роялистскими лидерами Мексики и других их слабостей революционное движение продолжало набирать силу, а роялисты переходили на сторону националистов. Один из таких офицеров, Агустин де Итурбиде, объединил силы с Герреро и написал План Игуалы, предусматривавший национальную независимость при конституционной монархии, отныне названной Мексиканской империей. Хотя Итурбиде стал первым императором империи, его правление было недолгим: менее чем через год он был изгнан из Мексики и казнен после возвращения в страну годы спустя. После него родилась новая Мексиканская республика под руководством первого президента Гвадалупе Виктории. При Виктории в Мексике было проведено множество реформ - от образования до установления дипломатических отношений с США, Великобританией, Францией и другими тогдашними великими державами. Однако во время его правления генерал Санта-Анна сохранял статус одного из ведущих политиков новой империи, несмотря на значительные потери Мексики в ходе техасского сепаратистского движения и последовавшей мексикано-американской войны 1846 года, в которой Мексика потеряла Техас и большую часть северо-западных территорий в пользу Соединенных Штатов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_MEXICO_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>Почти полвека после обретения независимости Мексика продолжала стагнировать, оставаясь неподвижной экономически и политически, а простые люди продолжали ощущать на себе тяготы скудной экономики и нестабильной политической системы. Бенито Хуарес стал президентом в 1858 году и добился значительного прогресса в лишении католической церкви власти над Мексикой, издав закон Лердо (Ley Lerdo), который фактически отделил церковь от государства и отменил значительную часть контроля церкви над страной, а затем национализировал церковное имущество, пытаясь дать крестьянству хоть что-то. К сожалению, большая часть этого имущества была быстро выкуплена правящей элитой, почти не дав коренным жителям и крестьянам новых возможностей для процветания и роста. Годы нищей экономики привели к приостановке платежей по иностранным займам, и в 1861 году французские, испанские и британские силы заняли портовый город Веракрус, чтобы взыскать долги, которые страна им задолжала. Британцы и испанцы вскоре ушли, а французы остались и к 1864 году свергли мексиканское правительство, назначив императором Максимилиана I Австрийского. [NEWLINE][NEWLINE] Во время его войны против французского вторжения мексиканские армии выиграли крупное сражение против тактически превосходящих французских сил 5 мая 1862 года, ставшее известным «Синко де Майо», которое мексиканцы отмечают и сегодня. Хотя Соединенные Штаты не могли помочь Мексике в это время в соответствии с доктриной Монро из-за Гражданской войны, после победы Севера США пригрозили отправить войска для поддержания доктрины, французские силы покинули Мексику, а Максимилиан был казнен мексиканцами в 1867 году. Вакуум власти, оставленный вынужденным отречением Максимилиана, обернулся несколькими трудными годами политических потрясений до прихода к власти президента Порфирио Диаса в 1877 году. Его правление принесло значительное расширение мексиканской инфраструктуры и экономики и привлекло в страну интерес иностранных инвесторов. Однако Диас был и тираном, правя Мексикой железной диктатурой все время своего президентства, кроме четырех лет, раздавая огромные участки земли иностранным спекулянтам и своему ближнему кругу друзей и союзников, в то время как подавляющее большинство мексиканцев оставалось нищим, без собственной земли и в долгах перед правительством.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_MEXICO_CHAPTER_HISTORY_PARA_5" Language="ru_RU">
+			<Text>Крепкая хватка Диаса над Мексикой привела к тому, что у мексиканцев вне его ближнего круга практически не было шансов улучшить свое положение в обществе; даже у мексиканцев из семей верхнего среднего класса почти не было возможности продвинуться. На фоне этого неравенства человек по имени Франсиско Мадеро, сын богатой семьи, считается начавшим Мексиканскую революцию в 1910 году после сфальсифицированных выборов. К 1911 году Диас был вынужден покинуть пост, а Мадеро стал президентом Мексики, намереваясь вести нацию согласно своим идеалам. Однако Мадеро был довольно политически неумел, и в результате его президентство было недолгим: племянник Порфирио, Феликс Диас, и генерал Викториано Уэрта объединились в мятеже, свергшем Мадеро, который был казнен вместе с вице-президентом в феврале 1913 года. В это время в Мексике сформировались две новые революционные группы. Сапатисты на юге во главе с Эмилиано Сапатой добивались земли и свободы для крестьян, тогда как на севере губернатор Венустиано Карранса, Панчо Вилья и генерал Альваро Обрегон стремились просто вернуть власть, которую потеряли сторонники Мадеро, такие как они сами. Последовавшие несколько лет были хаотичным временем в мексиканской истории: вспыхнули бои между сапатистами и сторонниками Каррансы, а также сторонниками Диаса. [NEWLINE][NEWLINE] В 1915 году Карранса сумел свергнуть Уэрту и стал президентом, но отдалился от Вильи и других своих сторонников. Сапата был убит вскоре после прихода Каррансы к власти, хотя его программа аграрной реформы стала идеалом революции. Именно в это время Вилья вернулся в штат Чиуауа, где совершал набеги на пограничные города американского юго-запада, приведшие к гибели ряда американских граждан. Это побудило США отправить генерала Джона Дж. Першинга в Мексику, чтобы схватить Панчо Вилью, хотя его попытки были безуспешны. Пока Панчо Вилья совершал эти набеги, Карранса достиг того, что можно назвать его величайшим достижением, - создал Мексиканскую конституцию 1917 года, положившую конец почти четырехсотлетней хватке феодализма в Мексике.[NEWLINE][NEWLINE]Карранса был убит в 1920 году, и на посту президента его сменил генерал Обрегон. Сильный человек с характером, Обрегон мог и хотел проводить в Мексике необходимые социальные реформы во время своего президентства. В 1924 году его сменил генерал Плутарко Элиас Кальес, давний политический союзник Обрегона. Кальес был яростно антицерковным и не любил иностранные капиталовложения, и лишь после долгих уговоров вновь открыл церкви и смягчил враждебность к иностранным правительствам, которые он рассердил. Обрегон был избран на второй срок в 1928 году и в том же году убит, а Кальес контролировал страну еще шесть лет через трех марионеточных президентов от Институционно-революционной партии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_MEXICO_CHAPTER_HISTORY_PARA_6" Language="ru_RU">
+			<Text>Избрание генерала Ласаро Карденаса в 1934 году навсегда изменило страну и ее политику: Карденас выслал Кальеса и начал шестилетний план модернизации Мексики. Он перераспределил больше земли, чем все прежние главы мексиканского государства вместе взятые, построил школы в сельских районах страны и национализировал нефтяную промышленность, одновременно укрепляя профсоюзы. Его преемник Мигель Алеман Вальдес, избранный президентом в 1946 году, отвечал за масштабные общественные работы, включавшие ирригационные сооружения на северо-западе и гидроэлектростанции на юге. Луис Альварес был избран в 1970 году и был президентом до 1976 года. Однако во время его президентства был девальвирован песо после почти четверти века паритета с долларом США. Его преемник Хосе Лопес Портильо руководил страной во время огромного экономического роста, отчасти благодаря буму нефтяной промышленности. Мигель де ла Мадрид Уртадо был избран президентом в 1982 году и унаследовал экономику, страдавшую от снижения цен на нефть после окончания бума, при этом ему пришлось справляться и с внушительным внешним долгом. В 1988 году президентом был избран Карлос Салинас де Гортари на выборах, которые многие называли сфальсифицированными. В 1991 году он приказал закрыть нефтеперерабатывающий завод Мехико в попытке справиться с кризисом загрязнения воздуха в городе. Салинаса сменил в 1994 году Эрнесто Седильо Понсе де Леон, чья победа на выборах была несчастливой случайностью из-за убийства его оппонента Луиса Дональдо Колосио. В 1996 году Седильо и другие лидеры Мексики подписали соглашение о политической реформе, ограничившее расходы на избирательные кампании, а также контроль Институционно-революционной партии над процедурами выборов и подсчетом бюллетеней, и добавившее 17 новых поправок в конституцию Мексики. Вскоре после этого, в 1997 году, шестидесятивосьмилетнее правление партии закончилось: Партия национального действия и Партия демократической революции вместе получили 57% законодательных голосов вместо Институционно-революционной партии. Это стало заметным изменением: Мексика отошла от почти однопартийного правления к многопартийной демократии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_MEXICO_CHAPTER_HISTORY_PARA_7" Language="ru_RU">
+			<Text>Даже при этих улучшениях внутри страны Мексика остается страной, терзаемой трудностями. По сравнению с северными соседями, Соединенными Штатами и Канадой, страна отстает по западным стандартам инфраструктуры и политической стабильности. Политика коррумпирована на разных уровнях: влиятельные наркобароны, управляющие картелями, подкупают или запугивают мексиканских лидеров и власти, заставляя их закрывать глаза на незаконную контрабанду наркотиков, а гражданское население страдает от роста преступности и отсутствия настоящего правопорядка. Кроме того, Мексика сталкивается с проблемами эмиграции: тысячи людей ежегодно уезжают в Соединенные Штаты в поисках работы, жилья и возможностей, которых не могут найти в Мексике. Но, несмотря на эти проблемы, мексиканцы сохраняют сильную любовь к своим соотечественникам, культуре и нации, невзирая на критику с Запада. Их способность преодолевать трудности внутренних и внешних угроз, постоянные перемены и реформы, насилие и преступность, сохраняя при этом свое наследие и образ жизни, делает их по-настоящему сильным, выносливым народом, способным побеждать вопреки обстоятельствам.</Text>
+		</Replace>
+		<!-- УЛУЧШЕНИЕ -->
+		<Replace Tag="LOC_IMPROVEMENT_LEU_PANTEON_NAME" Language="ru_RU">
+			<Text>Гражданский пантеон|гражданского пантеона|гражданскому пантеону|гражданский пантеон|гражданским пантеоном|гражданском пантеоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_LEU_PANTEON_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальное мексиканское улучшение клетки, открывается с «Исторических хроник».[NEWLINE]Можно строить только на клетках лугов и равнин, не убирает леса.[NEWLINE]Дает +2 [ICON_Faith]веры и +1 [ICON_Culture]культуры.[NEWLINE]Получает стандартный бонус к [ICON_Culture]культуре за соседство с другими гражданскими пантеонами.[NEWLINE]Получает малый бонус к [ICON_Faith]вере за соседство с фермами и лесами.[NEWLINE]Получает постоянный бонус +1 [ICON_Culture]культуры каждый второй раз, когда в пределах 2 клеток используется заряд [ICON_GreatPerson]великого человека (до +10 [ICON_Culture]культуры)</Text>
+		</Replace>
+		<Replace Tag="LOC_PANTEON_ADJ_CULTURE" Language="ru_RU">
+			<Text>+{1_num} [ICON_CULTURE] культуры от соседних гражданских пантеонов</Text>
+		</Replace>
+		<Replace Tag="LOC_PANTEON_ADJ_HOLY_SITE_FAITH" Language="ru_RU">
+			<Text>+{1_num} [ICON_FAITH] веры от соседних гражданских пантеонов</Text>
+		</Replace>
+		<Replace Tag="LOC_PANTEON_ADJ_FAITH" Language="ru_RU">
+			<Text>+{1_num} [ICON_FAITH] веры от соседних гражданских пантеонов</Text>
+		</Replace>
+		<Replace Tag="LOC_PANTEON_FARM_ADJ_FAITH" Language="ru_RU">
+			<Text>+{1_num} [ICON_FAITH] веры от соседних ферм</Text>
+		</Replace>
+		<Replace Tag="LOC_PANTEON_FOREST_ADJ_FAITH" Language="ru_RU">
+			<Text>+{1_num} [ICON_FAITH] веры от соседних лесов</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_LEU_PANTEON_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Гражданский пантеон Долорес также служит последним приютом более чем миллиону умерших и содержит около 700 000 могил. Это породило некоторую проблему тесноты: в некоторых могилах захоронено до десяти человек. Из-за крайне ограниченного пространства новые могилы создавать невозможно, и хоронить здесь своих умерших могут лишь те, кто купил участок в бессрочное владение до 1977 года.</Text>
+		</Replace>
+		<!-- ИМЕНА ГРАЖДАН -->
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MALE_1" Language="ru_RU">
+			<Text>Хосе Мария</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MALE_2" Language="ru_RU">
+			<Text>Дон Хоакин</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MALE_3" Language="ru_RU">
+			<Text>Эухенио</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MALE_4" Language="ru_RU">
+			<Text>Франсиско Хавьер</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MALE_5" Language="ru_RU">
+			<Text>Фернандо</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MALE_6" Language="ru_RU">
+			<Text>Хесус Анхель</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MALE_7" Language="ru_RU">
+			<Text>Педро</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MALE_8" Language="ru_RU">
+			<Text>Роберто Гомес</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MALE_9" Language="ru_RU">
+			<Text>Федерико</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MALE_10" Language="ru_RU">
+			<Text>Карлос</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_MALE_1" Language="ru_RU">
+			<Text>Хорхе</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_MALE_2" Language="ru_RU">
+			<Text>Эдуардо</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_MALE_3" Language="ru_RU">
+			<Text>Роберто</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_MALE_4" Language="ru_RU">
+			<Text>Фернандо</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_MALE_5" Language="ru_RU">
+			<Text>Франсиско</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_MALE_6" Language="ru_RU">
+			<Text>Марио</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_MALE_7" Language="ru_RU">
+			<Text>Карлос</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_MALE_8" Language="ru_RU">
+			<Text>Давид</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_MALE_9" Language="ru_RU">
+			<Text>Гвадалупе</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_MALE_10" Language="ru_RU">
+			<Text>Мануэль</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_FEMALE_1" Language="ru_RU">
+			<Text>Мария Гвадалупе</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_FEMALE_2" Language="ru_RU">
+			<Text>Мария де Хесус</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_FEMALE_3" Language="ru_RU">
+			<Text>Мария Исабель</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_FEMALE_4" Language="ru_RU">
+			<Text>Мария Луиса</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_FEMALE_5" Language="ru_RU">
+			<Text>Мария дель Росарио</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_FEMALE_6" Language="ru_RU">
+			<Text>Мария Элена</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_FEMALE_7" Language="ru_RU">
+			<Text>Мария дель Кармен</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_FEMALE_8" Language="ru_RU">
+			<Text>Мария де лос Анхелес</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_FEMALE_9" Language="ru_RU">
+			<Text>Лупита</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_FEMALE_10" Language="ru_RU">
+			<Text>Маргарита</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_FEMALE_1" Language="ru_RU">
+			<Text>Хуана</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_FEMALE_2" Language="ru_RU">
+			<Text>Франсиска</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_FEMALE_3" Language="ru_RU">
+			<Text>Сильвия</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_FEMALE_4" Language="ru_RU">
+			<Text>Глория</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_FEMALE_5" Language="ru_RU">
+			<Text>Вивиана</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_FEMALE_6" Language="ru_RU">
+			<Text>Тереса</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_FEMALE_7" Language="ru_RU">
+			<Text>Руби</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_FEMALE_8" Language="ru_RU">
+			<Text>Ана Мария</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_FEMALE_9" Language="ru_RU">
+			<Text>Роса Мария</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_LEU_MEXICO_MODERN_FEMALE_10" Language="ru_RU">
+			<Text>Габриэла</Text>
+		</Replace>
+		<!-- ГОРОДА -->
+		<Replace Tag="LOC_CITY_NAME_LEU_MEXICO_CITY" Language="ru_RU">
+			<Text>Мехико</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GUADALAJARA" Language="ru_RU">
+			<Text>Гвадалахара</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VERACRUZ" Language="ru_RU">
+			<Text>Веракрус</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONTERREY" Language="ru_RU">
+			<Text>Монтеррей</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LEON" Language="ru_RU">
+			<Text>Леон</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SAN_LUIS_POTOSI" Language="ru_RU">
+			<Text>Сан-Луис-Потоси</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PUEBLA" Language="ru_RU">
+			<Text>Пуэбла</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ACAPULCO" Language="ru_RU">
+			<Text>Акапулько</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OAXACA" Language="ru_RU">
+			<Text>Оахака</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MERIDA" Language="ru_RU">
+			<Text>Мерида</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HERMOSILLO" Language="ru_RU">
+			<Text>Эрмосильо</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TAMPICO" Language="ru_RU">
+			<Text>Тампико</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SAN_CRISTOBAL_DE_LAS_CASAS" Language="ru_RU">
+			<Text>Сан-Кристобаль-де-лас-Касас</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MAZATLAN" Language="ru_RU">
+			<Text>Масатлан</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MORELIA" Language="ru_RU">
+			<Text>Морелия</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VILLAHERMOSA" Language="ru_RU">
+			<Text>Вильяэрмоса</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CUERNAVACA" Language="ru_RU">
+			<Text>Куэрнавака</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TORREON" Language="ru_RU">
+			<Text>Торреон</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SAN_FRANCISCO_DE_CAMPECHE" Language="ru_RU">
+			<Text>Сан-Франсиско-де-Кампече</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NUEVO_LAREDO" Language="ru_RU">
+			<Text>Нуэво-Ларедо</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHIHUAHUA" Language="ru_RU">
+			<Text>Чиуауа</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CIUDAD_JUAREZ" Language="ru_RU">
+			<Text>Сьюдад-Хуарес</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AGUASCALIENTES" Language="ru_RU">
+			<Text>Агуаскальентес</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CANCUN" Language="ru_RU">
+			<Text>Канкун</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DURANGO" Language="ru_RU">
+			<Text>Дуранго</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TIJUANA" Language="ru_RU">
+			<Text>Тихуана</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_REYNOSA" Language="ru_RU">
+			<Text>Рейноса</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOLUCA" Language="ru_RU">
+			<Text>Толука</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MATAMOROS" Language="ru_RU">
+			<Text>Матаморос</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SALTILLO" Language="ru_RU">
+			<Text>Сальтильо</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ENSENADA" Language="ru_RU">
+			<Text>Энсенада</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NOGALES" Language="ru_RU">
+			<Text>Ногалес</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_COATZACOALCOS" Language="ru_RU">
+			<Text>Коацакоалькос</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PUERTO_VALLARTA" Language="ru_RU">
+			<Text>Пуэрто-Вальярта</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PIEDRAS_NEGRAS" Language="ru_RU">
+			<Text>Пьедрас-Неграс</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GUANAJUATO" Language="ru_RU">
+			<Text>Гуанахуато</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MANZANILLO" Language="ru_RU">
+			<Text>Мансанильо</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ZACATECAS" Language="ru_RU">
+			<Text>Сакатекас</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_IGUALA" Language="ru_RU">
+			<Text>Игуала</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PACHUCA" Language="ru_RU">
+			<Text>Пачука</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_QUERETARO" Language="ru_RU">
+			<Text>Керетаро</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_COLIMA" Language="ru_RU">
+			<Text>Колима</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ORIZABA" Language="ru_RU">
+			<Text>Оризаба</Text>
+		</Replace>
+		<!-- РЕКИ, ГОРЫ, ВУЛКАНЫ, ПУСТЫНИ, ОЗЕРА, ЗАЛИВЫ -->
+		<Replace Tag="LOC_NAMED_RIVER_LEU_RIO_NAZAS_NAME" Language="ru_RU">
+			<Text>Рио-Насас</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_LEU_RIO_GRANDE_DE_SANTIAGO_NAME" Language="ru_RU">
+			<Text>Рио-Гранде-де-Сантьяго</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_LEU_RIO_CONCHOS_NAME" Language="ru_RU">
+			<Text>Рио-Консос</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_LEU_RIO_GRIJALVA_NAME" Language="ru_RU">
+			<Text>Рио-Грихальва</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_LEU_RIO_LERMA_NAME" Language="ru_RU">
+			<Text>Рио-Лерма</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_LEU_RIO_BALSAS_NAME" Language="ru_RU">
+			<Text>Рио-Бальсас</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_LEU_RIO_CULIACAN_NAME" Language="ru_RU">
+			<Text>Рио-Кульякан</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_LEU_RIO_USUMACINTA_NAME" Language="ru_RU">
+			<Text>Рио-Усумасинта</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_LEU_RIO_COLORADO_NAME" Language="ru_RU">
+			<Text>Рио-Колорадо</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_LEU_RIO_BRAVO_NAME" Language="ru_RU">
+			<Text>Рио-Браво</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_LEU_SIERRA_DE_LA_VIGA_NAME" Language="ru_RU">
+			<Text>Сьерра-де-ла-Вига</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_LEU_CERRO_EL_POTOSI_NAME" Language="ru_RU">
+			<Text>Серро-эль-Потоси</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_LEU_SIERRA_DE_LA_MARTA_NAME" Language="ru_RU">
+			<Text>Сьерра-де-ла-Марта</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_LEU_EL_COAHUILON_NAME" Language="ru_RU">
+			<Text>Эль-Коауилон</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_LEU_SIERRA_PENA_NEVADA_NAME" Language="ru_RU">
+			<Text>Сьерра-Пенья-Невада</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_LEU_CERRO_EL_VEIJO_NAME" Language="ru_RU">
+			<Text>Серро-эль-Вьехо</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_LEU_SIERRA_MORONES_NAME" Language="ru_RU">
+			<Text>Сьерра-Моронес</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_LOS_ATLIXCOS_NAME" Language="ru_RU">
+			<Text>Лос-Атликсос</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_VOLCAN_BARCENA_NAME" Language="ru_RU">
+			<Text>Вулкан Барсена</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_CEBORUCO_NAME" Language="ru_RU">
+			<Text>Себоруко</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_CERRO_PRIETO_NAME" Language="ru_RU">
+			<Text>Серро-Прието</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_EL_CHICHON_NAME" Language="ru_RU">
+			<Text>Эль-Чичон</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_COFRE_DE_PEROTE_NAME" Language="ru_RU">
+			<Text>Кофре-де-Пероте</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_COLIMA_NAME" Language="ru_RU">
+			<Text>Колима</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_COMONDU_NAME" Language="ru_RU">
+			<Text>Комонду</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_CORONADO_NAME" Language="ru_RU">
+			<Text>Коронадо</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_LAS_CUMBRES_NAME" Language="ru_RU">
+			<Text>Лас-Кумбрес</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_LAS_DERRUMBADAS_NAME" Language="ru_RU">
+			<Text>Лас-Деррумбадас</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_GUADALUPE_NAME" Language="ru_RU">
+			<Text>Гвадалупе</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_LOS_HUMEROS_NAME" Language="ru_RU">
+			<Text>Лос-Умерос</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_IZTACCIHUATL_NAME" Language="ru_RU">
+			<Text>Истаксиуатль</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_JOCOTITLAN_NAME" Language="ru_RU">
+			<Text>Хокотитлан</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_EL_JORULLO_NAME" Language="ru_RU">
+			<Text>Эль-Хорульо</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_LA_MALINCHE_NAME" Language="ru_RU">
+			<Text>Ла-Малинче</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_NEVADO_DE_TOLUCA_NAME" Language="ru_RU">
+			<Text>Невадо-де-Толука</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_PAPAYO_NAME" Language="ru_RU">
+			<Text>Папайо</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_PARICUTIN_NAME" Language="ru_RU">
+			<Text>Парикутин</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_LA_REFORMA_CALDERA_NAME" Language="ru_RU">
+			<Text>Кальдера Ла-Реформа</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_SOCORRO_NAME" Language="ru_RU">
+			<Text>Сокорро</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_LEU_TEQUILA_NAME" Language="ru_RU">
+			<Text>Вулкан Текила</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_DESERT_LEU_DESIERTO_DE_SONORA_NAME" Language="ru_RU">
+			<Text>Пустыня Сонора</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_DESERT_LEU_DESIERTO_DE_CHIHUAHUA_NAME" Language="ru_RU">
+			<Text>Чиуауанская пустыня</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_DESERT_LEU_DESIERTO_DEL_COLORADO_NAME" Language="ru_RU">
+			<Text>Пустыня Колорадо</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_DESERT_LEU_EL_VIZCAINO_NAME" Language="ru_RU">
+			<Text>Эль-Вискаино</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_DESERT_LEU_DESIERTO_DE_BAJA_CALIFORNIA_NAME" Language="ru_RU">
+			<Text>Пустыня Нижняя Калифорния</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_DESERT_LEU_GRAN_DESIERTO_DE_ALTAR_NAME" Language="ru_RU">
+			<Text>Большая пустыня Альтар</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_DESERT_LEU_MEDANOS_DE_SAMALAYUCA_NAME" Language="ru_RU">
+			<Text>Дюны Самалаюка</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_DESERT_LEU_DESIERTO_DE_YUMA_NAME" Language="ru_RU">
+			<Text>Пустыня Юма</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGO_DE_CHAPALA_NAME" Language="ru_RU">
+			<Text>Озеро Чапала</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGUNA_DE_BACALAR_NAME" Language="ru_RU">
+			<Text>Лагуна Бакалар</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGO_DE_CHAPULTEPEC_NAME" Language="ru_RU">
+			<Text>Озеро Чапультепек</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGO_CAMECUARO_NAME" Language="ru_RU">
+			<Text>Озеро Камекуаро</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGOS_DE_MONTEBELLO_NAME" Language="ru_RU">
+			<Text>Озера Монтебельо</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGUNA_NICHUPTE_NAME" Language="ru_RU">
+			<Text>Лагуна Ничупте</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGO_AVANDARO_NAME" Language="ru_RU">
+			<Text>Озеро Авандаро</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_BARRA_DE_COYUCA_NAME" Language="ru_RU">
+			<Text>Бара-де-Коюка</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGUNO_DE_TERMINOS_NAME" Language="ru_RU">
+			<Text>Лагуна-де-Терминос</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGUNA_DE_CATEMACO_NAME" Language="ru_RU">
+			<Text>Лагуна Катемако</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGUNA_POJOJ_NAME" Language="ru_RU">
+			<Text>Лагуна Похох</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGO_ARAREKO_NAME" Language="ru_RU">
+			<Text>Озеро Арареко</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGO_DE_PATZCUARO_NAME" Language="ru_RU">
+			<Text>Озеро Пацкуаро</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_LEU_LAGUNA_OJO_DE_LIEBRE_NAME" Language="ru_RU">
+			<Text>Лагуна Охо-де-Льебре</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_BAHIA_DE_BANDERAS_NAME" Language="ru_RU">
+			<Text>Залив Бандерас</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_BAHIA_ADAIR_NAME" Language="ru_RU">
+			<Text>Залив Адэр</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_BAHIA_DE_GUAYMAS_NAME" Language="ru_RU">
+			<Text>Залив Гуаймас</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_BAHIA_DE_LA_PAZ_NAME" Language="ru_RU">
+			<Text>Залив Ла-Пас</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_BAHIA_DE_TEPOCA_NAME" Language="ru_RU">
+			<Text>Залив Тепока</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_GOLFO_DE_CALIFORNIA_NAME" Language="ru_RU">
+			<Text>Калифорнийский залив</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_ENSENADA_DE_PABELLONES_NAME" Language="ru_RU">
+			<Text>Бухта Пабельонес</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_BAHIA_DE_MAGDALENA_NAME" Language="ru_RU">
+			<Text>Залив Магдалена</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_BAHIA_DE_SAN_QUINTIN_NAME" Language="ru_RU">
+			<Text>Залив Сан-Кинтин</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_BAHIA_DE_SEBASTIAN_VIZCAINO_NAME" Language="ru_RU">
+			<Text>Залив Себастьян-Вискаино</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_GOLFO_DE_TEHUANTEPEC_NAME" Language="ru_RU">
+			<Text>Теуантепекский залив</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_OCEANO_PACIFICO_NAME" Language="ru_RU">
+			<Text>Тихий океан</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_LEU_OCEANO_ATLANTICO_NAME" Language="ru_RU">
+			<Text>Атлантический океан</Text>
+		</Replace>
+		<!-- ГОРОД-ГОСУДАРСТВО САН-АНТОНИО (заменяет Мехико) -->
+		<Replace Tag="LOC_CITY_NAME_MEXICO_CITY_1" Language="ru_RU">
+			<Text>Сан-Антонио</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MEXICO_CITY" Language="ru_RU">
+			<Text>Сан-Антонио</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MEXICO_CITY_NAME" Language="ru_RU">
+			<Text>Сан-Антонио|Сан-Антонио|Сан-Антонио|Сан-Антонио|Сан-Антонио|Сан-Антонио</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MEXICO_CITY_FRONTEND_NAME" Language="ru_RU">
+			<Text>Сан-Антонио|Сан-Антонио|Сан-Антонио|Сан-Антонио|Сан-Антонио|Сан-Антонио</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MEXICO_CITY_DESCRIPTION" Language="ru_RU">
+			<Text>Город-государство Сан-Антонио</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MEXICO_CITY_ADJECTIVE" Language="ru_RU">
+			<Text>Сан-Антонио|Сан-Антонио|Сан-Антонио|Сан-Антонио|Сан-Антонио|Сан-Антонио</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_MEXICO_CITY_NAME" Language="ru_RU">
+			<Text>Бонус сюзерена Сан-Антонио</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MEXICO_CITY_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Сан-Антонио - один из крупнейших и старейших городов как в испанском Новом Свете, так и в современных Соединенных Штатах, и, безусловно, самый старый, крупный и культурно значимый город как в бывшей Республике Техас, так и в штате Техас. Пройдя через руки различных коренных культур на протяжении тысяч лет, регион в конце концов стал домом для индейской группы паяйя, жившей в долине реки Сан-Антонио. Эти местные жители позднее поработили потерпевшего кораблекрушение исследователя по имени Альвар Нуньес Кабеса де Вака, прежде чем тому удалось кое-как добраться до Мехико. </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MEXICO_CITY_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>В следующие полтора столетия несколько экспедиций прошли в регион Техаса, и местность, которой предстояло стать Сан-Антонио, приобрела жизненно важное значение. Поблизости был основан монастырь, и вскоре миссионеры, исследователи и в конце концов колонисты потянулись через Рио-Гранде, натыкались на новый монастырь и в итоге отправлялись дальше в регион Техаса. 13 июня 1691 года группа испанских исследователей и миссионеров наконец наткнулась на поселение паяйя. Поскольку это был день святого Антония Падуанского, они назвали место Сан-Антонио. В начале XVIII века предпринимались попытки подружиться с местными паяйя, хотя они шли нелегко. Фрай Антонио де Оливарес был назначен основать миссию (Миссия Сан-Антонио-де-Балеро, более известная под названием, которое я почему-то не могу вспомнить). Однако после основания миссии Аламо его работа застопорилась из-за того, что он упал с моста и сломал ногу. Последовали нападения местных, и миссия Аламо стала краеугольным камнем всей испанской провинции Техас.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MEXICO_CITY_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Столетие спустя Мексика выиграла свою революцию и пригласила многих англо-американских предпринимателей (включая некоего Стивена Остина) поселиться во вновь созданной провинции Техас к северо-востоку и востоку от Сан-Антонио. После того как президентом стал Антонио Лопес де Санта-Анна, добавив еще одного (не) Антонио к этому историческому повествованию, по всей Мексике, включая провинцию Техас и город Сан-Антонио, вспыхнуло насилие. «Техианские» силы (так они называли себя, пока не поняли, что просто «техасские» лучше) отбили Сан-Антонио у мексиканских военных и вынудили их отступить в конце 1835 года. Весной Санта-Анна повел мексиканскую армию против техианских сил Сэма Хьюстона. Сэм Хьюстон отступил, полагая, что Сан-Антонио нельзя удержать против мексиканской армии, но отряд добровольцев укрепился в старой миссии Сан-Антонио. В том, что стало осадой Аламо, защитники держались с 23 февраля по 6 марта 1836 года, и за это время официально была провозглашена Республика Техас. После двенадцати дней бомбардировки Санта-Анна наконец взял миссию Аламо штурмом, захватив и казнив почти всех защитников. Клич «Помни Аламо» стал сплачивающим лозунгом техасской революции, а полтора месяца спустя техасцы выиграли независимость в битве при Сан-Хасинто.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MEXICO_CITY_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>После техасской революции и последующего включения в состав Соединенных Штатов Аламо стало центром растущего Сан-Антонио. Город населяли многие этнические немцы, африканцы и мексиканцы (немцы - из-за германских революций, африканцы - из-за вольноотпущенников, а мексиканцы - потому что жили там всегда), и потому во время Гражданской войны в США большинство жителей города молча поддерживали Союз, а не рабовладельческое дело. К концу XIX века Сан-Антонио стал центром скотоводческой культуры, породив поколение легендарных ковбоев. Сан-Антонио был изолирован и оставался на американском фронтире, сплавом культур и языков, чем-то напоминавшим Новый Орлеан. Это в сочетании с головорезами, грабителями и ковбоями Дикого Запада придавало городу ауру грубости и таинственности, привлекавшую туристов. В частности, город связывают с Бутчем Кэссиди и Сандэнс Кидом.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MEXICO_CITY_CHAPTER_HISTORY_PARA_5" Language="ru_RU">
+			<Text>В наше время перестрелок и ограблений банков в Сан-Антонио гораздо меньше, а в начале XX века значительная часть города была обновлена, и многие старые здания были снесены, чтобы расширить дороги и вместить растущее население. На площади Аламо установлен новый памятник, увековечивший и несущий имена всех храбрых добровольцев, защищавших город, когда никто другой этого не делал.</Text>
+		</Replace>
+		<!-- ЮНИТЫ -->
+		<Replace Tag="LOC_UNIT_LEU_CHINACO_NAME" Language="ru_RU">
+			<Text>Чинако|чинако|чинако|чинако|чинако|чинако</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LEU_CHINACO_DESCRIPTION" Language="ru_RU">
+			<Text>Мексиканский юнит легкой кавалерии, открывается с открытием «Национализма» и требует меньше ресурсов, чем другие конные юниты той же эпохи.[NEWLINE]Чинако приносят очки [ICON_GreatGeneral]великого полководца и [ICON_GreatArtist] великого художника за победу над вражескими юнитами.[NEWLINE]На собственной территории чинако могут двигаться после атаки.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEU_CUERUDO_DOUBLEMOVE_NAME" Language="ru_RU">
+			<Text>Битва при Миуатлане</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEU_CUERUDO_DOUBLEMOVE_DESCRIPTION" Language="ru_RU">
+			<Text>Может двигаться после атаки на дружественной территории.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEU_CUERUDO_GENERALPOINTS_NAME" Language="ru_RU">
+			<Text>Росписи революций</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEU_CUERUDO_GENERALPOINTS_DESCRIPTION" Language="ru_RU">
+			<Text>Приносит очки великого полководца и великого художника за победу над вражескими юнитами.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LEU_CHINACO_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Кастовая система Новой Испании запрещала коренным народам ездить верхом на лошадях (с некоторыми исключениями). Однако скотоводство, распространенное на Мексиканском плато и в других местах будущей Мексики, требовало использования лошадей и верховой езды, и нанимали на эту работу часто метисов, а иногда и индейцев. Решение? Седла должны были отличаться от военных, а чтобы еще больше отличать военных от работников ранчо, те должны были носить кожаную одежду. Так появился куэрудо, что буквально означает «одетый в кожу».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LEU_CHINACO_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Чинако стали очень популярными работниками у богатых владельцев плантаций и скотоводов, так как у них была родословная защитников асьенд от мародеров и бандитов. Во время Войны за независимость Мексики эти чинако (их называли также «чарро», гораздо более широкий термин для всадника) стали важными солдатами с обеих сторон войны, прославляемыми за элитное мастерство верховой езды и храбрость, несмотря на недостаток дисциплины. Их образ преобразился, и они служили с XVII по XIX век, в ходе Войны за независимость Мексики, Войны реформ, Второй франко-мексиканской войны и Мексиканской революции. Даже во время Второй мировой войны в ожидании нацистского вторжения в Мексику была создана армия из 150 000 чарро. </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LEU_CHINACO_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Образ храброго и мужественного чинако, защищающего родину, в результате глубоко укоренился в мексиканской культуре. В начале XX века этот образ куэрудо, или чарро, был основан на характерном «костюме чарро» с богато расшитой кожаной курткой и плотно скроенными кожаными брюками (или платьем до щиколоток для женщин) и обязательным сомбреро. Эти ярко окрашенные наряды украшались цветочной и иногда ацтекской вышивкой, традиционно выполнявшейся металлической нитью. Этот образ стал популярным с расцветом мариачи и кино. Этот наряд стал также политическим костюмом, который использовали Эмилиано Сапата и Порфирио Диас, чтобы передать облик храброго чинако, защищающего Мексику.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LEU_GUARDIA_RURAL_NAME" Language="ru_RU">
+			<Text>Гуардия рурал|гуардии рурал|гуардии рурал|гуардию рурал|гуардией рурал|гуардии рурал</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LEU_GUARDIA_RURAL_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальная мексиканская замена рейнджера, если лидером является Порфирио Диас.[NEWLINE]Гуардии рурал приносят +1 [ICON_Glory_Golden_Age]к счету эпохи за победу над юнитами варваров или вольных городов.[NEWLINE]Находясь на клетке фермы, гуардии рурал получают +5 к [ICON_Strength]боевой мощи и создают зону контроля.[NEWLINE]</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEU_GUARDIA_RURAL_COMBAT_NAME" Language="ru_RU">
+			<Text>Сельский опыт</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEU_GUARDIA_RURAL_COMBAT_DESCRIPTION" Language="ru_RU">
+			<Text>+5 к [ICON_Strength]боевой мощи на клетках ферм.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEU_GUARDIA_RURAL_ZOC_NAME" Language="ru_RU">
+			<Text>Ley fuga</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEU_GUARDIA_RURAL_ZOC_DESCRIPTION" Language="ru_RU">
+			<Text>Создает зону контроля на клетках ферм.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEU_GUARDIA_RURAL_ERASCORE_NAME" Language="ru_RU">
+			<Text>Гражданская оборона</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEU_GUARDIA_RURAL_ERASCORE_DESCRIPTION" Language="ru_RU">
+			<Text>Приносит счет эпохи за победу над юнитами варваров или вольных городов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LEU_GUARDIA_RURAL_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Руралес (Rurales) - мексиканский термин, описывающий два разных правительственных формирования.  В первоначальном составе при Хуаресе руралес не хватало численности и организации, чтобы эффективно контролировать бандитизм, широко распространенный в Мексике в 1860-х и 1870-х годах.  После прихода к власти в 1877 году президент Порфирио Диас расширил руралес почти до 2000 человек к 1889 году в рамках своей программы модернизации и репрессий.  Поначалу некоторых пойманных бандитов принудительно зачисляли в руралес, как это было и при Хуаресе.  Руралес были хорошо вооружены: они носили кавалерийские сабли, карабины «Ремингтон», лассо и пистолеты.  Порфирианский режим намеренно культивировал образ руралес как беспощадной и эффективной организации, которая - согласно пресловутому «закону бегства» (ley fuga) - редко брала пленных и неизбежно добивалась своего.  Никогда не насчитывая более 4000 человек и размещенные небольшими отрядами, руралес были слишком тонко рассредоточены, чтобы когда-либо полностью искоренить беспорядки в мексиканской глубинке.</Text>
+		</Replace>
+		<!-- ВЕЛИКИЙ ЧЕЛОВЕК: ДИЕГО РИВЕРА -->
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEU_DIEGO_RIVERA_NAME" Language="ru_RU">
+			<Text>Диего Ривера</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_LEU_DIEGO_RIVERA_1_NAME" Language="ru_RU">
+			<Text>Сон воскресного дня в парке Аламеда-Сентраль</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_LEU_DIEGO_RIVERA_2_NAME" Language="ru_RU">
+			<Text>Человек, управляющий Вселенной</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_LEU_DIEGO_RIVERA_3_NAME" Language="ru_RU">
+			<Text>Обнаженная с каллами</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_LEU_DIEGO_RIVERA_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Диего Ривера, полностью Диего Мария Консепсьон Хуан Непомусено Эстаниславо де ла Ривера-и-Баррьентос Акоста-и-Родригес (родился 8 декабря 1886 года в Гуанахуато, Мексика, умер 25 ноября 1957 года в Мехико), мексиканский художник, чьи смелые крупномасштабные росписи вызвали возрождение фрески в Латинской Америке. Государственная стипендия позволила Ривере изучать искусство в Академии Сан-Карлос в Мехико с десяти лет, а грант от губернатора Веракруса дал ему возможность продолжить учебу в Европе в 1907 году. Он учился в Испании, а в 1909 году поселился в Париже, где подружился с Пабло Пикассо, Жоржем Браком и другими ведущими современными художниками. Около 1917 года он оставил в собственных работах кубистский стиль и приблизился к постимпрессионизму Поля Сезанна, взяв на вооружение визуальный язык упрощенных форм и смелых цветовых плоскостей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_LEU_DIEGO_RIVERA_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Ривера вернулся в Мексику в 1921 году после встречи с собратом-мексиканским художником Давидом Альфаро Сикейросом. Оба стремились создать новое национальное искусство на революционные темы, которое украшало бы общественные здания после Мексиканской революции. Вернувшись в Мексику, Ривера написал свою первую важную фреску «Сотворение» для Боливар-аудитории Национальной подготовительной школы в Мехико. В 1923 году он начал расписывать стены здания Министерства народного образования в Мехико, работая во фреске и завершив заказ в 1930 году. Эти огромные фрески, изображающие мексиканское сельское хозяйство, промышленность и культуру, отражают подлинно местную тематику и знаменуют появление зрелого стиля Риверы. Ривера определяет свои плотные, отчасти стилизованные человеческие фигуры четкими контурами, а не внутренней лепкой. Уплощенные, упрощенные фигуры помещены в тесные, неглубокие пространства и оживлены яркими, смелыми красками. Изображенные индейцы, крестьяне, конкистадоры и фабричные рабочие сочетают монументальность формы с лиричным, а порой элегическим настроем.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

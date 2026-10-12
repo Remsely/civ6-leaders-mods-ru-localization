@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MOD_JFD_ROME_CARACALLA_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР -- КАРАКАЛЛА[NEWLINE][NEWLINE]ОСОБЕННОСТЬ - МАРТИЯ ВИКТРИКС[NEWLINE]Покупка боевых юнитов ближнего боя повышает лояльность и на 20% дешевле в городах с баней. В городах с гарнизоном +1 [ICON_AMENITIES] довольства.[NEWLINE][NEWLINE]ПОВЕСТКА - ИМПЕРАТОР-СОЛДАТ[NEWLINE]Поддерживает довольство народа и мощную регулярную армию и уважает цивилизации, делающие то же самое. Цивилизации, не имеющие ни того ни другого, он считает обреченными на провал.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JFD_CARACALLA_NAME" Language="ru_RU">
+			<Text>Каракалла|Каракаллы|Каракалле|Каракаллу|Каракаллой|Каракалле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_SOLDIER_EMPEROR_NAME" Language="ru_RU">
+			<Text>Император-солдат</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_SOLDIER_EMPEROR_DESCRIPTION" Language="ru_RU">
+			<Text>Поддерживает довольство народа и мощную регулярную армию и уважает цивилизации, делающие то же самое. Цивилизации, не имеющие ни того ни другого, он считает обреченными на провал.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_CARACALLA_REASON_LAGS_HAPPINESS_AND_LEADS_STANDING_ARMY" Language="ru_RU">
+			<Text>(Ваши города довольны, и у вас сильная регулярная армия.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_SOLDIER_EMPEROR_LAGS_HAPPINESS_AND_LEADS_STANDING_ARMY" Language="ru_RU">
+			<Text>Каракалла уважает ваш народ и армию</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_CARACALLA_REASON_LAGS_HAPPINESS" Language="ru_RU">
+			<Text>(Ваши города недовольны.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_SOLDIER_EMPEROR_LAGS_HAPPINESS" Language="ru_RU">
+			<Text>Каракалла считает вас тираном</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_CARACALLA_REASON_LAGS_STANDING_ARMY" Language="ru_RU">
+			<Text>(У вас слабая регулярная армия.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_SOLDIER_EMPEROR_LAGS_STANDING_ARMY" Language="ru_RU">
+			<Text>Каракалла насмехается над недовольством вашей армии</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_CARACALLA" Language="ru_RU">
+			<Text>Империя, созданная солдатами и гражданами, а не старыми сенаторами, в вашей власти, могучий император Каракалла. Прислушайтесь к их нуждам: сделайте своих солдат богатыми, а граждан - довольными, и империя Рима будет жить вечно. Это ваш шанс исправить ошибки, обрекшие ваше имя на славу тирана.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_MARTIA_VICTRIX_NAME" Language="ru_RU">
+			<Text>Мартия Виктрикс</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_MARTIA_VICTRIX_DESCRIPTION" Language="ru_RU">
+			<Text>Покупка боевых юнитов ближнего боя повышает лояльность и на 20% дешевле в городах с баней. В городах с гарнизоном +1 [ICON_AMENITIES] довольства.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CARACALLA_TITLE" Language="ru_RU">
+			<Text>Каракалла</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CARACALLA_SUBTITLE" Language="ru_RU">
+			<Text>Император Рима</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CARACALLA_QUOTE" Language="ru_RU">
+			<Text>Сенату оставалось лишь трепетать перед его словами.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CARACALLA_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Каракалла (также Каракаллус), прозвище Марка Аврелия Севера Антонина Августа, первоначально (до 196 года н. э.) Септимия Бассиана, а в 196-198 годах н. э. также Марка Аврелия Антонина Цезаря (родился 4 апреля 188 года н. э. в Лугдуне [Лион], Галлия, умер 8 апреля 217 года близ Карр, Месопотамия), был римским императором, правил совместно с отцом, Септимием Севером, с 198 по 211 год, а затем единолично с 211 года до своего убийства в 217 году. Главными его достижениями стали колоссальные бани в Риме и эдикт 212 года, даровавший римское гражданство всем свободным жителям империи. Каракаллу, правление которого способствовало упадку империи, часто считают одним из самых кровожадных тиранов в истории Рима.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CARACALLA_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Каракалла был старшим сыном будущего императора Луция Септимия Севера, уроженца Северной Африки, и Юлии Домны, сирийки. Первоначально его звали Бассиан в честь деда по матери, верховного жреца сирийского бога солнца Элагабала. Он принял имя Марк Аврелий Антонин и добавил титул Цезаря, потому что отец хотел связать свой род со знаменитой династией Антонинов. В 198 году он получил титул Августа, что номинально ставило его вровень с отцом. Прозвище Каракалла связано с плащом этого названия, который он якобы придумал. Другое его прозвище, Тараут, принадлежало безобразному, наглому и кровожадному гладиатору, на которого он, как считалось, походил.[NEWLINE][NEWLINE]Древние источники о его жизни и характере ни в коем случае нельзя считать надежными. Один из них, к примеру, сообщает, что в детстве он был приветливым, щедрым и чутким и лишь позже стал невыносимым, но в другом месте тот же источник говорит, что по природе он был свиреп. Современные исследования подчеркивают сирийское происхождение Каракаллы как один из важнейших элементов его характера, хотя и здесь нужна осторожность, поскольку восточное происхождение никак не мешало высокой степени романизации. Сама Юлия была хорошо знакома с греко-римской культурой и наняла превосходных учителей, чтобы дать сыну лучшее из доступных образований. Сообщают, что он изучал греческих ораторов и трагиков и мог цитировать длинные отрывки из греческого драматурга Эврипида, но также и то, что он сильно презирал образование и образованных людей. Возможно, это стало результатом его страсти к военной жизни, которая, вероятно, развилась, когда он сопровождал отца во многих военных походах.[NEWLINE][NEWLINE]В 14 лет его женили на Фульвии Плавтилле, дочери влиятельного и честолюбивого командира императорской гвардии Фульвия Плавтиана; говорят, он ненавидел Плавтиана и сыграл важную роль в его казни по обвинению в заговоре против императорской династии. Собственную жену он сослал на остров, а позже убил.[NEWLINE][NEWLINE]Важным событием стало растущее соперничество между Каракаллой и его младшим братом Гетой, обострившееся, когда Север умер во время похода в Британию (211 год), а Каракалла, которому вскоре должно было исполниться 23 года, перешел со второго места в империи на первое. Все попытки матери примирить их оказались напрасными, и Каракалла в конце концов убил Гету, как говорят, в объятиях самой Юлии. Нет сомнений в дикой жестокости этого поступка, но решения, которое было бы одновременно нравственным и осуществимым, не просматривалось.[NEWLINE][NEWLINE]Затем Каракалла проявил немалую жестокость, приказав казнить многих друзей и сторонников Геты. Вероятно, чтобы вернуть расположение, он объявил амнистию изгнанникам, что древние источники осуждают как лицемерие; они же клевещут и на самую известную его меру, так называемую Антонинову конституцию о гражданстве, считая ее уловкой ради сбора большего количества налогов.[NEWLINE][NEWLINE]Его походы против германских племен в 212-213 годах, когда он бессмысленно перебил союзное германское войско, и против парфян в 216-217 годах древние источники объясняют любовью к воинской славе. Незадолго до парфянского похода он, как говорят, учинил «резню» среди населения Александрии, вероятно, в ответ на беспорядки.[NEWLINE][NEWLINE]Непредсказуемое поведение Каракаллы, как говорят, подтолкнуло Макрина, командира императорской гвардии и его преемника на троне, к заговору: Каракаллу убили в начале второго похода против парфян.[NEWLINE][NEWLINE]Для понимания его характера и поведения важно его отождествление с Александром Македонским. Восхищение великим македонцем не было редкостью среди римских императоров, но у Каракаллы Александр превратился в навязчивую идею, ставшую нелепой и гротескной. Он перенимал одежду, оружие, поведение, маршруты путешествий, портреты, возможно, даже предполагаемый план завоевания Парфянской державы - все в подражание Александру. Он принял прозвище Великий (Магн), организовал македонскую фалангу и слоновий отряд и велел изображать себя на монетах подобным богу.[NEWLINE][NEWLINE]Другой важной чертой было глубоко укоренившееся суеверие Каракаллы; он следовал магическим обрядам и тщательно соблюдал все ритуальные обязанности. Он терпимо относился к иудейской и христианской вере, но его любимым божеством был египетский бог Серапис, сыном или братом которого он притворялся. Он перенял египетскую практику отождествления правителя с богом и остается единственным римским императором, изображенным в виде фараона на статуе.[NEWLINE][NEWLINE]На многочисленных портретах явно видны порывистость и жестокость, и некоторые источники говорят, что он намеренно усиливал это впечатление, возможно, потому что распространять страх и ужас льстило его тщеславию. Также говорят, что он был невысок ростом, но превосходил других в телесных упражнениях, делил тяготы с рядовыми солдатами, но и ослаблял свою мужественность беспутной жизнью и не мог даже выдержать вес кирасы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CARACALLA_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Подобная непоследовательность характерна и для суждений о его душевном состоянии. Его называли безумным, но также проницательным и остроумным. Его пристрастие к богам здоровья, засвидетельствованное многочисленными посвятительными надписями, может подтверждать теорию о душевной болезни.[NEWLINE][NEWLINE]Если Каракалла и был безумцем или тираном, это не слишком сказалось на управлении империей, на которое могли в решающей степени влиять Юлия Домна и великие юристы, его окружавшие. Его почитали солдаты, заставившие Сенат обожествить его после смерти, и нет признаков того, что его особенно не любили простые жители. Так или иначе, Римская империя в то время была еще достаточно сильна, чтобы выдержать правителя, которому явно недоставало качеств выдающегося императора.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CARACALLA_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Будьте уверены, Рим никогда не прекратит попытки стать самой большой империей в игре. Чтобы она оставалась на плаву, Каракалла следит за тем, чтобы его народ и солдаты были довольны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CARACALLA_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Рим хочет быстро построить города, а затем изучить инженерное дело. С появлением инженерного дела к городам могут быть добавлены бани, что позволит им быстрее расти (и легче защищаться благодаря вниманию Каракаллы к военным гарнизонам). Их способность «Все дороги ведут в Рим» приносит стабильный доход от сети городов ([ICON_TradeRoute] торговые пути, ведущие из внутренних городов империи в чужие земли, должны работать хорошо; не все их [ICON_TradeRoute] торговые пути должны быть внутренними). Это расширение наверняка приведет к конфликту, но как раз к этому времени появится возможность создавать легионы. Способность легиона строить форты появляется у Рима на две эпохи раньше, чем у других цивилизаций. Их эффективное использование - ключ к удержанию обширной и могущественной империи.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Приветствую. Я могучий Каракалла, император Рима и его народа. Говори. Я не люблю, когда тратят мое время.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Мой город совсем рядом и ждет. Присоединяйся ко мне, или рискуй моей немилостью.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Я делаю то, что должен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Предлагаю обменяться сведениями о наших столицах. Посмотрим, как твоя выдержит сравнение с мощью Рима.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Приветствую.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Что ж, хорошо. Но пусть не тратят мое время, иначе могут не вернуться.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Мне нет дела до твоей политики.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Могучий Рим отправил в твою столицу делегацию в сопровождении лучших своих легионов. Пусть это напомнит тебе: если дипломатия не удастся, ты истечешь кровью.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Согласен. Пусть это соглашение облегчит мне переброску войск.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Если хочешь вкусить плоды трудов Рима, сначала преклони передо мной колено.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Границы, закрытые друг для друга, мешают обучению моих войск. Я пришел обсудить сделку об их открытии.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Мудрый шаг.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Твоя глупость не останется безнаказанной.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Я готов публично объявить о дружбе с тобой. Согласись, или убирайся с глаз моих.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Хорошо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Это лишь погубит тебя.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Рим смотрит на свое следующее великое завоевание. Если не хочешь им стать, советую присоединиться к нему как союзник.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Ты мудр, что хорошо обращаешься со своими солдатами.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Твоя голова так высоко в облаках, что ты не замечаешь, как твои же солдаты рубят тебя под корень.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Если не хочешь быть униженным, советую повернуть твои войска в другую сторону.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CARACALLA_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CARACALLA_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Я не потерплю твоего предательства.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Твой заговор против меня тянется слишком долго (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_SOLDIER_EMPEROR_LAGS_STANDING_ARMY" Language="ru_RU">
+			<Text>(У вас много золота.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_SOLDIER_EMPEROR_LAGS_HAPPINESS" Language="ru_RU">
+			<Text>(У вас много веры.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Так иди же. Я покажу тебе, как выглядят настоящие солдаты.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Мне надоели разговоры. Пора проверить, у кого солдаты лучше.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Жалко. Но на этот раз я соглашусь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Жалко. Я лично позабочусь о твоей смерти.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Эта война ни к чему не ведет. Пора ее закончить.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>Так возьми мой меч. Или ты слишком труслив, чтобы сделать это сам?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_CARACALLA_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_CARACALLA_ANY]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

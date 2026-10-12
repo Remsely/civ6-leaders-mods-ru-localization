@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MOD_JFD_ROME_NERO_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР -- НЕРОН[NEWLINE][NEWLINE]ОСОБЕННОСТЬ - КВИНКВИНАЛИЯ НЕРОНИЯ[NEWLINE]В городах с районом театральной площади проекты [ICON_PRODUCTION] завершаются на 25% быстрее. За завершение любого проекта начисляются очки [ICON_GREATARTIST] великого художника, [ICON_GREATMUSICIAN] великого музыканта и [ICON_GREATWRITER] великого писателя. Становится доступно уникальное здание «Театр» после изучения социального института «Драма и поэзия».[NEWLINE][NEWLINE]ЗДАНИЕ - ТЕАТР[NEWLINE]Уникальное здание Рима, заменяющее амфитеатр, если Нерон является лидером. Генерирует очки [ICON_GREATMUSICIAN] великого музыканта и содержит ячейку для [ICON_GREATWORK_MUSIC] музыкального шедевра.[NEWLINE][NEWLINE]ПОВЕСТКА - ИМПЕРАТОР-ПОЭТ[NEWLINE]Старается, чтобы его народ был одновременно доволен и культурен, и ценит цивилизации, делающие то же самое. Презирает цивилизации, пренебрегающие довольством народа или культурой.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JFD_NERO_NAME" Language="ru_RU">
+			<Text>Нерон|Нерона|Нерону|Нерона|Нероном|Нероне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_PHILHELLENE_NAME" Language="ru_RU">
+			<Text>Император-поэт</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_PHILHELLENE_DESCRIPTION" Language="ru_RU">
+			<Text>Старается, чтобы его народ был одновременно доволен и культурен, и ценит цивилизации, делающие то же самое. Презирает цивилизации, пренебрегающие довольством народа или культурой.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_NERO_REASON_LEADS_CULTURE_AND_HAPPINESS" Language="ru_RU">
+			<Text>(У вас развитая культура и высокое довольство.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PHILHELLENE_LEADS_CULTURE_AND_HAPPINESS" Language="ru_RU">
+			<Text>Нерон рад видеть, что ваши люди довольны и культурны</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_NERO_REASON_LAGS_CULTURE" Language="ru_RU">
+			<Text>(У вас слабая культура.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PHILHELLENE_LAGS_CULTURE" Language="ru_RU">
+			<Text>Нерон презирает ваше варварское бескультурье</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_NERO_REASON_LAGS_HAPPINESS" Language="ru_RU">
+			<Text>(У вас низкое довольство.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PHILHELLENE_LAGS_HAPPINESS" Language="ru_RU">
+			<Text>Нерон хотел бы видеть ваш недовольный народ довольным</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_NERO" Language="ru_RU">
+			<Text>Настройте свои таланты, великий император Нерон: ваше культурное возрождение началось. Вопреки воле аристократов, облачитесь в одеяние актера и поднимите дух вашего народа. Даруйте ему великие творения и памятники и устраивайте в его честь большие празднества. Возродите искусство так, как оно когда-то цвело в Древней Греции.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_QUINQUENNIAL_NERONIA_NAME" Language="ru_RU">
+			<Text>Квинквиналия Нерония</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_QUINQUENNIAL_NERONIA_DESCRIPTION" Language="ru_RU">
+			<Text>В городах с районом театральной площади проекты [ICON_PRODUCTION] завершаются на 25% быстрее. За завершение любого проекта начисляются очки [ICON_GREATARTIST] великого художника, [ICON_GREATMUSICIAN] великого музыканта и [ICON_GREATWRITER] великого писателя. Становится доступно уникальное здание «Театр» после изучения социального института «Драма и поэзия».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NERO_TITLE" Language="ru_RU">
+			<Text>Нерон</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NERO_SUBTITLE" Language="ru_RU">
+			<Text>Император Рима</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NERO_QUOTE" Language="ru_RU">
+			<Text>Лучше бы я не умел писать.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NERO_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Нерон был римским императором с 54 по 68 год н. э. и последним в династии Юлиев-Клавдиев. Его усыновил двоюродный дед Клавдий, сделав наследником и преемником, и, как и Клавдий, Нерон стал императором с согласия преторианской гвардии. Мать Нерона, Агриппина Младшая, была причастна к смерти Клавдия и к назначению Нерона императором. Она подчиняла себе его ранние годы и решения, пока он не отстранил ее; через пять лет после начала правления он приказал ее убить.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NERO_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Его правление началось хорошо. Сначала он довольствовался руководством матери, наставника Луция Аннея Сенеки и префекта претория Секста Афрания Бурра. Со временем он стал играть более активную и самостоятельную роль во внутренней и внешней политике. При нем грозный полководец Корбулон провел успешную войну и заключил мир с Парфянским царством. Полководец Светоний Паулин подавил крупное восстание в Британии. Боспорское царство было ненадолго присоединено к империи, и началась Первая Иудейская война. Нерон уделял много внимания дипломатии, торговле и культурной жизни империи: приказывал строить театры и поддерживал атлетические игры. Он выступал публично как поэт, музыкант и возничий; в глазах традиционалистов это подрывало достоинство и авторитет его личности, положения и сана. Его расточительная, охватывавшая всю империю программа общественных и частных построек финансировалась повышением налогов, что вызывало сильное недовольство средних и высших классов. Раскрывались различные заговоры против его жизни, а их зачинщиков казнили; большинство были собственными придворными Нерона.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NERO_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>В 68 году наместник Галлии Виндекс поднял восстание при поддержке Гальбы, наместника Тарраконской Испании. Восстание Виндекса не достигло прямой цели, но недовольные гражданские и военные власти Рима высказались за Гальбу и избрали его императором. Нерон бежал из Рима. Его либо схватили и казнили, либо он покончил с собой, когда ему сообщили, что его заочно судили и приговорили к смерти как врага народа. Его смерть положила конец династии Юлиев-Клавдиев и вызвала короткий период гражданских войн, известный как год четырех императоров.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NERO_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>Правление Нерона обычно связывают с тиранией и расточительностью; к наиболее позорным его казням относится казнь матери. Большинство римских источников, таких как Светоний и Кассий Дион, дают подавляюще негативную оценку его личности и правления; Тацит утверждает, что римляне считали его необузданным и развращенным. Многие римляне полагали, что великий пожар Рима в 64 году устроил Нерон, чтобы расчистить место для задуманного дворцового комплекса, Золотого дома. Говорят, он хватал христиан, делая их козлами отпущения за пожар, и сжигал заживо, по-видимому, руководствуясь не общественной справедливостью, а личной жестокостью. Некоторые современные историки сомневаются в достоверности древних источников о тиранических деяниях Нерона. Немногие источники рисуют Нерона в более благоприятном свете. Есть свидетельства его популярности среди простых римлян, особенно в восточных провинциях империи, где возникла народная легенда, будто Нерон не умер и вернется. По меньшей мере три предводителя недолговечных неудавшихся восстаний выдавали себя за «воскресшего Нерона», чтобы заручиться народной поддержкой.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NERO_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Будьте уверены, Рим никогда не прекратит попытки стать самой большой империей в игре. Нерон позаботится о том, чтобы при этом его империя оставалась культурной.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_NERO_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Рим хочет быстро построить города, а затем изучить инженерное дело. С появлением инженерного дела к городам могут быть добавлены бани, что позволит им быстрее расти (и быстро развивать инфраструктуру благодаря вниманию Нерона к зданиям и проектам). Их способность «Все дороги ведут в Рим» приносит стабильный доход от сети городов ([ICON_TradeRoute] торговые пути, ведущие из внутренних городов империи в чужие земли, должны работать хорошо; не все их [ICON_TradeRoute] торговые пути должны быть внутренними). Это расширение наверняка приведет к конфликту, но как раз к этому времени появится возможность создавать легионы. Способность легиона строить форты появляется у Рима на две эпохи раньше, чем у других цивилизаций. Их эффективное использование - ключ к удержанию обширной и могущественной империи.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Добро пожаловать в Рим, путник. Я великий Нерон, император, любимый лирик, поэт, драматург. Не желаешь послушать стихотворение, которое я только что сочинил?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Великий Нерон хотел бы пригласить тебя на концерт в моем собственном исполнении. Надеюсь, ты не пропустишь его ни за что на свете.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Да, конечно. Буду в восторге.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Прошу, давай обменяемся сведениями о наших столицах. Нет нужды держаться подальше от Рима.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Ах, превосходно. Всегда рад тебя видеть.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Да, конечно. Более того, я приглашу твою делегацию на эксклюзивное чтение моей следующей великой драматической трагедии. Разве это не волнующе?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Ты думаешь, твоя делегация достойна предстать перед великим Нероном? Не думаю.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Я отправил делегацию в твою столицу вместе с копией моей последней песни. Конечно, они исполнят ее хуже меня, но ты всегда можешь просить у меня аудиенции, когда твоя душа проголодается.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Да, очень приятно.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Нет, нет. Слишком много иностранцев. Лишь римляне способны оценить мое искусство. Ты понимаешь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Твои люди жаждут посетить великие театры Нерона. Прошу, откроем наши границы, чтобы твой народ мог насытиться.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Превосходно.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Ты заходишь слишком далеко.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Дорогой правитель, мне бы очень хотелось, чтобы наша добрая дружба была объявлена публично, на всеобщее услышание. Что скажешь?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Благодарю тебя.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Нелепо. Разве ты не знаешь, что я великий Нерон? Очевидно, нет.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Рим силен. Его союзники должны быть так же сильны. Ты, друг мой, стал бы превосходным союзником. Не согласен ли ты?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Всегда рад обществу единомышленника.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Увы, эти наши встречи так скучны...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Надеюсь, ты вскоре уберешь своих солдат от границ Рима? Не думаю, что они пришли ради моего театра...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_NERO_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_NERO_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Вот как? Что ж, уверяю тебя, я сочиню о тебе язвительные стихи. Разящие!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Ты злобная тварь. Почему ты терзаешь и отвлекаешь душу художника (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_PHILHELLENE_LAGS_CULTURE" Language="ru_RU">
+			<Text>(У вас слабая культура.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_PHILHELLENE_LAGS_HAPPINESS" Language="ru_RU">
+			<Text>(У вас низкое довольство.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>О боги. Ладно. Рим быстро разберется с тобой, и тогда я смогу спокойно вернуться в свой театр.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Ты был не лучшим другом Риму, а врагов Рима нужно привести к покорности.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Да, хорошо. Довольно этой чепухи.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Хоть я и художник, прежде всего я император Рима. Я не могу сдаться на таких условиях.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Прошу, нет нужды продолжать эту войну. Мне нужно сочинять стихи, а ты... ну, уверен, ты занимаешься чем-то помимо драк...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>Какой великий артист погибает!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_NERO_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_NERO_ANY]</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_JFD_THEATRUM_NAME" Language="ru_RU">
+			<Text>Театр|театра|театру|театр|театром|театре</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_JFD_THEATRUM_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальное здание Рима, заменяющее амфитеатр, если Нерон является лидером. Генерирует очки [ICON_GREATMUSICIAN] великого музыканта и содержит ячейку для [ICON_GREATWORK_MUSIC] музыкального шедевра.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_JFD_THEATRUM_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Театр Древнего Рима относится к периоду театральной практики и представлений в Риме, начавшемуся в IV веке до н. э. после перехода государства от монархии к республике. Театр той эпохи обычно делят на жанры трагедии и комедии. До наших дней дошли некоторые произведения Плавта, Теренция и Сенеки. Со временем театр стал важной частью римского общества, поскольку превратился в главное средство, с помощью которого римляне выражали свои политические чувства в республиканский и имперский периоды Рима.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

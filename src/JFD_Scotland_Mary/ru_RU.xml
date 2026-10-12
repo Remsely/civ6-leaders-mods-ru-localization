@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JFD's Scotland: Mary — русский перевод -->
+<GameData>
+	<LocalizedText>
+		<!-- MOD -->
+		<Replace Tag="LOC_MOD_JFD_SCOTLAND_MARY_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР — МАРИЯ[NEWLINE][NEWLINE]ОСОБЕННОСТЬ — БЕЛАЯ КОРОЛЕВА[NEWLINE]Счастливые города получают дополнительно +5% к [ICON_FAITH] вере; города в экстазе удваивают это значение до +10%. Вы получаете бесплатного шпиона, когда основана первая и последняя религия, и можете покупать шпионов за [ICON_FAITH] веру после изучения социального института «Реформация».[NEWLINE][NEWLINE]ПОВЕСТКА — КОРОЛЕВА ШОТЛАНДЦЕВ[NEWLINE]Старается поддерживать как можно больше довольства и [ICON_FAITH] веры и уважает цивилизации, которые делают то же. Считает заблуждающимися цивилизации с высоким довольством, но слабой [ICON_FAITH] верой.</Text>
+		</Replace>
+		<!-- LEADER -->
+		<Replace Tag="LOC_LEADER_JFD_MARY_NAME" Language="ru_RU">
+			<Text>Мария|Марии|Марии|Марию|Марией|Марии</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Agenda -->
+		<Replace Tag="LOC_AGENDA_JFD_QUEEN_SCOTS_NAME" Language="ru_RU">
+			<Text>Королева шотландцев</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_QUEEN_SCOTS_DESCRIPTION" Language="ru_RU">
+			<Text>Старается поддерживать как можно больше довольства и [ICON_FAITH] веры и уважает цивилизации, которые делают то же. Считает заблуждающимися цивилизации с высоким довольством, но слабой [ICON_FAITH] верой.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_MARY_REASON_LEADS_FAITH_AND_LEADS_HAPPINESS" Language="ru_RU">
+			<Text>(У вас сильная вера, и ваши города довольны.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_QUEEN_SCOTS_LEADS_FAITH_AND_LEADS_HAPPINESS" Language="ru_RU">
+			<Text>Мария уважает вашу заботу о благополучии своего народа</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_MARY_REASON_LEADS_HAPPINESS_AND_LAGS_FAITH" Language="ru_RU">
+			<Text>(Ваши города довольны, но у вас слабая вера.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_QUEEN_SCOTS_LEADS_HAPPINESS_AND_LAGS_FAITH" Language="ru_RU">
+			<Text>Мария считает, что духовному благополучию вашего народа чего-то недостает</Text>
+		</Replace>
+		<!-- DOM -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_MARY" Language="ru_RU">
+			<Text>Сквозь испытания и предательства, заговоры и измены вы твердо хранили веру, королева Шотландии Мария. Ваши верные подданные беспокойно ждут. По вашему слову, шепотом или пером, они исполнят вашу волю в вере и молчании. Используйте их сейчас и верните себе свободу и законное место на троне.</Text>
+		</Replace>
+		<!-- Traits -->
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_WHITE_QUEEN_NAME" Language="ru_RU">
+			<Text>Белая королева</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_WHITE_QUEEN_DESCRIPTION" Language="ru_RU">
+			<Text>Счастливые города получают дополнительно +5% к [ICON_FAITH] вере; города в экстазе удваивают это значение до +10%. Вы получаете бесплатного шпиона, когда основана первая и последняя религия, и можете покупать шпионов за [ICON_FAITH] веру после изучения социального института «Реформация».</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_WHITE_QUEEN_SPY_NOTIFICATION" Language="ru_RU">
+			<Text>Все больше желающих испытать нашу веру, но они не уйдут от нашего взора. Вы получаете 1 [COLOR_GREEN]шпиона[ENDCOLOR].</Text>
+		</Replace>
+		<!-- Pedia -->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARY_TITLE" Language="ru_RU">
+			<Text>Мария</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARY_SUBTITLE" Language="ru_RU">
+			<Text>Королева шотландцев</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARY_QUOTE" Language="ru_RU">
+			<Text>Прислушайтесь к своей совести и помните, что театр всего мира шире королевства Англии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARY_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Мария родилась в декабре 1542 года во дворце Линлитгоу, единственным ребенком шотландского короля Якова V и его французской жены Марии де Гиз. Когда ей было шесть дней, ее отец умер, и она стала королевой. Вместо нее правила регентом мать.[NEWLINE][NEWLINE]В возрасте всего пяти лет Мария была обручена с сыном Генриха VIII Эдуардом. Но ее католические опекуны были против этого союза и увезли юную Марию в замок Стерлинг, нарушив договор. Генрих приказал совершить серию жестоких, но безуспешных набегов на Шотландию, известных как «грубое сватовство».[NEWLINE][NEWLINE]Понимая выгоды союза с Францией, шотландцы обручили юную королеву с Франциском, четырехлетним наследником французской короны, и отправили Марию воспитываться при дворе Генриха II. В апреле 1558 года молодая пара была должным образом обвенчана, а в 1559 году Франциск стал королем, ненадолго объединив французскую и шотландскую короны. Однако на следующий год Франциск умер от воспаления уха.[NEWLINE][NEWLINE]Вдовой в 18 лет Мария вернулась в Шотландию, где столкнулась со множеством трудностей. Будучи католичкой в официально протестантской стране, она вызывала подозрение у некоторых подданных. Мария приняла правительство, возглавляемое протестантами, и поначалу правила умеренно.[NEWLINE][NEWLINE]В 1565 году Мария вышла замуж за своего кузена, лорда Дарнли. Их отношения быстро разладились, и по мере того как избалованный и капризный Дарнли проводил с Марией все меньше времени, она становилась все ближе к своему советнику, графу Босуэллу.[NEWLINE][NEWLINE]В марте 1566 года Дарнли и группа протестантских дворян убили итальянского секретаря Марии, Давида Риццио. Они утверждали, что у Риццио связь с Марией и что он использует ее, чтобы получить влияние при дворе. Дарнли и дворяне ворвались к Марии, находившейся на последних сроках беременности, когда она ужинала с Риццио и пятью близкими друзьями, в том числе Босуэллом. Заговорщики выволокли Риццио из-за стола в соседнюю комнату и нанесли ему 56 ударов кинжалом.[NEWLINE][NEWLINE]После рождения сына Якова в июне 1566 года отношения Дарнли и Марии продолжали ухудшаться. В феврале 1567 года в доме, где останавливался Дарнли, неподалеку от Эдинбурга произошел взрыв. Его тело нашли снаружи, что породило предположения, будто он пережил взрыв, но затем был убит.[NEWLINE][NEWLINE]Выйдя за графа Босуэлла — главного подозреваемого в убийстве Дарнли — всего через три месяца, Мария настроила против себя шотландскую знать. Босуэлла изгнали, а Марию в июле 1567 года заставили отречься от престола. Ее заключили в замок Лохливен в Кинроссшире, а ее малолетний сын Яков стал королем.[NEWLINE][NEWLINE]Бежав из Лохливена в 1568 году, но лишь для того, чтобы ее армия потерпела поражение в битве при Лэнгсайде близ Глазго, Мария бежала в Англию искать убежища у своей кузины Елизаветы I.[NEWLINE][NEWLINE]Мария надеялась, что королева Елизавета поддержит ее дело, но ее приезд в Англию поставил кузину в трудное положение. У католички Марии были также веские права на английский трон, поэтому Елизавета посадила ее под стражу и установила за ней надзор.[NEWLINE][NEWLINE]В течение следующих 19 лет Мария стала центром многочисленных католических заговоров с целью убить Елизавету и возвести ее на английский трон. Поскольку Мария не принимала в этих заговорах прямого участия, Елизавета не решалась действовать против нее.[NEWLINE][NEWLINE]Затем в 1586 году Мария переписывалась с Энтони Бабингтоном, который замышлял свергнуть Елизавету. Это стало ее погибелью. Письма перехватил начальник разведки Елизаветы Фрэнсис Уолсингем. Это было доказательство, нужное ему, чтобы убедить Елизавету: пока Мария жива, она всегда будет опасна. Марию судили за государственную измену и в октябре 1586 года приговорили к смерти.[NEWLINE][NEWLINE]Елизавета тянула с подписанием смертного приговора, но в конце концов подписала, и Марию казнили в замке Фотерингей 8 февраля 1587 года в возрасте 44 лет.[NEWLINE][NEWLINE]Сын Марии Яков унаследовал престол Елизаветы в 1603 году. В 1612 году он приказал эксгумировать тело матери из Питерборского собора и поместить в склеп капеллы короля Генриха VII в Вестминстерском аббатстве.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARY_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Шпионы должны течь из Шотландии Марии нескончаемым потоком, особенно когда соседи позволяют им сохранять свободу.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARY_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Шотландия — сильная цивилизация в области науки и инженерии, которая стремится сохранять своих людей как можно более довольными, чтобы питать свой прогресс, но Мария также поддерживает веру и шпионскую деятельность. Тщательно планируйте города, чтобы постараться поставить поле для гольфа рядом с каждым центром города (и, если возможно, рядом с развлекательным комплексом). Вы отличный сосед, потому что будете часто воевать, возвращая территории, потерянные соседними цивилизациями: ради бонусов к [ICON_Movement] передвижению и [ICON_Production] производству в этих сражениях стоит участвовать. Горец поможет закрепить ваши приобретения как раз тогда, когда вы вступите в XX век и начнете вести Шотландию к победе, вероятнее всего, в космической гонке.</Text>
+		</Replace>
+		<!-- Diplomacy -->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Приветствую вас как Мария, законная королева Шотландии. Придите согнать меня с трона, и я покажу вам свою свирепость.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Приходите, я хочу знать, можно ли вам доверять. В моем ближайшем городе мы сможем поговорить с глазу на глаз.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я поговорю с вами, но это не значит, что я вам доверяю.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Какие тайны вы от меня скрываете? Если никаких, мы можем без страха обменяться сведениями о наших столицах.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Любопытно, зачем вы пришли.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я согласна. Я буду зорко следить за вашей делегацией.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я не пущу змей в свой тронный зал.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Вам нечего от меня скрывать? Тогда вам нечего бояться моей делегации.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Благодарю вас.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>А какие козни это принесет в мое королевство? Нет, это совершенно неприемлемо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Что мы выиграем, так строго охраняя наши границы? Или откроем их друг для друга?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Друзья даются нелегко. Надеюсь, я не пожалею об этом.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я вижу вашу ложь насквозь. Ответ — нет.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я чувствую, что могу вам доверять. Молюсь, чтобы вы чувствовали то же. Публичное объявление о дружбе пошло бы на пользу нам обоим.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я рада тем немногим, кому могу доверять в этом мире.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Возможно, вы правы, что не так доверчивы.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Моему законному месту угрожают враги, таящиеся в тени. Я призываю добрых друзей стать более близкими союзниками в час моей нужды.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Мне всегда приятно видеть лицо, полное жизни.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Вашему духу недостает силы, и от этого вы бледны и болезненны.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я была права, не доверяя вам: теперь вы ведете армию к моему порогу.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MARY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MARY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я была глупа, думая, что вам можно доверять.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я разглядела вашу ложь. Вам нельзя доверять. (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_QUEEN_SCOTS_LEADS_HAPPINESS_AND_LAGS_FAITH" Language="ru_RU">
+			<Text>(Ваши города довольны, но у вас слабая вера.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Это была ваша ошибка. Скоро вы увидите, что мои агенты повсюду.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я больше не могу терпеть это положение. Это война.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Я приму любую возможность мира.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Мир, чтобы дождаться дня, когда вы ударите мне в спину? Думаю, нет.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Эта война была ошибкой. Прошу вас подумать о мире.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>Ваша гнусная ложь будет вашей погибелью. Мои шпионы разрушат вас изнутри.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_MARY_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_MARY_ANY]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

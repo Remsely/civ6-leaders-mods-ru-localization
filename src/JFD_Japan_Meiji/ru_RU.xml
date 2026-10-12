@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MOD_JFD_KOREA_MEIJI_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР -- МЭЙДЗИ[NEWLINE][NEWLINE]ОСОБЕННОСТЬ - ИМПЕРАТОРСКАЯ РЕСТАВРАЦИЯ[NEWLINE]Районы получают +1 к бонусу за соседство за каждый соседний район вместо +0,5. Становится доступен уникальный юнит «Императорская армия» после изучения социального института «Национализм».[NEWLINE][NEWLINE]ПОВЕСТКА - ФУКОКУ КЕХЭЙ[NEWLINE]Симпатизирует цивилизациям с сильной современной армией, уравновешенной богатой [ICON_CULTURE] культурой. Презирает цивилизации, которые ставят одно выше другого.[NEWLINE][NEWLINE]ЮНИТ - ИМПЕРАТОРСКАЯ АРМИЯ[NEWLINE]Уникальный японский юнит ближнего боя Промышленной эры, если лидером является Мэйдзи. Дает +2 к лояльности за ход, находясь в городе в качестве гарнизона, а в завоеванных городах - +4.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JFD_MEIJI_NAME" Language="ru_RU">
+			<Text>Мэйдзи|Мэйдзи|Мэйдзи|Мэйдзи|Мэйдзи|Мэйдзи</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_FUKOKU_KYOHEI_NAME" Language="ru_RU">
+			<Text>Фукоку кехэй</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_FUKOKU_KYOHEI_DESCRIPTION" Language="ru_RU">
+			<Text>Симпатизирует цивилизациям с сильной современной армией, уравновешенной богатой [ICON_CULTURE] культурой. Презирает цивилизации, которые ставят одно выше другого.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_FUKOKU_KYOHEI_REASON_LEADS_CULTURE_AND_LEADS_STANDING_ARMY" Language="ru_RU">
+			<Text>(У вас сильная культура и сильная регулярная армия)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_FUKOKU_KYOHEI_LEADS_CULTURE_AND_LEADS_STANDING_ARMY" Language="ru_RU">
+			<Text>Мэйдзи уважает вашу мощь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_FUKOKU_KYOHEI_REASON_LAGS_CULTURE_AND_LEADS_STANDING_ARMY" Language="ru_RU">
+			<Text>(У вас сильная регулярная армия, но слабая культура)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_FUKOKU_KYOHEI_LAGS_CULTURE_AND_LEADS_STANDING_ARMY" Language="ru_RU">
+			<Text>Мэйдзи презирает вашу жалкую культуру.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_FUKOKU_KYOHEI_REASON_LEADS_CULTURE_AND_LAGS_STANDING_ARMY" Language="ru_RU">
+			<Text>(У вас сильная культура, но слабая регулярная армия)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_FUKOKU_KYOHEI_LEADS_CULTURE_AND_LAGS_STANDING_ARMY" Language="ru_RU">
+			<Text>Мэйдзи не уважает вашу жалкую армию.</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_MEIJI" Language="ru_RU">
+			<Text>Великий император Мэйдзи, для Японии начинается заря новой эпохи. Почитай императора. Изгони варваров. Вот те принципы, которые ты должен внушить своему народу, чтобы сделать Японию образцом нового современного государства.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_IMPERIAL_RESTORATION_NAME" Language="ru_RU">
+			<Text>Императорская реставрация</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_IMPERIAL_RESTORATION_DESCRIPTION" Language="ru_RU">
+			<Text>Районы получают +1 к бонусу за соседство за каждый соседний район вместо +0,5. Становится доступен уникальный юнит «Императорская армия» после изучения социального института «Национализм».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MEIJI_TITLE" Language="ru_RU">
+			<Text>Мэйдзи</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MEIJI_SUBTITLE" Language="ru_RU">
+			<Text>Император Японии</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MEIJI_QUOTE" Language="ru_RU">
+			<Text>Я мечтал об объединенной Японии. О стране сильной, независимой и современной... Теперь у нас есть железные дороги и пушки, западная одежда, но мы не должны забывать, кто мы и откуда мы родом.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MEIJI_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Император Мэйдзи, называемый также Мэйдзи Великий или Мэйдзи Добрый, был 122-м императором Японии по традиционному порядку наследования и правил с 3 февраля 1867 года до своей смерти 30 июля 1912 года. При нем наступила эпоха Мэйдзи, время быстрых перемен, в течение которого Японская империя преобразилась из изоляционистского феодального государства в индустриальную мировую державу.[NEWLINE][NEWLINE]К моменту рождения императора Мэйдзи в 1852 году Япония была феодальной доиндустриальной страной, в которой господствовал изоляционистский сегунат Токугава и подчиненные ему даймио, правившие более чем 250 децентрализованными владениями страны. К моменту его смерти в 1912 году Япония пережила обширную политическую, экономическую и социальную революцию и стала одной из великих держав мировой сцены. «Нью-Йорк таймс» подытожила это преображение на похоронах императора в 1912 году словами: «контраст между тем, что предшествовало погребальной колеснице, и тем, что следовало за ней, был поистине поразителен. Перед ней шла старая Япония; за ней пришла новая Япония».[NEWLINE][NEWLINE]Начиная с Нового времени, после смерти императора Японии ему дают посмертное имя. Такое имя сочетает эпоху, в которую он правил, и соответствует вкладу императора в престол при жизни. Поэтому, хотя при жизни он был известен публично лишь как «Император», исторически после смерти он известен как «император Мэйдзи». Это нынешнее имя он получил в связи с эпохой Мэйдзи, охватившей почти все его правление. Его личное имя (которое не употребляется ни в каком официальном или формальном контексте, кроме подписи) было Муцухито.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MEIJI_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>При Мэйдзи модернизация Японии - это построение хорошей компактной империи, в которой религиозное и [ICON_Culture] культурное развитие сочетаются с военным прогрессом.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MEIJI_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Японии выгодно развивать хорошо обученную армию, так как это обеспечивает стабильный приток очков великого писателя. В дополнение они получают бонус к строительству зданий военного лагеря и театральной площади. Мэйдзи получает такой же хороший бонус за соседство от размещения священных мест и кампусов рядом друг с другом, как и от их размещения у гор. Так что найти удачную местность японцам не страшно, они могут положиться на плотную городскую застройку. К XX веку их электронная промышленность может заработать и сделать их угрозой для победы по [ICON_Culture] культуре.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Выказывай почтение в моем присутствии. Что привело тебя ко двору?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Не побеседуешь ли со мной в моем ближайшем городе?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Согласен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Не обменяешься ли ты с Японией сведениями о своей столице?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Мои приветствия.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Хорошо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Мне это неинтересно.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Я отправил тебе делегацию от имени Японии.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Я согласен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Я не могу согласиться.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Япония хочет заключить с тобой соглашение о праве прохода.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Я согласен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Я вынужден отказать.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Примешь ли ты публичное объявление дружбы с Японией?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Очень хорошо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Жаль.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Присоединишься ли ты к Японии в союзе?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Твое государство - поистине образец современного.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Не забывай своих корней.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Ты должен перевести своих солдат в другое место.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MEIJI_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MEIJI_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Ты бесчестишь самого себя.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>У тебя нет чести (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_FUKOKU_KYOHEI_LAGS_CULTURE_AND_LEADS_STANDING_ARMY" Language="ru_RU">
+			<Text>(У вас сильная регулярная армия, но слабая культура)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_FUKOKU_KYOHEI_LEADS_CULTURE_AND_LAGS_STANDING_ARMY" Language="ru_RU">
+			<Text>(У вас сильная культура, но слабая регулярная армия)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Да будет так.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Я согласен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Нет. Этого нельзя сделать.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Не поговоришь ли ты со мной о мире?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>Я побежден.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_MEIJI_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_MEIJI_ANY]</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JFD_IMPERIAL_ARMY_NAME" Language="ru_RU">
+			<Text>Императорская армия|императорской армии|императорской армии|императорскую армию|императорской армией|императорской армии</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JFD_IMPERIAL_ARMY_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный японский юнит ближнего боя Промышленной эры, если лидером является Мэйдзи. Дает +2 к лояльности за ход, находясь в городе в качестве гарнизона, а в завоеванных городах - +4.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_IMPERIAL_ARMY_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Императорская армия Японии была официальными сухопутными вооруженными силами Японской империи с 1868 по 1945 год. Ею управляли Генеральный штаб Императорской армии Японии и Министерство армии, номинально подчинявшиеся императору Японии как верховному главнокомандующему армии и Императорского флота Японии. Позднее третьим ведомством, надзирающим за армией, стала Генеральная инспекция авиации. Во время войны или национальных чрезвычайных ситуаций номинальные командные функции императора централизовались в Императорской ставке (IGHQ) - специальном органе, состоявшем из начальника и заместителя начальника Генерального штаба армии, министра армии, начальника и заместителя начальника Генерального штаба флота, генерального инспектора авиации и генерального инспектора военной подготовки. </Text>
+		</Replace>
+		<Replace Tag="LOC_MOD_JFD_JAPAN_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЦИВИЛИЗАЦИЯ - ЯПОНИЯ[NEWLINE][NEWLINE]ОСОБЕННОСТЬ - ПЕРО И МЕЧ[NEWLINE]+50% [ICON_PRODUCTION] производства при строительстве зданий района военного лагеря и района театральной площади. Военные юниты дают очки [ICON_GREATWRITER] великого писателя при получении повышения.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HOJO_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Японии выгодно развивать хорошо обученную армию, так как это обеспечивает стабильный приток очков великого писателя. В дополнение они получают бонус к строительству зданий военного лагеря и театральной площади. Ходзе процветает на береговой линии, где его земля и военно-морские силы наиболее эффективны - следите за ними на картах моря! Хотя они могут показаться лишь военной силой, под руководством Ходзе Япония способна эффективно конкурировать в религии или [ICON_Culture] культуре. К XX веку их электронная промышленность может заработать и сделать их угрозой для победы по [ICON_Culture] культуре.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_JFD_PEN_AND_SWORD_NAME" Language="ru_RU">
+			<Text>Перо и меч</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_JFD_PEN_AND_SWORD_DESCRIPTION" Language="ru_RU">
+			<Text>+50% [ICON_PRODUCTION] производства при строительстве зданий района военного лагеря и района театральной площади. Военные юниты дают очки [ICON_GREATWRITER] великого писателя при получении повышения.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

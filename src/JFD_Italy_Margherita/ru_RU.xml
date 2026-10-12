@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MOD_JFD_ITALY_MARGHERITA_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР -- МАРГАРИТА[NEWLINE][NEWLINE]ОСОБЕННОСТЬ - КУЛЬТУРНАЯ ЖЕМЧУЖИНА[NEWLINE]Районы, расположенные рядом с центром города, приносят [ICON_CULTURE] культуру, равную их бонусу за соседство. Становится доступен уникальный проект «Королевский тур» после изучения социального института «Дипломатическая служба».[NEWLINE][NEWLINE]ПРОЕКТ - КОРОЛЕВСКИЙ ТУР[NEWLINE]Уникальный проект района Италии, если лидером является Маргарита. Пока активен, дает +1 [ICON_Amenities] довольства, а по завершении - очки [ICON_GREATARTIST] великого художника, [ICON_GREATMUSICIAN] музыканта и [ICON_GREATWRITER] писателя.[NEWLINE][NEWLINE]ПОВЕСТКА - ДИАДЕМА КОРОЛЕВЫ[NEWLINE]Любит собирать вокруг себя художников, музыкантов и писателей и симпатизирует цивилизациям, у которых народ доволен, если у них то же правительство, что и у нее. С подозрением относится к цивилизациям, соперничающим с ней за тех же великих людей.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JFD_MARGHERITA_NAME" Language="ru_RU">
+			<Text>Маргарита|Маргариты|Маргарите|Маргариту|Маргаритой|Маргарите</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_CIRCLE_OF_THE_QUEEN_NAME" Language="ru_RU">
+			<Text>Диадема королевы</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_CIRCLE_OF_THE_QUEEN_DESCRIPTION" Language="ru_RU">
+			<Text>Любит собирать вокруг себя художников, музыкантов и писателей и симпатизирует цивилизациям, у которых народ доволен, если у них то же правительство, что и у нее. С подозрением относится к цивилизациям, соперничающим с ней за тех же великих людей.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_MARGHERITA_REASON_LEADS_HAPPINESS_AND_SAME_GOVERNMENT" Language="ru_RU">
+			<Text>(Ваши города довольны, и у вас то же правительство.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_CIRCLE_OF_THE_QUEEN_LEADS_HAPPINESS_AND_SAME_GOVERNMENT" Language="ru_RU">
+			<Text>Маргарита рада видеть в вас просвещенного правителя, заботящегося о довольстве своего народа</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_MARGHERITA_REASON_LEADS_GREAT_PEOPLE" Language="ru_RU">
+			<Text>(Вы соперничаете за великих людей.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_CIRCLE_OF_THE_QUEEN_LEADS_GREAT_PEOPLE" Language="ru_RU">
+			<Text>Маргарита недовольна тем, что вы соперничаете за великих людей</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_MARGHERITA" Language="ru_RU">
+			<Text>Объединенная веками культуры и искусства, Италия призывает свою королеву привлечь сердца своего народа к нации. Отправляйтесь по дорогам, что вьются среди ее виноградников и по ее сельской местности. Примите обычаи и традиции, делающие Италию единой, и позаботьтесь о том, чтобы Рисорджименто никогда не было отменено.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_ROYAL_EXCURSION_NAME" Language="ru_RU">
+			<Text>Культурная жемчужина</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_ROYAL_EXCURSION_DESCRIPTION" Language="ru_RU">
+			<Text>Районы, расположенные рядом с центром города, приносят [ICON_CULTURE] культуру, равную их бонусу за соседство. Становится доступен уникальный проект «Королевский тур» после изучения социального института «Дипломатическая служба».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_TITLE" Language="ru_RU">
+			<Text>Маргарита</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_SUBTITLE" Language="ru_RU">
+			<Text>Королева-консорт Италии</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_QUOTE" Language="ru_RU">
+			<Text>Всегда вперед, Савойя!</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Принцесса Маргарита Савойская была королевой-консортом Итальянского королевства в браке с Умберто I.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Маргариту воспитывали в духе патерналистской монархии с идеалом просвещенного деспотизма. Поскольку королевы не было, Маргарита стала первой дамой Италии сразу после замужества, и на нее возложили множество представительских обязанностей, призванных сделать новый королевский дом объединенной Италии популярным по всему полуострову. Она стала великим достоянием на этом поприще благодаря умению говорить и делать правильные вещи, чтобы вызывать у публики энтузиазм и чувства на своих публичных выступлениях. Во время представительских поездок по Италии, предпринятых ради популярности королевского дома, а значит и объединенного итальянского государства, она старательно надевала местные народные костюмы и демонстрировала энтузиазм по отношению к местным обычаям, традициям и культуре; этот метод сделал ее столь популярной, что она затмила популярность супруга.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Маргарита стала королевой Италии со вступлением Умберто на престол 9 января 1878 года. В критической ситуации того года, с королем и папой, а также покушением на нового короля, Умберто, как сообщают, спрашивал у Маргариты политических советов. Покушение на короля, совершенное Джованни Пассананте в ноябре 1878 года, как сообщают, заставило ее работать еще энергичнее для укрепления престижа короны и воспитания верности институту, собирая сторонников и заводя связи. Как и будучи кронпринцессой, она получала активную помощь в этом налаживании связей и создании образа от своих любимых придворных, маркизы Паолы Песс ди Виламарина и маркиза Эмануэле Песс ди Виламарина, назначенных соответственно ее dama d'onore (старшей фрейлиной) и cavaliere d'onore (старшим камергером).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>29 июля 1900 года Умберто I, после покушений анархистов Джованни Пассананте и Пьетро Аччарито, был убит еще одним анархистом, Гаэтано Бреши. Маргарита встретила огромное сочувствие как вдова убитого монарха, и вокруг нее возник настоящий миф о скорбящей вдове. Она осознавала этот миф и действовала соответственно, чтобы на пользу престижу монархии. Как королева-мать, Маргарита согласилась отойти на второй план и позволить невестке занять первое место, поскольку это было частью монархической системы, бывшей ее идеалом. Однако это не означало, что она ушла из общественной жизни, и она оставалась заметной публичной фигурой, исполняя то, что считала своим династическим долгом, - официальные визиты в больницы и церкви - до самой смерти.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_CHAPTER_HISTORY_PARA_5" Language="ru_RU">
+			<Text>Ей не нравилась терпимость ее сына-короля к демократии, которую она считала формой социалистической монархии, и она, как могла, отстаивала монархические традиции против демократических тенденций. Сын не желал позволять ей влиять на государственные дела, но она оставалась вовлеченной в политику через свои связи и оставалась политической фигурой. В отличие от большинства националистов, Маргарита, однако, выступала против Первой мировой войны. Во время войны она превратила одну из своих резиденций в госпиталь и активно работала в Красном Кресте.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_CHAPTER_HISTORY_PARA_6" Language="ru_RU">
+			<Text>После окончания Первой мировой войны Маргарита боялась социалистической революции и конца монархии, и это в сочетании с ее национализмом, социальным консерватизмом и антипарламентаризмом привело к тому, что она поддержала фашизм Бенито Муссолини, к которому питала личное уважение, хотя никогда прямо не выражала поддержки. В октябре 1922 года квадрумвиры (Эмилио Де Боно, Итало Бальбо, Микеле Бьянки и Чезаре Мария де Векки) посетили ее в Бордигере, чтобы засвидетельствовать почтение перед Маршем на Рим.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_CHAPTER_HISTORY_PARA_7" Language="ru_RU">
+			<Text>Согласно легенде, в 1889 году в ее честь была названа пицца «Маргарита», красные помидоры, зеленый базилик и белый сыр которой воплощают итальянский флаг.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Италия - цивилизация, ориентированная на выращивание великих умов. Маргарита позаботится о том, чтобы у этих великих умов было достаточно культуры, которая их вдохновляет.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_MARGHERITA_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Италия стремится строить компактные города с районами, расположенными вплотную друг к другу, чтобы получать как можно больше очков великих людей. Благодаря бонусу Маргариты к культуре она захочет размещать эти районы ближе к центру города. Уникальное здание Дуомо дополнит их особую ориентацию на культуру и искусство, а надежный уникальный юнит, кондотьер, позволит Италии защищать свои границы от вторжений. При таком разнообразном стиле игры Италия может добиваться любого типа победы.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>А, хорошо, вы пришли. Не волнуйтесь - приветствуйте меня как подобает королеве Италии, Маргарите Савойской. Вот так.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Прошу, не желаете ли составить мне компанию? Неподалеку у меня дворец, и мне очень хотелось бы показать вам сады.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Я с большим удовольствием приму ваше приглашение. Благодарю вас.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Давайте поговорим о наших столицах. Разделив их красоту, наши нации сблизятся друг с другом.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Рада снова вас видеть.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Я радушно приняла вашу делегацию в своем дворце. Надеюсь, это предвещает добрую общую будущность.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Мне это не составит труда. Я отказала вашей делегации.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Я отправила делегацию в вашу столицу, а с ней - одно из лучших блюд Италии. Впрочем, не думаю, что мне нужно говорить, какое.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Я приветствую эту договоренность.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Простите, но я не могу просто так открыть границы Италии для кого попало.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Прошу, ради доброй воли обменяемся с вами правом прохода.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Чудесно. Молюсь, чтобы наша дружба была долгой и плодотворной.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Вы не сделали ничего, чтобы заслужить дружбу Италии или мою.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Дорогой правитель, наши дела так мне понравились, что я хотела бы выразить это в публичном объявлении дружбы. Разделяете ли вы мои чувства?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Пусть наши будущие дела будут так же приятны.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Я надеялась, что вы будете сговорчивее. Похоже, это не так.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Я всегда рассчитывала на вас в мирное время. Могу ли я рассчитывать на ваш союз, если, не дай Бог, на нас обрушится война?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Находиться в вашем обществе - всегда облегчение и удовольствие.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Если вы продолжите красть великие умы, наши встречи станут по-настоящему утомительными.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Если вы хотите воевать, то, королева я или нет, я встречу ваших людей на поле боя бок о бок со своими. Но молю вас убрать солдат до этого.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MARGHERITA_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_MARGHERITA_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Мир не обманешь. Этот поступок ничего не меняет.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Мой круг рассказал мне о ваших весьма гнусных деяниях. Я не стану молчать. Мир узнает о них (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_CIRCLE_OF_THE_QUEEN_LEADS_GREAT_PEOPLE" Language="ru_RU">
+			<Text>(Вы соперничаете за тех же великих людей.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Какой печальный поворот событий. Надеюсь, мы скоро вернемся к миру.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Это прискорбно, но война должна предшествовать миру.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Благодарю вас за согласие на мир.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Я не могу заставить себя подвергнуть Италию унижению. Я не могу принять ваш мир.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Мы должны постараться закончить эту войну, если хотим сохранить лучшее в наших двух нациях.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>Меня тревожит, что что-то могло принудить вас уничтожить другую нацию.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_MARGHERITA_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_MARGHERITA_ANY]</Text>
+		</Replace>
+		<Replace Tag="LOC_RESOURCE_JFD_MARGHERITA_NAME" Language="ru_RU">
+			<Text>Королевский тур</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_JFD_ROYAL_TOUR_NAME" Language="ru_RU">
+			<Text>Королевский тур</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_JFD_ROYAL_TOUR_SHORT_NAME" Language="ru_RU">
+			<Text>Королевский тур</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_JFD_ROYAL_TOUR_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный проект района Италии, если лидером является Маргарита. Пока активен, дает +1 [ICON_Amenities] довольства, а по завершении - очки [ICON_GREATARTIST] великого художника, [ICON_GREATMUSICIAN] музыканта и [ICON_GREATWRITER] писателя.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

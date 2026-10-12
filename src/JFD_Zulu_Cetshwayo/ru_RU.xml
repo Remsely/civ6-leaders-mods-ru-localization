@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JFD's Zulu: Cetshwayo — русский перевод -->
+<GameData>
+	<LocalizedText>
+		<!-- MOD -->
+		<Replace Tag="LOC_MOD_JFD_ZULU_CETSHWAYO_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР — КЕЧВАЙО[NEWLINE][NEWLINE]ОСОБЕННОСТЬ — КОРОЛЕВСКИЕ КРААЛИ[NEWLINE]Район «Иканда» приносит +1 ед. лояльности за каждое здание, а также дополнительные [ICON_CULTURE] культуру и [ICON_FOOD] еду за соседние лагеря и пастбища. Города с полной лояльностью нельзя осадить.[NEWLINE][NEWLINE]ПОВЕСТКА — ОБРАЩЕНИЕ ОСБОРНА[NEWLINE]Симпатизирует цивилизациям, готовым основать с ним посольство, особенно тем, у кого более сильная армия. Не доверяет цивилизациям, развязывающим войны на его континенте, не основав сначала с ним посольство.</Text>
+		</Replace>
+		<Replace Tag="LOC_MOD_JFD_ZULU_CETSHWAYO_TEASER" Language="ru_RU">
+			<Text>Добавляет Кечвайо как альтернативного лидера зулусов.</Text>
+		</Replace>
+		<!-- LEADER -->
+		<Replace Tag="LOC_LEADER_JFD_CETSHWAYO_NAME" Language="ru_RU">
+			<Text>Кечвайо|Кечвайо|Кечвайо|Кечвайо|Кечвайо|Кечвайо</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Agenda -->
+		<Replace Tag="LOC_AGENDA_JFD_OSBORNE_APPEAL_NAME" Language="ru_RU">
+			<Text>Обращение Осборна</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_OSBORNE_APPEAL_DESCRIPTION" Language="ru_RU">
+			<Text>Симпатизирует цивилизациям, готовым основать с ним посольство, особенно тем, у кого более сильная армия. Не доверяет цивилизациям, развязывающим войны на его континенте, не основав сначала с ним посольство.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_CETSHWAYO_REASON_EMBASSY" Language="ru_RU">
+			<Text>(У вас есть с ним посольство.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_OSBORNE_APPEAL_EMBASSY" Language="ru_RU">
+			<Text>Кечвайо ценит вашу готовность вести с ним дипломатический диалог</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_CETSHWAYO_REASON_EMBASSY_AND_LEADS_ARMY" Language="ru_RU">
+			<Text>(У вас есть с ним посольство, и у вас сильная армия.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_OSBORNE_APPEAL_EMBASSY_AND_LEADS_ARMY" Language="ru_RU">
+			<Text>Кечвайо особенно ценит вашу готовность вести с ним дипломатический диалог</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_CETSHWAYO_REASON_NO_EMBASSY_AND_ATTACKED_CONTINENT" Language="ru_RU">
+			<Text>(Вы начали войну на его континенте, но у вас нет с ним посольства.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_OSBORNE_APPEAL_NO_EMBASSY_AND_ATTACKED_CONTINENT" Language="ru_RU">
+			<Text>Кечвайо не доверяет вашим намерениям</Text>
+		</Replace>
+		<!-- DOM -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_CETSHWAYO" Language="ru_RU">
+			<Text>О великий король Кечвайо ка Мпанде, война — не единственный путь в жизни. Именно мир и забота о народе и его благополучии приведут вас к победе над врагами. Заботьтесь о здоровье своих людей и их любви к своему племени, и народ зулусов ответит вам такой же силой.</Text>
+		</Replace>
+		<!-- Traits -->
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_ROYAL_CORRALS_NAME" Language="ru_RU">
+			<Text>Королевские краали</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_ROYAL_CORRALS_DESCRIPTION" Language="ru_RU">
+			<Text>Район «Иканда» приносит +1 ед. лояльности за каждое здание, а также дополнительные [ICON_CULTURE] культуру и [ICON_FOOD] еду за соседние лагеря и пастбища. Города с полной лояльностью нельзя осадить.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_ROYAL_CORRALS_DESCRIPTION_ALT" Language="ru_RU">
+			<Text>Район «Иканда» приносит +1 ед. лояльности за каждое здание, а также дополнительные [ICON_CULTURE] культуру и [ICON_FOOD] еду за соседние лагеря и пастбища. Города с полной лояльностью нельзя осадить. Вы получаете мушкетеров импи после открытия технологии «Порох».</Text>
+		</Replace>
+		<!-- Pedia -->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CETSHWAYO_TITLE" Language="ru_RU">
+			<Text>Кечвайо</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CETSHWAYO_SUBTITLE" Language="ru_RU">
+			<Text>Король зулусов</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CETSHWAYO_QUOTE" Language="ru_RU">
+			<Text>Я боюсь лишь одного: что зулусы не станут сражаться.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CETSHWAYO_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Кечвайо был племянником первых двух королей зулусов, Чаки и Дингане. Когда его отец Мпанде в 1840 году сместил Дингане, Кечвайо оказался в линии непосредственного королевского наследования. Но его перспективы оставались неопределенными: хотя он был старшим сыном первой жены Мпанде, почти ровесником ему приходился сводный брат Мбулази, старший сын более любимой второй жены Мпанде.[NEWLINE][NEWLINE]Мпанде уклонился от выбора между юношами, но образовались группировки, и в 1856 году они взялись за оружие. Группировка Кечвайо — усуту — одержала сокрушительную победу, которая была в той же мере триумфом над Мпанде, что и над Мбулази. После этого Кечвайо стал самостоятельной силой в стране, хотя Мпанде прожил до 1872 года, не будучи низложенным.[NEWLINE][NEWLINE]Умный и обладавший значительной силой характера, Кечвайо вдохнул новую энергию в управление зулусским государством и его военную организацию. Главные проблемы его правления возникли из-за белых соседей. Столкнувшись с пограничным спором с Трансваалем, он поддерживал добрые отношения с британской колонией Наталь. В 1878 году он согласился на расследование спора комиссией чиновников Наталя. Хотя расследование подтвердило претензии Кечвайо, британский верховный комиссар, судя по всему, опасался, что решение против Трансвааля может настроить против британцев мнение белых и тем самым поставить под угрозу дело федерации Южной Африки, которое он должен был продвигать. Поэтому он удерживал решение, пока не продвинул подготовку к войне, а затем сопроводил пограничное решение ультиматумом, который Кечвайо никак не мог принять.[NEWLINE][NEWLINE]Военные действия начались в январе 1879 года. У Кечвайо не было надежды на успех против противника, который был лучше вооружен и мог вести кампанию, не считаясь со временем пахоты и жатвы. В августе он был разбит и отправлен в изгнание, а Зулуленд разделили на 13 мелких королевств с назначенными правителями.[NEWLINE][NEWLINE]В 1882 году, когда стало ясно, что такое устройство неработоспособно, Кечвайо поехал в Лондон на переговоры, а в 1883 году ему вернули центральную часть Зулуленда. К тому времени в зулусском обществе открылись глубокие расколы. На севере ему угрожал опасный соперник, его двоюродный брат Зибебу, а сторонники самого Кечвайо из усуту, по-видимому, не желали мириться с урезанным королевством, отведенным ему. Через несколько месяцев начались ожесточенные бои, закончившиеся тем, что Кечвайо бежал в британский резерват на юге зулусской страны.[NEWLINE][NEWLINE]Там Кечвайо умер в феврале 1884 года. Официальной причиной назвали болезнь сердца, но не исключено, что его отравили. К концу жизни он был сломленной силой, и его смерть расчистила путь новому руководству.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CETSHWAYO_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Зулусы — скотоводы, и они заботятся о земле и благополучии своего народа превыше всего.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CETSHWAYO_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Корпуса и армии Кечвайо — не единственный источник его лояльности. Помимо создания сильной военной базы, важно улучшать пастбища и лагеря в его городах, чтобы взращивать рост и культуру его народа. Этому поможет и обучение грозных юнитов импи, ведь они требуют небольших затрат на производство и содержание. Зулусам проще завоевывать и удерживать лояльность в покоренных городах, а это крайне нужное умение для управления их обширной империей.</Text>
+		</Replace>
+		<!-- Diplomacy -->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Добро пожаловать в мое королевство, великий вождь. Я Кечвайо ка Мпанде. Оставайтесь, и я окажу вам более достойный прием.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Прошу вас, приезжайте в мой ближайший город, где мы будем пировать, пока не насытятся наши сердца.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Я был бы глупцом, если бы отказался.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Если вы благосклонно взглянете на нас, мы бы хотели обменяться сведениями о наших двух столицах.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Вам всегда рады, друг мой.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Почту за честь принять.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Прошу прощения, но не могу.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>С лучшей нашей кожей в дар я прошу вас принять делегацию от моего народа.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Благодарю вас.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Прошу простить меня, но я не могу на это согласиться.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Думаю, нашим народам было бы очень полезно открыть границы друг для друга.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Я смирен этой честью.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Пока я вынужден отказаться. Быть может, время для этого настанет позже.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Вы были достойным другом издалека. Я хотел бы сделать эту дружбу официальной. Окажете ли вы мне такую честь?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Я сердечно признателен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Я понимаю. Возможно, в другой раз.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Моему народу угрожают неумолимые враги. С вашим союзом они, возможно, отступятся и оставят нас в покое. Поможете ли вы нам?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Я рад этим переговорам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Мне лишь хотелось бы, чтобы вы охотнее шли на дипломатию.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Я не стремлюсь воевать с вами. Чтобы сохранить мир, прошу вас вывести ваши войска из этих земель.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CETSHWAYO_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CETSHWAYO_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Какими бы ни были наши разногласия, молю: пусть они не осудят мой народ.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Я надеялся на более дипломатичный подход, но вы испытали мое терпение сверх меры. (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_OSBORNE_APPEAL_NO_EMBASSY_AND_ATTACKED_CONTINENT" Language="ru_RU">
+			<Text>(Вы начали войну на его континенте, но у вас нет с ним посольства.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Да будет так. Но нас не растопчут так легко.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Я искал дипломатический путь, но теперь нам придется решить это в бою.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Я приветствую этот мир.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Я не могу поверить, что эти условия искренни.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Эта война лишила дома слишком многих из наших людей. Мы должны подумать о мире.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>Поражение приходит жестоко.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_CETSHWAYO_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_CETSHWAYO_ANY]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

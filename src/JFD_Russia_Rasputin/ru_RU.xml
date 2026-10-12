@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JFD's Russia: Rasputin — русский перевод -->
+<GameData>
+	<LocalizedText>
+		<!-- MOD -->
+		<Replace Tag="LOC_MOD_JFD_SCOTLAND_RASPUTIN_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР — РАСПУТИН[NEWLINE][NEWLINE]ОСОБЕННОСТЬ — СТРАННИК[NEWLINE]Миссионеры и апостолы, купленные во время [ICON_GLORY_GOLDEN_AGE] Золотого века, имеют на 1 заряд распространения больше, а купленные во время [ICON_GLORY_DARK_AGE] Темного века — на 2.[NEWLINE][NEWLINE]ПОВЕСТКА — БЛАГОДАТЬ ЧЕРЕЗ ГРЕХ[NEWLINE]Поддерживает высокий уровень [ICON_FAITH] веры и страстно добивается религиозного господства. Симпатизирует цивилизациям с низким уровнем [ICON_FAITH] веры, особенно если они переживают [ICON_GLORY_DARK_AGE] Темный век.</Text>
+		</Replace>
+		<!-- LEADER -->
+		<Replace Tag="LOC_LEADER_JFD_RASPUTIN_NAME" Language="ru_RU">
+			<Text>Распутин|Распутина|Распутину|Распутина|Распутиным|Распутине</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Agenda -->
+		<Replace Tag="LOC_AGENDA_JFD_GRACE_THROUGH_SIN_NAME" Language="ru_RU">
+			<Text>Благодать через грех</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_GRACE_THROUGH_SIN_DESCRIPTION" Language="ru_RU">
+			<Text>Поддерживает высокий уровень [ICON_FAITH] веры и страстно добивается религиозного господства. Симпатизирует цивилизациям с низким уровнем [ICON_FAITH] веры, особенно если они переживают [ICON_GLORY_DARK_AGE] Темный век.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_RASPUTIN_REASON_LAGS_FAITH" Language="ru_RU">
+			<Text>(У вас слабая вера.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_GRACE_THROUGH_SIN_LAGS_FAITH" Language="ru_RU">
+			<Text>Распутин считает, что вам необходимы его духовные познания</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_RASPUTIN_REASON_LAGS_FAITH_AND_DARK_AGE" Language="ru_RU">
+			<Text>(У вас слабая вера, и вы переживаете Темный век.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_GRACE_THROUGH_SIN_LAGS_FAITH_AND_DARK_AGE" Language="ru_RU">
+			<Text>Распутин считает, что вашему народу необходимо его духовное руководство</Text>
+		</Replace>
+		<!-- DOM -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_RASPUTIN" Language="ru_RU">
+			<Text>Народ может ненавидеть вас, но ваша вера в Бога крепка. Империя может рухнуть, но ваш дух не сломится. Злокозненный Распутин, вы имеете слово при царе. Пора разнести ваш шепот по Матушке России и за ее пределы. Бог грядет, и все неверующие погибнут.</Text>
+		</Replace>
+		<!-- Traits -->
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_STRANNIK_NAME" Language="ru_RU">
+			<Text>Странник</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_STRANNIK_DESCRIPTION" Language="ru_RU">
+			<Text>Миссионеры и апостолы, купленные во время [ICON_GLORY_GOLDEN_AGE] Золотого века, имеют на 1 заряд распространения больше, а купленные во время [ICON_GLORY_DARK_AGE] Темного века — на 2.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_STRANNIK_SPY_NOTIFICATION" Language="ru_RU">
+			<Text>Все больше желающих испытать нашу веру, но они не уйдут от нашего взора. Вы получаете 1 [COLOR_GREEN]шпиона[ENDCOLOR].</Text>
+		</Replace>
+		<!-- Pedia -->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_RASPUTIN_TITLE" Language="ru_RU">
+			<Text>Распутин</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_RASPUTIN_SUBTITLE" Language="ru_RU">
+			<Text>Старец</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_RASPUTIN_QUOTE" Language="ru_RU">
+			<Text>Бог увидел ваши слезы и услышал ваши молитвы. Не горюйте.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_RASPUTIN_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Григорий Ефимович Распутин — сибирский крестьянин и мистик, чья способность облегчать состояние Алексея Николаевича, больного гемофилией наследника российского престола, сделала его влиятельным фаворитом при дворе императора Николая II и императрицы Александры.[NEWLINE][NEWLINE]Хотя Григорий Распутин ходил в школу, он остался неграмотным, а репутация распутника принесла ему фамилию Распутин. По-видимому, в 18 лет он пережил религиозное обращение, а затем отправился в Верхотурский монастырь, где познакомился с сектой хлыстов. Распутин исказил верования хлыстов до учения о том, что человек ближе всего к Богу, когда испытывает «святую бесстрастность», и что лучший путь к такому состоянию — половое истощение после затяжного разврата. Монахом Распутин не стал. Он вернулся в Покровское и в 19 лет женился на Прасковье Федоровне Дубровиной, которая впоследствии родила ему четверых детей. Брак не успокоил Распутина. Он ушел из дома и бродяжничал по Афону, Греции и Иерусалиму, живя на подаяния крестьян и приобретая репутацию старца (самопровозглашенного святого человека), способного исцелять больных и предсказывать будущее.[NEWLINE][NEWLINE]Странствия привели Распутина в Санкт-Петербург (1903), где его тепло приняли Феофан, инспектор Санкт-Петербургской духовной академии, и Гермоген, епископ Саратовский. Придворные круги Петербурга в то время развлекались мистикой и оккультизмом, поэтому Распутина — грязного, нечесаного странника с пронзительным взглядом и, как говорили, необыкновенным даром целителя — встретили радушно. В 1905 году Распутина представили царской семье, а в 1908 году его вызвали во дворец Николая и Александры во время одного из приступов кровотечения у их сына, больного гемофилией. Распутину удалось облегчить страдания мальчика (вероятно, своими гипнотическими способностями), и, покидая дворец, он предупредил родителей, что судьба и ребенка, и династии неразрывно связана с ним, положив начало десятилетию мощного влияния Распутина на императорскую семью и государственные дела.[NEWLINE][NEWLINE]В присутствии царской семьи Распутин неизменно держался как смиренный и святой крестьянин. Но вне двора он вскоре вернулся к прежним распутным привычкам. Проповедуя, что физический контакт с ним самим очищает и исцеляет, он обзавелся любовницами и пытался соблазнить множество других женщин. Когда слухи о поведении Распутина доходили до Николая, царь отказывался верить, что тот может быть кем-то иным, кроме святого человека, а обвинители Распутина оказывались переведены в отдаленные края империи или полностью лишались влияния.[NEWLINE][NEWLINE]К 1911 году поведение Распутина стало всеобщим скандалом. Председатель Совета министров П. А. Столыпин направил царю доклад о проступках Распутина. В результате царь выслал Распутина, но Александра вернула его через несколько месяцев. Николай, не желая огорчать жену или подвергать опасности сына, на которого Распутин явно оказывал благотворное влияние, предпочел не замечать дальнейших обвинений.[NEWLINE][NEWLINE]Вершины своего могущества при российском дворе Распутин достиг после 1915 года. Во время Первой мировой войны Николай II принял на себя личное командование войсками (сентябрь 1915 года) и отправился к армии на фронт, оставив Александру во главе внутренних дел России, а Распутин служил ей личным советником. Влияние Распутина простиралось от назначения церковных чиновников до выбора министров (нередко некомпетентных карьеристов), а порой он вмешивался и в военные вопросы, во вред России. Хотя он не поддерживал никакой политической группы, Распутин был решительным противником любого, кто выступал против самодержавия или против него самого.[NEWLINE][NEWLINE]Предпринималось несколько покушений на жизнь Распутина, чтобы спасти Россию от дальнейших бедствий, но ни одно не удалось до 1916 года. Тогда группа крайних консерваторов, включая князя Феликса Юсупова (мужа племянницы царя), Владимира Митрофановича Пуришкевича (члена Думы) и великого князя Дмитрия Павловича (двоюродного брата царя), составила заговор, чтобы устранить Распутина и избавить монархию от дальнейших скандалов. В ночь с 29 на 30 декабря (16–17 декабря по старому стилю) Распутина пригласили в дом Юсупова и там угостили отравленным вином и пирожными. Когда он не умер, обезумевший Юсупов выстрелил в него. Распутин упал, но сумел выбежать во двор, где Пуришкевич выстрелил в него снова. Затем заговорщики связали его и сбросили в прорубь в реку Неву, где он и умер, утонув.[NEWLINE][NEWLINE]Убийство лишь укрепило решимость Александры отстаивать принцип самодержавия, но спустя несколько недель весь императорский режим был сметен революцией.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_RASPUTIN_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Россия Распутина — разрастающаяся амеба, соседство с которой вам ни к чему. Он отлично поглощает все земли вокруг и смущает ваш народ одним своим присутствием!</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_RASPUTIN_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Бонусы России идеальны для захвата больших территорий на суше. Во-первых, каждый город начинает крупным, а во-вторых, лавры получают дополнительные клетки для города, когда тратится великий человек. Города России быстро получат много клеток. Добавьте к этому способность Распутина сеять нелояльность через религию, и Россия легко превратит религиозную победу в победу господством.</Text>
+		</Replace>
+		<!-- Diplomacy -->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Знай, странник. Я — Распутин, мне Богом дан дар видеть, и мое место подле трона Матушки России. Я буду охранять и то и другое, не щадя жизни.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Тебе нездоровится. Я вижу это по твоей душе. Приходи в мой город неподалеку, и я позабочусь о твоем духе.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Я согласен встретиться, ибо знаю: вреда мне не причинят.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Какие грехи мешают тебе открыть мне свою столицу? Если их нет, не о чем сожалеть, обменявшись со мной сведениями.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Рад иметь дело с заблудшей овцой от имени моего царя.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Я прослежу, чтобы это было сделано.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>У моего царя нет времени на такие дела.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>С Божьего благословения, примете ли вы в своей столице делегацию от имени престола Матушки России?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Ты радуешь меня.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Мой царь будет недоволен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Я пришел от имени Матушки России и предлагаю обсудить соглашение о праве прохода.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Принимаю твою милость.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Согласиться — значит рискнуть своим местом подле трона России.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Ты был истинным другом. Если позволишь, я бы хотел, чтобы мы объявили об этом открыто.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Мой царь будет доволен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Твои поступки тревожат меня.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Мое место подле трона Матушки России под угрозой, а с ним и дух ее народа. Я пришел к тебе за союзом, чтобы она не пала.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Ты в тревоге. Но не горюй: я видел волю Божью. Твои испытания скоро кончатся.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>У меня есть слово при российском дворе. Одно слово — и твои войска будут стерты с лица земли.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_RASPUTIN_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_RASPUTIN_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Ты всего лишь еще один бес, завидующий моему влиянию и власти.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Я свидетельствовал о твоих грехах. Им нет прощения. (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Так иди же.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Я иду к тебе от имени моего царя и несу с собой суд Матушки России.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Я могу предложить этот мир, ибо Бог говорит мне, что так правильно, и мой царь того желает.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Это невозможно.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Молю тебя даровать Матушке России мир.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>Ты не можешь убить меня. Я ношу Бога, как щит.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_RASPUTIN_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_RASPUTIN_ANY]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MOD_JFD_AZTECS_CUAUHTEMOC_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР -- КУАУТЕМОК[NEWLINE][NEWLINE]ОСОБЕННОСТЬ - ОБОРОНА ТЕНОЧТИТЛАНА[NEWLINE]Получает прирост очков [ICON_GREATGENERAL] великого полководца при объявлении войны, зависящий от их количества за ход. Если война оборонительная, количество удваивается. Великие полководцы передают [ICON_MOVEMENT] ОП тем, кого сопровождают.[NEWLINE][NEWLINE]ПОВЕСТКА - НИСХОДЯЩИЙ ОРЕЛ[NEWLINE]Старается получить как можно больше великих полководцев. Симпатизирует цивилизациям с мощной армией, готовым заключать долгосрочные союзы. Не любит цивилизации, объявляющие внезапные войны.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JFD_CUAUHTEMOC_NAME" Language="ru_RU">
+			<Text>Куаутемок|Куаутемока|Куаутемоку|Куаутемока|Куаутемоком|Куаутемоке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_CUAUHTLATOANI_NAME" Language="ru_RU">
+			<Text>Нисходящий Орел</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_CUAUHTLATOANI_DESCRIPTION" Language="ru_RU">
+			<Text>Старается получить как можно больше великих полководцев. Симпатизирует цивилизациям с мощной армией, готовым заключать долгосрочные союзы. Не любит цивилизации, объявляющие внезапные войны.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_CUAUHTEMOC_REASON_AVERSE_SURPRISE_WAR" Language="ru_RU">
+			<Text>(Вы предали друга или объявили внезапную войну.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_JFD_CUAUHTLATOANI_AVERSE_SURPRISE_WAR" Language="ru_RU">
+			<Text>Куаутемок не любит тех, кто объявляет внезапные войны</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_CUAUHTEMOC_REASON_FRIEND_LEADS_STANDING_ARMY" Language="ru_RU">
+			<Text>(У вас сильная армия, и вы его друг.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_CUAUHTLATOANI_FRIEND_LEADS_STANDING_ARMY" Language="ru_RU">
+			<Text>Куаутемок хочет, чтобы у его друзей была сильная армия</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_CUAUHTEMOC" Language="ru_RU">
+			<Text>Взять в руки бразды правления империей под силу не каждому, почтенный Куаутемок. Но сейчас, как никогда, народу нужен тлатоани, решительный перед лицом битвы. Обрушьтесь на врагов, как орел, и защитите эту империю от гибели.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_DESCENDING_EAGLE_NAME" Language="ru_RU">
+			<Text>Оборона Теночтитлана</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_DESCENDING_EAGLE_DESCRIPTION" Language="ru_RU">
+			<Text>Получает прирост очков [ICON_GREATGENERAL] великого полководца при объявлении войны, зависящий от их количества за ход. Если война оборонительная, количество удваивается. Великие полководцы передают [ICON_MOVEMENT] ОП тем, кого сопровождают.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JFD_DESCENDING_EAGLE_NAME" Language="ru_RU">
+			<Text>Оборона Теночтитлана</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JFD_DESCENDING_EAGLE_DESCRIPTION" Language="ru_RU">
+			<Text>Все юниты в построении наследуют [ICON_Movement] скорость перемещения сопровождающего.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CUAUHTEMOC_TITLE" Language="ru_RU">
+			<Text>Куаутемок</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CUAUHTEMOC_SUBTITLE" Language="ru_RU">
+			<Text>Тлатоани Теночтитлана</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CUAUHTEMOC_QUOTE" Language="ru_RU">
+			<Text>Да потребует Бог с вас правосудия, как было отнято оно у меня, когда я доверился вам в моем городе Мехико!</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CUAUHTEMOC_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Куаутемок был ацтекским правителем (тлатоани) Теночтитлана с 1520 по 1521 год и последним ацтекским императором. Имя Куаутемок означает «тот, кто спустился, как орел», и обычно переводится на английский как «Нисходящий орел» - как в тот миг, когда орел складывает крылья и устремляется вниз, чтобы поразить добычу. Это имя подразумевает агрессивность и решимость.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CUAUHTEMOC_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Куаутемок пришел к власти в 1520 году как преемник Куитлауака и был двоюродным братом покойного императора Монтесумы II. Его молодая жена, позднее известная как Исабель Монтесума, была одной из дочерей Монтесумы. Он взошел на престол примерно в 25 лет, когда Теночтитлан осаждали испанцы, а город опустошала эпидемия оспы, завезенной в Новый Свет захватчиками. После убийств в Великом храме, вероятно, оставалось мало ацтекских военачальников, способных занять этот пост.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CUAUHTEMOC_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Куаутемок - воплощение индигенистского национализма в Мексике, единственный ацтекский император, переживший завоевание Испанской империей (и ее местными союзниками). В его честь воздвигнут памятник на проспекте Реформы, его лицо появлялось на мексиканских банкнотах, и его прославляют в живописи, музыке и популярной культуре.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CUAUHTEMOC_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Куаутемок - агрессивный экспансионист, расширяющий свою империю с помощью самых умелых командиров, каких только может собрать.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_CUAUHTEMOC_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Ацтеки будут воинственны на протяжении всей игры, и у них должно быть множество великих полководцев, дающих преимущество в бою. Их первый натиск - победа над врагами с помощью воинов-орлов, после которой вражеские юниты превращаются в ацтекских строителей. Эти строители становятся топливом для быстрой экспансии ацтекских городов благодаря уникальной способности тратить заряды строителей на строительство районов. В конечном счете им нужна как можно более обширная империя, поскольку любые дополнительные предметы роскоши, которые они смогут захватить, еще больше увеличат их [ICON_Amenities] довольство и дадут более сильные бонусы к атаке.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Приветствую. Я Куаутемок, правитель Теночтитлана. Если ты честен, тебе рады на этих землях.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Я приглашаю тебя поговорить со мной лично в моей ближайшей столице.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Да, я поговорю с тобой лично.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Предлагаю обменяться сведениями о наших двух великих столицах.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Приветствую.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Я приму.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Я не приму от тебя никакой делегации.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Молюсь, чтобы моя делегация добралась до тебя: она везет лучшие обсидиановые ножи моего народа в знак моей доброй воли.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Я согласен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Времена опасные, и мы не можем впускать на ацтекские земли кого попало.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Твои люди желанны на ацтекских землях. Согласен ли ты на то же?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Ты оказываешь мне честь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Я не обесчещу своих предков, связав себя с тобой.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Для меня было бы честью, если бы ты назвал себя другом моего народа.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Ты мудр.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Я не знал, что ты так глуп.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Нам нужны союзники, чтобы приносить щедрые жертвы. Могу ли я рассчитывать на тебя?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Ты честный друг, и я надеюсь, так будет и впредь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>В тебе нет чести. Кровь павших в несправедливой войне не годится, чтобы утолять жажду богов.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Ты прислал своих воинов, чтобы принести их в жертву? Если нет, то убери их с моих земель.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Я не приму это унижение. Прольется твоя кровь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Ты слабый правитель, и твоя кровь созрела для жертвы. (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_CUAUHTLATOANI_AVERSE_SURPRISE_WAR" Language="ru_RU">
+			<Text>(Вы объявляли другим внезапные войны)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Твои воины станут прекрасными жертвами.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Боги требуют крови.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>На этот раз я согласен на мир. Но скоро мы вернемся к битве.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Прими я эти условия, я был бы недостоин править своим народом. Я должен отказаться.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Мы не нанесли тебе бесчестья. Подумай о мире, иначе на твоих руках будет наша кровь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>Убей меня немедленно.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_CUAUHTEMOC_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_CUAUHTEMOC_ANY]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

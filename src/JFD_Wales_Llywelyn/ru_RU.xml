@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JFD's Wales: Llywelyn — русский перевод -->
+<GameData>
+	<LocalizedText>
+		<!-- MOD -->
+		<Replace Tag="LOC_MOD_JFD_WALES_LLYWELYN_DESCRIPTION" Language="ru_RU">
+			<Text>[NEWLINE][NEWLINE]------------------------------------[NEWLINE]ЛИДЕР — ЛЛИВЕЛИН[NEWLINE][NEWLINE]ОСОБЕННОСТЬ — СОВЕТ В АБЕРДОВИ[NEWLINE]Культурная бомба на соседние клетки при завершении каэра на дружественной территории. Каэры с гарнизоном приносят +2 ед. [ICON_ENVOY] влияния за ход.[NEWLINE][NEWLINE]ПОВЕСТКА — КНЯЗЬ ВСЕГО СЕВЕРНОГО УЭЛЬСА[NEWLINE]Любит укреплять оборону своих городов и земель и ценит цивилизации, поступающие так же. Не любит цивилизации, соперничающие за те же города-государства.</Text>
+		</Replace>
+		<!-- LEADER -->
+		<Replace Tag="LOC_LEADER_JFD_LLYWELYN_NAME" Language="ru_RU">
+			<Text>Лливелин|Лливелина|Лливелину|Лливелина|Лливелином|Лливелине</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_ABERGWYNGREGYN" Language="ru_RU">
+			<Text>Абергвингрегин</Text>
+		</Replace>
+		<!-- Agenda -->
+		<Replace Tag="LOC_AGENDA_JFD_PRINCE_WALES_NAME" Language="ru_RU">
+			<Text>Князь всего Северного Уэльса</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_PRINCE_WALES_DESCRIPTION" Language="ru_RU">
+			<Text>Любит укреплять оборону своих городов и земель и ценит цивилизации, поступающие так же. Не любит цивилизации, соперничающие за те же города-государства.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_PRINCE_WALES_REASON_COMPETING_MINORS" Language="ru_RU">
+			<Text>(Вы соперничаете за города-государства.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PRINCE_WALES_COMPETING_MINORS" Language="ru_RU">
+			<Text>Лливелин разгневан вашим вмешательством в его политические амбиции</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_PRINCE_WALES_REASON_HAS_CASTLES" Language="ru_RU">
+			<Text>(Вы изучили «Замки».)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PRINCE_WALES_HAS_CASTLES" Language="ru_RU">
+			<Text>Лливелин впечатлен вашими великими замками</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_PRINCE_WALES_REASON_HAS_MASONRY" Language="ru_RU">
+			<Text>(Вы изучили «Каменную кладку».)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PRINCE_WALES_HAS_MASONRY" Language="ru_RU">
+			<Text>Лливелин впечатлен вашими великими стенами</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_PRINCE_WALES_REASON_HAS_SIEGE_TACTICS" Language="ru_RU">
+			<Text>(Вы изучили «Осадную тактику».)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_PRINCE_WALES_HAS_SIEGE_TACTICS" Language="ru_RU">
+			<Text>Лливелин впечатлен вашими великими звездными фортами</Text>
+		</Replace>
+		<!-- DOM -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_LLYWELYN" Language="ru_RU">
+			<Text>Мир раздроблен, Лливелин ап Йорверт, но в этом есть обещание. Заключайте союзы и плетите политику, ведь вы знаете: нельзя упускать такую возможность. Сплотите своих людей, двигайтесь вперед и утвердите свое господство. Вперед, князь Гвинеда, князь Уэльса.</Text>
+		</Replace>
+		<!-- Traits -->
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_COUNCIL_ABERDYFI_NAME" Language="ru_RU">
+			<Text>Совет в Абердови</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_COUNCIL_ABERDYFI_DESCRIPTION" Language="ru_RU">
+			<Text>Культурная бомба на соседние клетки при завершении каэра на дружественной территории. Каэры с гарнизоном приносят +2 ед. [ICON_ENVOY] влияния за ход.</Text>
+		</Replace>
+		<!-- Pedia -->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_TITLE" Language="ru_RU">
+			<Text>Лливелин</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_SUBTITLE" Language="ru_RU">
+			<Text>Князь Гвинеда</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_QUOTE" Language="ru_RU">
+			<Text>Истинный владыка земли.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Лливелин ап Йорверт, известный как Лливелин Великий (умер 11 апреля 1240 года в Аберконви, Гвинед, Уэльс), — валлийский князь; самый выдающийся местный правитель, появившийся в Уэльсе до того, как регион перешел под власть Англии в 1283 году.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Лливелин был внуком Оуайна Гвинеда (умер в 1170 году), могущественного правителя Гвинеда на севере Уэльса. Еще ребенком Лливелин был изгнан своим дядей Давидом. В 1194 году он низложил Давида, а к 1202 году подчинил себе большую часть северного Уэльса. В 1205 году он женился на Джоан, внебрачной дочери английского короля Иоанна (правил в 1199–1216 годах). Тем не менее, когда попытки Лливелина распространить власть на южный Уэльс стали угрожать английским владениям, Иоанн вторгся в Уэльс (1211) и захватил большую часть Гвинеда. Князь вскоре вернул свои земли. Он укрепил положение, заключив союз с могущественными баронами — противниками Иоанна, и его действия помогли баронам повлиять на подписание королем Великой хартии вольностей (1215).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Через два года после восшествия на престол короля Генриха III (правил в 1216–1272 годах) англичане признали, что Лливелин контролирует почти весь Уэльс, но к 1223 году они заставили его отступить на север за границу между Кардиганом, Диведом и Билтом, Поуис. Однако многие валлийские князья на юге по-прежнему признавали его верховную власть. В последние годы пожилой Лливелин передал управление сыну Давиду (князю Гвинеда). Когда Лливелин умер, хронист описал его как князя Уэльса, чем он и был фактически, если не по закону.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Прославленный изящной прозой, Лливелин обладает положением силы и влияния из-за своих крепостей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LLYWELYN_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>С особенностью цивилизации «Мабиногион» и уникальными районами «Каэр» Уэльс защищает свои земли как стихами, так и могучими замками. С этой неприступной позиции способность Лливелина «Совет в Абердови» позволяет ему наращивать влияние на соседей, что дает возможность, в частности, добиваться победы господством или культурой.</Text>
+		</Replace>
+		<!-- Diplomacy -->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Приветствую. Я князь Лливелин ап Йорверт, или просто Лливелин Великий. Я завоевал Уэльс своими великими армиями и обаянием. А вы кто?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Не желаете ли посетить наш ближайший город? Я позабочусь, чтобы вас приняли хорошо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Да, я принимаю ваше предложение.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Знание о расположении столиц друг друга необходимо для развития благоприятных отношений между нами. Поделитесь, если будете так любезны...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Что вам от меня нужно?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Да, конечно, принимаю.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Поймите, я целиком за развитие добрых отношений между нами. Однако я пока не вполне доверяю вам и не могу пустить ваших людей в свое королевство. Я отклоняю вашу делегацию.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Я направил в ваше королевство делегацию с лучшими поварами моих земель: они угостят вас свежеприготовленными валлийскими лакомствами. Вскоре за ними прибудут лучшие поэты и сказители моего королевства. Прошу вас хорошо обращаться с ними, ведь они ничего не сделали против вас; если это решение вас разгневает, не срывайте злость на них: они — гордость моего народа.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Хорошо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Сожалею, но я должен отказать.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Я бы очень хотел, чтобы вы открыли границы для моего народа. Ему было бы чрезвычайно приятно увидеть ваше королевство, а что радует мой народ, радует и меня. Итак... принимаете ли вы мое предложение?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Да, конечно!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Простите, но я не могу принять это предложение. Ничего личного, не бойтесь!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Я твердо верю, что дружба между правителями — только благо. Наши граждане будут чувствовать себя безопаснее, торговля станет легче, а вместе с ней и путешествия. Это первый шаг к процветанию наших наций в мире. Принимаете ли вы?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Большое спасибо! Вы сделали меня очень счастливым.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>...почему? Почему вы отвергли это предложение? Ну что ж, что сделано, то сделано...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Я хотел бы предложить союз. Он пойдет только на пользу нам! С союзом у нас будет мир, пока мы вместе покоряем мир! Самым горячим образом рекомендую принять это предложение. Почему бы вам не согласиться?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Крепость ваших стен убеждает меня, что вы еще долго будете рядом.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Вы быстро наживете врагов, если продолжите вмешиваться в дела, которые вас не касаются.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Ваши солдаты, марширующие к моим землям, станут отличной мишенью для тренировки... Мы не промахнемся. Советую вам маршировать в другое место.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Это предложение выглядит выгодным. Я принимаю.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Простите, но я не могу принять предложение, выгодное только вам. Представьте, что вы — это я, и предложите сделку, исходя из этого.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Понятно. В эту игру можно играть вдвоем.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Я не люблю отбрасывать хорошие манеры. Однако в этой ситуации это совершенно необходимо. Вы предавали мое доверие чаще, чем я могу сосчитать. Настоящим я осуждаю вас во имя земли Уэльса! (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_PRINCE_WALES_COMPETING_MINORS" Language="ru_RU">
+			<Text>(Вы соперничаете за те же города-государства.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Рисковать — отличный способ жить. Однако бывают риски, на которые не стоит идти. Это один из них.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Обычно я давал бы длинные объяснения, но перейду прямо к делу: вы ужасный правитель, и я объявляю вам войну!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Да, выгодная сделка.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Скоро у нас будет мир... Мир наступит, когда вы умрете, а ваша империя станет моей!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Зачем мы воюем? Нам нужен мир!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>Победить меня — немалый подвиг... вы сражались хорошо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_LLYWELYN_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LLYWELYN_ANY]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

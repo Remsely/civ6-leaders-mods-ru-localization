@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JFD's Soviet Union: Vladimir Lenin — русский перевод -->
+<GameData>
+	<LocalizedText>
+		<!-- MOD -->
+		<Replace Tag="LOC_MOD_JFD_SOVIET_UNION_LENIN_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР — ВЛАДИМИР ЛЕНИН[NEWLINE][NEWLINE]ОСОБЕННОСТЬ — ПРОЛЕТАРСКАЯ РЕВОЛЮЦИЯ[NEWLINE]+1 очко [ICON_GREATENGINEER] великого инженера и [ICON_GREATSCIENTIST] великого ученого за каждый действующий культурный, экономический и научный союз (удваивается на уровне 3). +25% к получению очков союза после изучения социального института «Классовая борьба».[NEWLINE][NEWLINE]ПОВЕСТКА — МИРОВОЙ СОЦИАЛИЗМ[NEWLINE]Предпочитает культурные, экономические и научные союзы военным и религиозным. Восхищается цивилизациями с большим числом союзов и таким же правительством. Решительно выступает против тиранов с другим правительством.</Text>
+		</Replace>
+		<!-- LEADER -->
+		<Replace Tag="LOC_LEADER_JFD_LENIN_NAME" Language="ru_RU">
+			<Text>Владимир Ленин|Владимира Ленина|Владимиру Ленину|Владимира Ленина|Владимиром Лениным|Владимире Ленине</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Agenda -->
+		<Replace Tag="LOC_AGENDA_JFD_WORLD_SOCIALISM_NAME" Language="ru_RU">
+			<Text>Мировой социализм</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_WORLD_SOCIALISM_DESCRIPTION" Language="ru_RU">
+			<Text>Предпочитает культурные, экономические и научные союзы военным и религиозным. Восхищается цивилизациями с большим числом союзов и таким же правительством. Решительно выступает против тиранов с другим правительством.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_LENIN_MANY_ALLIANCES_AND_SAME_GOVERNMENT" Language="ru_RU">
+			<Text>(У вас много союзов, и у вас такое же правительство.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_JFD_WORLD_SOCIALISM_MANY_ALLIANCES_AND_SAME_GOVERNMENT" Language="ru_RU">
+			<Text>Ленин хвалит ваше стремление к международным союзам</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_LENIN_DIFF_GOVERNMENT" Language="ru_RU">
+			<Text>(У вас другое правительство.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_JFD_WORLD_SOCIALISM_DIFF_GOVERNMENT" Language="ru_RU">
+			<Text>Ленин считает ваше правительство тиранией</Text>
+		</Replace>
+		<!-- DOM -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_LENIN" Language="ru_RU">
+			<Text>Призыв к революции прозвучал, Владимир Ленин, и трудящиеся всего мира встают как ваши товарищи. Возьмите бразды истории в свои руки и куйте прочные союзы. Создайте лоскутное одеяло революционных государств, и, возможно, мир удастся вырвать из лап тиранов.</Text>
+		</Replace>
+		<!-- Traits -->
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_PROLETARIAT_REVOLUTION_NAME" Language="ru_RU">
+			<Text>Пролетарская революция</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_PROLETARIAT_REVOLUTION_DESCRIPTION" Language="ru_RU">
+			<Text>+1 очко [ICON_GREATENGINEER] великого инженера и [ICON_GREATSCIENTIST] великого ученого за каждый действующий культурный, экономический и научный союз (удваивается на уровне 3). +25% к получению очков союза после изучения социального института «Классовая борьба».</Text>
+		</Replace>
+		<!-- Pedia -->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LENIN_TITLE" Language="ru_RU">
+			<Text>Владимир Ленин</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LENIN_SUBTITLE" Language="ru_RU">
+			<Text>Председатель Совета народных комиссаров Советского Союза</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LENIN_QUOTE" Language="ru_RU">
+			<Text>Иногда истории нужен толчок.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LENIN_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Владимир Ильич Ленин — российский революционер-коммунист, политик и политический теоретик. С 1917 года он был главой Российской Советской Федеративной Социалистической Республики, а с 1922 года одновременно — главой правительства Советского Союза, до самой смерти. При его правлении Российская империя была упразднена и заменена Советским Союзом — однопартийным социалистическим государством; промышленность и предприятия были национализированы, а одна партия взяла под контроль все организации во всех сферах общества. Красная армия под командованием его соратника Троцкого заняла некоторые территории, такие как Украина, Армения, Грузия и Азербайджан, которые создали независимые государства. Политически марксист, он внес теоретический вклад в марксистскую мысль, известный как ленинизм, который вместе с марксовой экономической теорией стал называться марксизмом-ленинизмом.[NEWLINE][NEWLINE]Родившийся в состоятельной буржуазной семье в Симбирске, Ленин заинтересовался революционной левой политикой после казни его брата Александра в 1887 году. Исключенный из Казанского государственного университета за участие в антицарских протестах, следующие годы он посвятил получению юридического образования и радикальной политике, став марксистом. В 1893 году он переехал в Санкт-Петербург и стал видным деятелем Российской социал-демократической рабочей партии (РСДРП). Арестованный за подстрекательство и сосланный в Сибирь на три года, он женился на Надежде Крупской и бежал в Западную Европу, жил в Германии, Франции, Англии и Швейцарии, где прославился как крупный партийный теоретик. В 1903 году он сыграл ключевую роль в расколе РСДРП, возглавив фракцию большевиков против меньшевиков Юлия Мартова. Ненадолго вернувшись в Россию во время революции 1905 года, он призывал к насильственному восстанию, а позднее выступал за превращение Первой мировой войны в общеевропейскую пролетарскую революцию. После того как Февральская революция 1917 года свергла царя, он вернулся в Россию.[NEWLINE][NEWLINE]Ленин сыграл важнейшую роль в организации Октябрьской революции 1917 года, которая привела к свержению Временного правительства и образованию Российской Социалистической Федеративной Советской Республики, первого в мире конституционно социалистического государства. Сразу после этого новое правительство под руководством Ленина приступило к социалистическим реформам, включая передачу поместий и коронных земель рабочим советам. Он поддерживал мировую революцию и немедленный мир с Центральными державами, согласившись на карательный договор, по которому значительная часть бывшей Российской империи отходила Германии. Договор был аннулирован после победы держав Антанты в войне. В 1921 году Ленин предложил Новую экономическую политику — систему государственного капитализма, положившую начало индустриализации и восстановлению после Гражданской войны. В 1922 году РСФСР вместе с другими бывшими территориями Российской империи образовала Советский Союз, и Ленина избрали его руководителем.[NEWLINE][NEWLINE]После его смерти марксизм-ленинизм развился в ряд течений — ленинизм, троцкизм и маоизм. Ленин остается спорной и вызывающей яростные разногласия фигурой мирового масштаба. Недоброжелатели называют его диктатором, при чьем правлении происходили многочисленные нарушения прав человека, а сторонники отвергают эту критику и представляют его как борца за рабочий класс. Ленин оказал значительное влияние на международное коммунистическое движение и был одной из самых влиятельных и противоречивых фигур XX века.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LENIN_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Стремительно индустриализирующийся Советский Союз умело прокладывает путь по деревьям технологий и социальных институтов. Когда этого недостаточно, его армии становятся силой, с которой приходится считаться.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_LENIN_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Советский Союз — мощная глобализирующая сила благодаря способности превращать науку и промышленность в культуру и туризм. Уникальный район «Наукоград» дополнит это, производя дополнительных великих ученых и науку. С Лениным у руля Советский Союз использует эти преимущества, чтобы перехитрить противников на международной арене, и сможет добиваться почти любого типа победы.</Text>
+		</Replace>
+		<!-- Diplomacy -->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Приветствую, товарищ. Я Владимир Ленин. Вы друг революции или очередной тиран, которого надлежит раздавить?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Прошу вас, приезжайте в мой ближайший город, где мы лучше познакомимся с идеалами друг друга.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Хороший план.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Думаю, нам стоит обменяться сведениями о наших столицах.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Да?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Я встречусь с вашей делегацией.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Я не стану вести дела с теми, кто настаивает, что мы не можем встречаться как равные.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Я направил к вам делегацию. Выслушайте ее. Прислушайтесь к ней. И тогда, быть может, мы поговорим дальше.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Я доволен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Неразумное решение.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Призываю вас открыть границы. Революция придет так или иначе.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Звучит приемлемо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Я не дружу с тиранами.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Согласитесь ли вы публично объявить о дружбе со мной? Наше великое дело в одиночку не выиграть.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Благодарю вас.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Тогда не будем больше об этом говорить.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Революция будет выиграна на плечах прочных союзов. Присоединяйтесь к нам и встаньте на правильную сторону истории.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Вы образцовый революционер, друг мой.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Считайте свои дни. Таким тиранам, как вы, недолго осталось в этом мире.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Вам не запугать революцию. Она уже началась.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LENIN_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_LENIN_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Тогда вы осудили историю.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Я не стану молчать перед вашей тиранией. (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_WORLD_SOCIALISM_DIFF_GOVERNMENT" Language="ru_RU">
+			<Text>(У вас другое правительство.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Мы будем сопротивляться вам. История будет сопротивляться вам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Теперь лишь кровь может ответить на зов революции.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Да, согласен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Нет. Я не сдам вам революцию.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Пришло время вести переговоры о мире.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>Вы победили одного человека. Но революция — это многие.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_LENIN_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_LENIN_ANY]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

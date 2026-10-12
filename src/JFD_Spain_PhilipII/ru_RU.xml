@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JFD's Spain: Philip II — русский перевод -->
+<GameData>
+	<LocalizedText>
+		<!-- MOD -->
+		<Replace Tag="LOC_MOD_JFD_SPAIN_PHILIP_II_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР — ФИЛИПП II[NEWLINE][NEWLINE]ОСОБЕННОСТЬ — ПЛЮС УЛЬТРА[NEWLINE]Вы получаете [ICON_GOLD] золото и [ICON_FAITH] веру при основании новых городов; чем дальше от столицы, тем больше. Вы получаете уникальный юнит «Аделантадо» после изучения социального института «Исследование».[NEWLINE][NEWLINE]ЮНИТ — АДЕЛАНТАДО[NEWLINE]Уникальный разведывательный юнит Испании, если лидером является Филипп II. Передает свое [ICON_MOVEMENT] передвижение юнитам, которых сопровождает.[NEWLINE][NEWLINE]ПОВЕСТКА — НЕ НИЖЕ МНОГИХ[NEWLINE]Старается исследовать и контролировать как можно большую часть карты и симпатизирует цивилизациям, оставляющим исследование ему. Не любит цивилизации, соперничающие с ним в исследовании карты.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_NOT_UNEQUAL_TO_MANY_NAME" Language="ru_RU">
+			<Text>Не ниже многих</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_NOT_UNEQUAL_TO_MANY_DESCRIPTION" Language="ru_RU">
+			<Text>Старается исследовать и контролировать как можно большую часть карты и симпатизирует цивилизациям, оставляющим исследование ему. Не любит цивилизации, соперничающие с ним в исследовании карты.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_PHILIP_II_REASON_HIGH_EXPLORATION" Language="ru_RU">
+			<Text>(Вы соперничаете за исследование мира.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_NOT_UNEQUAL_TO_MANY_HIGH_EXPLORATION" Language="ru_RU">
+			<Text>Филипп II рассержен тем, что вы соперничаете за карту мира</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_LOW_EXPLORATION" Language="ru_RU">
+			<Text>(Вы не соперничаете за исследование мира.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_NOT_UNEQUAL_TO_MANY_LOW_EXPLORATION" Language="ru_RU">
+			<Text>Филиппу II нравится, что вы не пытаетесь исследовать карту мира</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_NOT_UNEQUAL_TO_MANY_HIGH_EXPLORATION" Language="ru_RU">
+			<Text>(Вы соперничаете за исследование мира.)</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_PLUS_ULTRA_NAME" Language="ru_RU">
+			<Text>Плюс ультра</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_PLUS_ULTRA_DESCRIPTION" Language="ru_RU">
+			<Text>Вы получаете [ICON_GOLD] золото и [ICON_FAITH] веру при основании новых городов; чем дальше от [ICON_CAPITAL] столицы, тем больше. Вы получаете уникальный юнит «Аделантадо» после изучения социального института «Исследование».</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JFD_ADELANTADO_NAME" Language="ru_RU">
+			<Text>Аделантадо|Аделантадо|Аделантадо|Аделантадо|Аделантадо|Аделантадо</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JFD_ADELANTADO_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный разведывательный юнит Испании, если лидером является Филипп II. Передает свое [ICON_MOVEMENT] передвижение сопровождаемым юнитам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_ADELANTADO_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Аделантадо — титул, который носили испанские дворяне на службе у своих королей в Средние века. Позднее он использовался как воинский титул некоторых испанских конкистадоров XV, XVI и XVII веков. Аделантадо получали от монарха непосредственное право стать губернаторами и судьями определенной области, которую им поручалось завоевать, в обмен на финансирование и организацию первых экспедиций, поселений и умиротворения целевой территории от имени Кастильской короны. Эти области обычно находились вне юрисдикции существующей аудиенсии или вице-короля, и аделантадо имели право напрямую сообщаться с Советом по делам Индий.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

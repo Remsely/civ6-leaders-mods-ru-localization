@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MOD_JFD_ROME_ANTONINUS_PIUS_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЛИДЕР -- АНТОНИН ПИЙ[NEWLINE][NEWLINE]ОСОБЕННОСТЬ - ЧЕТВЕРТЫЙ ХОРОШИЙ ИМПЕРАТОР[NEWLINE]Одна ячейка военного курса при текущем правительстве превращается в экономическую. Кампусы, театральные площади и священные места строятся на 20% быстрее в мирное время. Становится доступно уникальное здание «Храм Адриана».[NEWLINE][NEWLINE]ЗДАНИЕ - ХРАМ АДРИАНА[NEWLINE]Уникальное здание Рима, заменяющее монумент, если Антонин Пий является лидером. Дает очки [ICON_FAITH] веры и [ICON_GREATGENERAL] великого полководца. Также дает +1 [ICON_AMENITIES] довольства, если в городе есть кампус, военный лагерь или театральная площадь.[NEWLINE][NEWLINE]ПОВЕСТКА - САМООБЛАДАНИЕ[NEWLINE]Старается поддерживать мир и строить как можно больше кампусов, театральных площадей и священных мест. Симпатизирует цивилизациям, не представляющим военной угрозы. Не любит милитаристов и тех, кто не заботится о довольстве своего народа.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JFD_ANTONINUS_PIUS_NAME" Language="ru_RU">
+			<Text>Антонин Пий|Антонина Пия|Антонину Пию|Антонина Пия|Антонином Пием|Антонине Пии</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_EQUANIMITY_NAME" Language="ru_RU">
+			<Text>Самообладание</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_JFD_EQUANIMITY_DESCRIPTION" Language="ru_RU">
+			<Text>Старается поддерживать мир и строить как можно больше кампусов, театральных площадей и священных мест. Симпатизирует цивилизациям, не представляющим военной угрозы. Не любит милитаристов и тех, кто не заботится о довольстве своего народа.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_ANTONINUS_PIUS_REASON_LAGS_HAPPINESS" Language="ru_RU">
+			<Text>(У вас низкое довольство.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_EQUANIMITY_LAGS_HAPPINESS" Language="ru_RU">
+			<Text>Антонин огорчен тем, что вы пренебрегаете довольством своего народа</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JFD_ANTONINUS_PIUS_REASON_LAGS_STANDING_ARMY" Language="ru_RU">
+			<Text>(У вас небольшая регулярная армия.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_EQUANIMITY_LAGS_STANDING_ARMY" Language="ru_RU">
+			<Text>Антонин рад, что вы не представляете угрозы для Рима</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JFD_ANTONINUS_PIUS_REASON_WARMONGER" Language="ru_RU">
+			<Text>(Вы милитарист.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_AGENDA_JFD_EQUANIMITY_WARMONGER" Language="ru_RU">
+			<Text>Антонин чувствует угрозу в вашей воинственности</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JFD_ANTONINUS_PIUS" Language="ru_RU">
+			<Text>Славьтесь, Антонин Пий, император Рима. Много великих достижений у ваших предшественников, но сейчас эти достижения под угрозой. Войны и насилие грозят искоренить римский уклад жизни. Не повторяйте сражений предков, а поднимите знамя мира и благочестия, если хотите сохранить наследие Рима.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_DUTIFUL_AFFECTION_NAME" Language="ru_RU">
+			<Text>Четвертый хороший император</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_DUTIFUL_AFFECTION_DESCRIPTION" Language="ru_RU">
+			<Text>Одна ячейка военного курса при текущем правительстве превращается в экономическую. Кампусы, театральные площади и священные места строятся на 20% быстрее в мирное время. Становится доступно уникальное здание «Храм Адриана».</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_JFD_DUTIFUL_AFFECTION_DESCRIPTION_RWF" Language="ru_RU">
+			<Text>Одна ячейка военного курса при текущем правительстве превращается в религиозную. Кампусы, театральные площади и священные места строятся на 20% быстрее в мирное время. Становится доступно уникальное здание «Храм Адриана».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_TITLE" Language="ru_RU">
+			<Text>Антонин Пий</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_SUBTITLE" Language="ru_RU">
+			<Text>Император Рима</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_QUOTE" Language="ru_RU">
+			<Text>Живи так, чтобы завтрашний день был подобен сегодняшнему, а сегодняшний - вчерашнему.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Антонин Пий был римским императором с 138 по 161 год н. э. Когда 10 июля 138 года н. э. умер император Адриан, он, как и его предшественники, оставил в качестве преемника усыновленного сына - Антонина Пия. Антонин, чье прозвище означает «благочестивый», был справедливым и сострадательным человеком, любимым и уважаемым как простым народом, так и людьми во власти. Следующие 23 года его правления (по продолжительности уступающего лишь правлению Августа) прошли относительно мирно, что обеспечило ему место среди пяти хороших императоров.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>На самом деле Антонин Пий не был первым выбором Адриана, и даже вторым. В 136 году н. э. Адриан, здоровье которого ухудшалось, а сам он был на грани самоубийства, понял, что у него нет собственных сыновей и остается лишь усыновить кого-то. Своим наследником он выбрал консула Луция Цейония Коммода. Новоиспеченный сын был немедленно отправлен наместником в Паннонию, но, к несчастью для обоих, в январе 138 года н. э. Луций умер от туберкулеза. Адриан оказался на распутье. Он хотел видеть преемником гораздо более молодого Марка Аврелия (тому было всего 16 лет), но умирающий император понимал, что Марк слишком юн, и выбрал вместо него весьма ценимого и немолодого Антонина, которого считали «безопасным» вариантом, пока Марк не повзрослеет.[NEWLINE][NEWLINE]К удивлению всех, Антонин не только прожил гораздо дольше, чем ожидали, но и оказался способным, хотя и не слишком усердным императором. По словам историка Кассия Диона, «говорят, Антонин обладал пытливым умом и не чурался тщательного изучения даже мелких и будничных вопросов». Он добавлял: «Все признают, что Антонин был благороден и добр, не угнетал ни христиан, ни прочих своих подданных...»[NEWLINE][NEWLINE]Хотя его семья происходила из южной Галлии, Антонин Пий родился в Ланувии, в 20 милях к югу от Рима, 19 сентября 86 года н. э. и получил имя Тит Аврелий Фульв Боион Аррий Антонин, такое же, как у его отца. Его мать, Аррия Фадилла, была дочерью дважды консула Аррия Антонина. И отец, и дед по отцу были консулами. Юный Антонин вырос в большом имении в Лории, сначала под присмотром деда по отцу, а затем деда по матери. Унаследованное имение, где позднее он построил дворец, сделало его чрезвычайно богатым, и хотя военного опыта у него не было, он с успехом служил консулом, претором и квестором, а с 135 по 136 год н. э. - наместником в Малой Азии.[NEWLINE][NEWLINE]О самом Антонине и времени его правления сохранилось мало сведений. Большая часть известного происходит от его биографа Юлия Капитолина, который писал:[NEWLINE][NEWLINE]«Внешностью он был поразительно красив, от природы блестяще одарен, нравом добр; он был аристократичен лицом и спокоен по характеру, на редкость талантливый оратор и изящный ученый, заметно бережлив, добросовестный землевладелец, мягок, щедр и внимателен к чужим правам. Все эти качества он имел в должной мере и без тщеславия и, словом, был достоин похвалы во всем и в мыслях всех достойных людей».[NEWLINE][NEWLINE]24 января 138 года н. э. император Адриан объявил о намерении усыновить 51-летнего Антонина как сына и наследника, а 28 февраля 138 года н. э. усыновление состоялось. Однако оно сопровождалось «условием». Капитолин писал:[NEWLINE][NEWLINE]«Говорят, усыновление происходило примерно так: когда Адриан объявил о желании усыновить его, ему дали время решить, хочет ли он быть усыновленным. К усыновлению прилагалось условие: как Адриан берет Антонина в сыновья, так и он, в свою очередь, должен взять Марка Антонина, племянника своей жены, и Луция Вера».[NEWLINE][NEWLINE]Эта двойная церемония позволила подготовить Марка в преемники Антонина. Позднее права Марка на трон стали еще прочнее, когда он женился на дочери Антонина и его единственном выжившем ребенке - Фаустине Младшей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>10 июля 138 года н. э. уравновешенный Антонин Пий взял в руки бразды правления Римской империей, предполагая просто продолжать политику Адриана. Хотя причины его прозвища называют разные, «Пий» - это имя, которое дал ему Сенат, якобы за верность памяти Адриана. Одной из первых его забот стало обожествление «отца» Адриана, на что Сенат согласился неохотно. Хотя в Мавретании, Германии и Египте случались мелкие беспорядки, он доверял справляться с ними своим полководцам и никогда не покидал безопасного Рима (некоторые считают, что это было слишком дорого), правя из города или из своего имения.[NEWLINE][NEWLINE]Как и ожидалось, он продолжал многие начинания Адриана, однако Антонин все же оставил свой след в городе и империи. Он настаивал на справедливом и беспристрастном отправлении правосудия и даже освободил многих людей, которых заточил прежний император (он убедил Сенат, что такова была воля Адриана). Торговля процветала, а строгий контроль над финансами позволил оставить к моменту его смерти государственный излишек. Единственной его расточительностью стало празднование 900-летия Рима. Он завершил многие строительные проекты Адриана и воздвиг памятники, среди которых храм божественного Адриана и, в память о жене, храм божественной Фаустины. Он также отремонтировал многие общественные здания, в том числе ветшавший Колизей. В Шотландии Адрианов вал был оставлен, а в 40 милях к северу, от залива Ферт-оф-Клайд до залива Ферт-оф-Форт, был построен новый - Антонинов вал; позднее и его оставили, а римляне отступили к Адриану валу. Его биограф писал: «Он раздавал народу подарки, а солдатам - денежные дары... Кроме того, он помогал многим общинам возводить новые здания и восстанавливать старые». 9 марта 161 года н. э. Антонин умер от лихорадки, якобы после ужина с альпийским сыром. Его правление запомнилось как период относительного мира. Его погребли в мавзолее Адриана рядом с женой и сыновьями. Бразды правления перешли к его усыновленным сыновьям, Марку Аврелию и Луцию Веру.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_CAPSULE_BODY" Language="ru_RU">
+			<Text>Будьте уверены, Рим никогда не прекратит попытки стать самой большой империей в игре. Антонин Пий чтит предков, подкрепляя это глубокой верой.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JFD_ANTONINUS_PIUS_CHAPTER_DETAILED_BODY" Language="ru_RU">
+			<Text>Рим хочет быстро построить города, а затем изучить инженерное дело. С появлением инженерного дела к городам могут быть добавлены бани, что позволит им быстрее расти (и быстро расширяться благодаря дополнительному довольству от Антонина Пия). Их способность «Все дороги ведут в Рим» приносит стабильный доход от сети городов ([ICON_TradeRoute] торговые пути, ведущие из внутренних городов империи в чужие земли, должны работать хорошо; не все их [ICON_TradeRoute] торговые пути должны быть внутренними). Это расширение наверняка приведет к конфликту, но как раз к этому времени появится возможность создавать легионы. Способность легиона строить форты появляется у Рима на две эпохи раньше, чем у других цивилизаций. Их эффективное использование - ключ к удержанию обширной и могущественной империи.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Приветствую. Я Антонин Пий. Добро пожаловать в Рим.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Я рад вам и приглашаю вас посетить меня в Риме.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Хорошо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Предлагаю обменяться сведениями о наших столицах на благо наших народов.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Да?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Я принял вашу делегацию. Надеюсь, это обеспечит мир между нами.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>На этот раз я не могу принять вашу делегацию.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Я отправил делегацию в вашу столицу вместе с надеждой на мир между нашими империями.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Я согласен.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Не могу согласиться. Это нанесло бы ущерб Риму.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Предлагаю заключить соглашение о праве прохода, чтобы наши люди могли свободно перемещаться между двумя империями.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Да будет так.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Нет. Этого я принять не могу.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Прошу вас присоединиться ко мне и объявить о нашей дружбе всему миру.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Очень хорошо.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Этого я терпеть не стану.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Мир, которого я добился, шаток. Я ищу союзников, чтобы поставить этот храм на более прочный фундамент.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Да сохранится мир между нашими империями еще на один день.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Я устал от кровопролития, которого вы жаждете.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Я не хочу воевать. Прошу вас убрать войска от моих границ.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Не понимаю, что вы надеетесь выиграть этим поступком.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Вы причинили большое огорчение мне и моему народу (Осуждает вас.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_EQUANIMITY_LAGS_HAPPINESS" Language="ru_RU">
+			<Text>(У вас низкое довольство.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_JFD_EQUANIMITY_WARMONGER" Language="ru_RU">
+			<Text>(Вы милитарист.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Мне горько, но я все равно одержу над вами верх и верну миру покой.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Я не люблю войну, но делаю то, что необходимо, чтобы обеспечить мир.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Согласен. Пора прекратить боевые действия.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Я не могу пренебречь долгом перед Римом. На этот раз мира не будет.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Не любя войну, я прошу мира.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>Рима больше нет. Боюсь, светоч цивилизованного мира угас навеки.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_JFD_ANTONINUS_PIUS_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JFD_ANTONINUS_PIUS_ANY]</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_JFD_TEMPLE_HADRIAN_NAME" Language="ru_RU">
+			<Text>Храм Адриана|храма Адриана|храму Адриана|храм Адриана|храмом Адриана|храме Адриана</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_JFD_TEMPLE_HADRIAN_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальное здание Рима, заменяющее монумент, если Антонин Пий является лидером. Дает очки [ICON_FAITH] веры и [ICON_GREATGENERAL] великого полководца. Также дает +1 [ICON_AMENITIES] довольства, если в городе есть кампус, военный лагерь или театральная площадь.[NEWLINE][NEWLINE]Дает +1 к лояльности в этом городе за ход. Если в городе уже максимальная лояльность, дает дополнительно +1 [ICON_CULTURE] культуры.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_JFD_TEMPLE_HADRIAN_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Храм Адриана - храм в честь обожествленного Адриана на Марсовом поле в Риме, Италия, построенный его приемным сыном и преемником Антонином Пием в 145 году и ныне включенный в состав более позднего здания на площади Пьетра. Когда-то его ошибочно называли храмом Нептуна.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

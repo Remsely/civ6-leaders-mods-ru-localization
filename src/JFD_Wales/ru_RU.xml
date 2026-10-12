@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JFD's Wales — русский перевод. Термины «Каэр», «Айстедвод» используются и в src/JFD_Wales_Llywelyn. -->
+<GameData>
+	<LocalizedText>
+		<!-- MOD -->
+		<Replace Tag="LOC_MOD_JFD_WALES_DESCRIPTION" Language="ru_RU">
+			<Text>------------------------------------[NEWLINE]ЦИВИЛИЗАЦИЯ — УЭЛЬС[NEWLINE][NEWLINE]ОСОБЕННОСТЬ — МАБИНОГИОН[NEWLINE]Получает очки [ICON_GREATWRITER] великого писателя за убийства; на своих землях — вдвое больше. Каждый уровень стен имеет ячейку для [ICON_GREATWORK_WRITING] литературного шедевра.[NEWLINE][NEWLINE]РАЙОН — КАЭР[NEWLINE]Отдельный оборонительный район, уникальный для Уэльса. Получает стены и дальний удар одновременно с центром города. +2 к [ICON_HOUSING] жилью и +1 [ICON_PRODUCTION] производства за соседние пастбища. Открывает уникальный проект «Айстедвод», который приносит [ICON_CULTURE] культуру и [ICON_GOLD] золото, пока выполняется, а по завершении дает очки [ICON_GREATGENERAL] великого полководца и [ICON_GREATWRITER] великого писателя.[NEWLINE][NEWLINE]ЮНИТ — САЭТВИР[NEWLINE]Уникальный дальнобойный юнит Уэльса Средневековья, заменяющий арбалетчика. Имеет большую дальность, но слабее в защите и дороже в обучении. Открывается раньше, с технологией «Строительство».</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_JFD_WALES_NAME" Language="ru_RU">
+			<Text>Уэльс|Уэльса|Уэльсу|Уэльс|Уэльсом|Уэльсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_JFD_WALES_DESCRIPTION" Language="ru_RU">
+			<Text>Валлийская империя</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_JFD_WALES_ADJECTIVE" Language="ru_RU">
+			<Text>валлийск.|валлийск.|валлийск.|валлийск.|валлийск.|валлийск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_JFD_WALES_DESCRIPTION_JFD_CIVILIZATION" Language="ru_RU">
+			<Text>Валлийская цивилизация</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_JFD_WALES_LOCATION" Language="ru_RU">
+			<Text>Британские острова</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_JFD_WALES_POPULATION" Language="ru_RU">
+			<Text>Прим. 3 063 456</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_JFD_WALES_SIZE" Language="ru_RU">
+			<Text>8 023 кв. мили (20 779 млн кв. км)</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_JFD_WALES_CAPITAL" Language="ru_RU">
+			<Text>Кардифф</Text>
+		</Replace>
+		<!-- Pedia -->
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_WALES_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Уэльс — небольшая составная нация Соединенного Королевства, господствующего политического образования на Британских островах, известная своим уникальным языком, потрясающими пейзажами и гостеприимными людьми. Уэльс культурно обособился от остальной Британии во время саксонских вторжений, когда стал последним независимым прибежищем коренных бриттских народов. Остальные острова захватили германские и гэльские завоеватели, из которых впоследствии выросли современные нации Англии и Шотландии соответственно. Эта культурная изоляция позволила Уэльсу развить уникальную культуру, пережившую около 800 лет английского господства. Сегодня Уэльс постепенно все глубже осознает свою культуру и все решительнее отвергает культурную гегемонию Англии, а в последнее время валлийский язык переживает своего рода возрождение.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_WALES_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Уэльс целиком расположен на небольшом полуострове, выступающем от западного побережья Британских островов в Ирландское море. Его согревает Гольфстрим, благодаря которому здесь значительно теплее, хотя и дождливее, чем в странах на схожих широтах, таких как Канада или Норвегия. Как и в Англии, в Уэльсе преобладают пологие зеленые холмы и долины, но он заметно более гористый, чем его сосед. Через Уэльс проходит несколько крупных горных хребтов; вторая по высоте гора Британии, Сноудон, находится в Уэльсе: ее высота 1085 м (3560 футов), и она привлекает сотни тысяч посетителей в год. Уэльс, особенно его северный регион Гвинед, — важный дом для британской дикой природы, а человеческих поселений здесь сравнительно немного.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_WALES_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Люди заселили Уэльс примерно в то же время, что и остальные Британские острова, около 12 000 лет назад, после того как человек неолита пришел по ныне не существующему сухопутному мосту с европейского континента, ушедшему под воду около 6000 года до н. э. О Уэльсе до контакта с римлянами известно мало, но известно, что он играл важную роль в экспорте ценных металлов вплоть до нынешней Португалии. Первые по-настоящему записанные страницы валлийской истории относятся к римской оккупации Великобритании. В течение тридцати лет после 48 года н. э. римляне покорили весь Уэльс, разбив многих коренных жителей; два заметных племени, сопротивлявшихся римлянам, — силуры на юго-востоке Уэльса и ордовики на севере. Оба племени были разгромлены захватчиками, и уцелело лишь племя деметов на территории нынешнего Пембрукшира, сумевшее договориться с римлянами.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_WALES_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>В 383 году децентрализация власти от Рима к Британии привела к тому, что отдельные валлийские королевства стали все более самостоятельными и могущественными в регионе. Два таких примера — вскоре ставшие королевствами Поуис и Гвент в центральном и южном Уэльсе соответственно. Передачу власти приписывают римскому императору Магну Максиму; по легенде, его британская жена попросила вернуть часть полномочий его подданным в Британии. За этот — возможно, вымышленный — вклад его считают одним из отцов-основателей Уэльса.[NEWLINE][NEWLINE]Когда Римская империя вошла в окончательный упадок, в 410 году н. э. войска были отозваны из Британии в попытке защитить Рим. Когда римские гарнизоны в Уэльсе опустели, различные племенные власти смогли вновь обрести полный суверенитет. После краха империи валлийские племена пережили культурные перемены: ирландские поселенцы в Диведе принесли письменность огам, а христианство распространилось по всему региону. Памятники, возведенные разным святым — прежде всего святому Давиду, — привели к тому, что этот период валлийской истории назвали Веком святых. Власть в Уэльсе консолидировалась в нескольких королевствах, таких как Поуис и Гвинед, причем последний стал одним из самых могущественных в последующие годы и совершал походы вплоть до Нортумбрии.[NEWLINE][NEWLINE]Из-за географии Уэльс развивался отдельно от соседней Англии. Хотя западное побережье Британии давно находилось под властью бриттских племен (в отличие от англов на востоке), такие события, как битва при Честере, разорвали сухопутные связи с остальными бриттами, что привело к расколу между Уэльсом, Корнуоллом и королевством Стратклайд на шотландской Низменности. Поскольку гористую местность Уэльса было трудно обойти любой армии, его политика оставалась отличной от английской из-за географического разделения между ними.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_WALES_CHAPTER_HISTORY_PARA_5" Language="ru_RU">
+			<Text>Ранесредневековый Уэльс принес новые пограничные стычки с все более господствующим английским королевством Мерсия, не в последнюю очередь на границе с Поуисом. Король Мерсии Оффа, не желавший завоевывать Уэльс, построил вал на границе с Уэльсом, чтобы формально обозначить рубеж. Несмотря на то что Уэльс никогда формально не объединялся в одну нацию, сухопутная граница, вероятно, облегчала любому королю достижение господства над страной: ему почти не о чем было беспокоиться на мерсийском фронте. Родри Великий (Родри Мавр), король Гвинеда, сумел в IX веке захватить контроль над большей частью страны (от северного побережья до южных долин). Однако династические обычаи привели к распаду этого расширенного государства. Грифид ап Лливелин, сначала тоже король Гвинеда, объединил большую часть Уэльса в XI веке, даже присоединив часть Англии; однако и это государство распалось после поражения от Гарольда Годвинсона.[NEWLINE][NEWLINE]После нормандского завоевания Англии в 1066 году захватчики быстро обратили внимание на Уэльс и в 1075 году захватили большую часть северной половины страны. В 1081 году Грифид ап Кинан, король Гвинеда, был приглашен на встречу с нормандским графом Шрусбери и графом Честера, где его быстро заключили в тюрьму, а его королевство поделили, передав остальную часть Северного Уэльса нормандцам. В то же время Вильгельм Завоеватель вторгся на юг и захватил большую часть южного побережья. К 1093 году казалось, что Уэльс постигнет та же участь, что и Англию. Но в отличие от Англии, на следующий год в Уэльсе вспыхнуло массовое восстание. Грифид ап Кинан, только что освобожденный, вернулся в Гвинед и привел королевство к свободе, а к 1136 году объединенные силы Гвинеда и Хейбарта одержали сокрушительную победу над нормандскими войсками при Круг-Мавр, освободив юго-запад Уэльса. В конце концов Гвинед превратился в сильнейшее из валлийских королевств, а его король Лливелин Великий (Лливелин Вавр) стал первым со времен нормандских войн, кто мог претендовать на титул принца Уэльского, объединив и освободив почти весь регион. Несмотря на его силу, после его смерти в 1240 году Гвинед вступил в период ожесточенной борьбы; его более слабый сын Дафидд вступил в новый конфликт с английским королевством, что привело к нескольким десятилетиям горького противостояния. Внука Лливелина Великого, Лливелина Последнего, заманили на встречу с английскими лордами, где его убили, а его армию вырезали; Уэльс стал первой колониальной территорией Англии и оставался таковым, если не считать краткого правления Оуайна Глиндура в 1400-х годах, пока не был аннексирован в 1542 году.[NEWLINE][NEWLINE]В последующие столетия Уэльс сталкивался со все большим бесправием, поскольку английские лорды усиливали контроль над спорным регионом. Эдуард I возвел вокруг Уэльса серию массивных укреплений, а наследник английского престола стал назначаться принцем Уэльским (обычай сохраняется и по сей день). В 1400 году недовольный мелкий дворянин Оуайн Глиндур поднял боевое знамя восстания против англичан после того, как его слишком далеко зашли в различных земельных спорах. Глиндур разбил несколько английских армий и провел первый в истории валлийский парламент в Махинллете. Несмотря на впечатляющее сопротивление, англичане постепенно отвоевали территорию, и Глиндур умер примерно в 1415 году — его так и не поймали. После восстания валлийцам запретили носить оружие и жить в укрепленных городах.[NEWLINE][NEWLINE]В 1455 году в Англии вспыхнули Войны Алой и Белой розы — гражданская война за права на английский престол между домами Йорков и Ланкастеров. Пока два дома кровавыми клочьями рвали друг друга, третий претендент, Генрих ап Тюдор, высадился в Уэльсе в поисках поддержки своего «третьего пути» — он заявлял о происхождении от обоих домов, Йорков и Ланкастеров. Генрих разбил своих изнуренных соперников и занял трон как Генрих VII Английский, положив начало династии Тюдоров. Эта новая династия правила Англией до смерти Елизаветы I Тюдор в 1603 году. Тюдоры, будучи валлийцами, пусть и сильно саксонизированными, значительно ослабили ограничения для валлийского народа и поддержали расцвет возрождения валлийской культуры. Из этого небольшого валлийского рода происходят некоторые из величайших и известнейших английских правителей всех времен, такие как Генрих VIII, основавший Англиканскую церковь и ставший ключевой фигурой европейской Реформации, и Елизавета I, разгромившая испанскую Армаду, утвердившая протестантизм в Британии и начавшая колониальную империю Англии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_WALES_CHAPTER_HISTORY_PARA_6" Language="ru_RU">
+			<Text>В раннее Новое время Уэльс становился все более англизированным. Хотя большинство населения говорило по-валлийски, элита нации пользовалась английским. Католиков вытеснила Церковь Уэльса — по крайней мере отчасти потому, что вся Библия была переведена на валлийский для англиканских проповедников, — хотя в некоторых частях страны они сохраняли влияние. Во время войн трех королевств Уэльс в основном поддерживал короля и предоставил значительную часть королевской армии; однако крупных сражений в Уэльсе не было.[NEWLINE][NEWLINE]Значительная часть населения Уэльса, особенно в сельских районах, в то время была неграмотной. В 1731 году Гриффит Джонс придумал передвижную школу, которая посещала разные районы Уэльса и учила людей писать, а через несколько месяцев отправлялась дальше; примерно 250 000 человек научились читать этим способом. Поскольку валлийский по-прежнему оставался языком большинства страны, людей учили писать по-валлийски. Теперь язык стал шире использоваться в Уэльсе из-за увеличения числа умеющих на нем писать, что привело к небольшому возрождению языка.[NEWLINE][NEWLINE]Промышленная революция, охватившая Европу в XVIII веке, прочно закрепилась и в Уэльсе. В южных долинах оказалось жизненно важным добывать большие залежи угля и других полезных ископаемых, помогая Соединенному Королевству приспосабливаться к развивающимся технологиям. Долины стали естественным домом для металлургов, что привело к росту населения Уэльса, особенно в XIX веке. В таких местах, как Мертир-Тидвил и Рондда, добыча сильно выросла, а многие рабочие устроились на работу в этом вновь обретенном промышленном сердце. В течение следующих десятилетий Уэльс оказался одним из крупнейших в мире экспортеров угля.[NEWLINE][NEWLINE]В начале XX века в южном Уэльсе стали господствовать лейбористы; их первый лидер Кир Харди был избран депутатом от двух округов в Долинах, когда партия набирала там силу. Хотя либералы давно были естественной партией власти в Уэльсе, крупная промышленность вызвала огромную концентрацию рабочих в долинах, и — с расширением избирательного права — лейбористы стали очевидным выбором для них. Промышленность южного Уэльса дала огромный импульс не только экономике региона, но и валлийскому национальному самосознанию; традиция айстедвода вновь стала получать признание по всему Уэльсу, а процветающая экономика позволила создать национальный музей страны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_JFD_WALES_CHAPTER_HISTORY_PARA_7" Language="ru_RU">
+			<Text>Сегодня попытки возродить валлийскую национальную идентичность остаются сильными: Законом о правительстве Уэльса 1998 года была создана Национальная ассамблея Уэльса (парламент без права повышать налоги), чьи полномочия и автономия значительно выросли в 2006 и 2011 годах. Валлийская националистическая партия «Плайд Кимри», добивающаяся большей автономии и в конечном счете независимости Уэльса, получила рекордные 15 мест в 60-местной национальной ассамблее в 2007 году и 22,4% голосов. Валлийский язык продолжает расти и теперь преподается в школах — около 20% валлийцев сейчас говорят по-валлийски, а в 2011 году он стал официальным языком Уэльса. Интересно, что это делает его единственным де-юре официальным языком в Британии. После полутора тысяч лет, когда родной язык вытесняли из Британии на небольшой клочок земли в Ирландском проливе, валлийский вернулся.</Text>
+		</Replace>
+		<!-- Trait -->
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_JFD_MABINOGION_NAME" Language="ru_RU">
+			<Text>Мабиногион</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_JFD_MABINOGION_DESCRIPTION" Language="ru_RU">
+			<Text>Получает очки [ICON_GREATWRITER] великого писателя за убийства; на своих землях — вдвое больше. Каждый уровень стен имеет ячейку для [ICON_GREATWORK_WRITING] литературного шедевра.</Text>
+		</Replace>
+		<!-- Cities -->
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_1" Language="ru_RU">
+			<Text>Кардифф</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_2" Language="ru_RU">
+			<Text>Суонси</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_3" Language="ru_RU">
+			<Text>Аберистуит</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_4" Language="ru_RU">
+			<Text>Лланелли</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_5" Language="ru_RU">
+			<Text>Махинллет</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_6" Language="ru_RU">
+			<Text>Мертир-Тидвил</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_7" Language="ru_RU">
+			<Text>Сент-Дейвидс</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_8" Language="ru_RU">
+			<Text>Бангор</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_9" Language="ru_RU">
+			<Text>Брекон</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_10" Language="ru_RU">
+			<Text>Кармартен</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_11" Language="ru_RU">
+			<Text>Рексем</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_12" Language="ru_RU">
+			<Text>Ньюпорт</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_13" Language="ru_RU">
+			<Text>Тенби</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_14" Language="ru_RU">
+			<Text>Кардиган</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_15" Language="ru_RU">
+			<Text>Карнарвон</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_16" Language="ru_RU">
+			<Text>Лланвайрпулльгвингиллгогерихвирндробуллллантисилиогогогох</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_17" Language="ru_RU">
+			<Text>Каснэвидд</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_18" Language="ru_RU">
+			<Text>Пенринддейдрайт</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_19" Language="ru_RU">
+			<Text>Понтиприд</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_20" Language="ru_RU">
+			<Text>Инисибул</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_21" Language="ru_RU">
+			<Text>Кефн-Мавр</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_22" Language="ru_RU">
+			<Text>Майстег</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_23" Language="ru_RU">
+			<Text>Глин-Эбви</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_24" Language="ru_RU">
+			<Text>Бетесда</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_25" Language="ru_RU">
+			<Text>Тамбл</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_26" Language="ru_RU">
+			<Text>Букле</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_27" Language="ru_RU">
+			<Text>Койд-Дион</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_28" Language="ru_RU">
+			<Text>Пен-и-Бонт-ар-Огур</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_29" Language="ru_RU">
+			<Text>Кумбран</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JFD_WALES_30" Language="ru_RU">
+			<Text>Бро-Моргануг</Text>
+		</Replace>
+		<!-- Citizens -->
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MALE_1" Language="ru_RU">
+			<Text>Айрон</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MALE_2" Language="ru_RU">
+			<Text>Оуайн</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MALE_3" Language="ru_RU">
+			<Text>Грифид</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MALE_4" Language="ru_RU">
+			<Text>Мадог</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MALE_5" Language="ru_RU">
+			<Text>Рис</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MALE_6" Language="ru_RU">
+			<Text>Бледдин</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MALE_7" Language="ru_RU">
+			<Text>Томос</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MALE_8" Language="ru_RU">
+			<Text>Элен</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MALE_9" Language="ru_RU">
+			<Text>Маредид</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MALE_10" Language="ru_RU">
+			<Text>Аван</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_MALE_1" Language="ru_RU">
+			<Text>Дилан</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_MALE_2" Language="ru_RU">
+			<Text>Рис</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_MALE_3" Language="ru_RU">
+			<Text>Осиан</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_MALE_4" Language="ru_RU">
+			<Text>Элед</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_MALE_5" Language="ru_RU">
+			<Text>Карвин</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_MALE_6" Language="ru_RU">
+			<Text>Ретт</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_MALE_7" Language="ru_RU">
+			<Text>Аарон</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_MALE_8" Language="ru_RU">
+			<Text>Бринн</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_MALE_9" Language="ru_RU">
+			<Text>Тони</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_MALE_10" Language="ru_RU">
+			<Text>Гарет</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_FEMALE_1" Language="ru_RU">
+			<Text>Гвладис</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_FEMALE_2" Language="ru_RU">
+			<Text>Маред</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_FEMALE_3" Language="ru_RU">
+			<Text>Сюзанна</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_FEMALE_4" Language="ru_RU">
+			<Text>Ангарад</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_FEMALE_5" Language="ru_RU">
+			<Text>Джоан</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_FEMALE_6" Language="ru_RU">
+			<Text>Гвенллиан</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_FEMALE_7" Language="ru_RU">
+			<Text>Гвладис</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_FEMALE_8" Language="ru_RU">
+			<Text>Элизабет</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_FEMALE_9" Language="ru_RU">
+			<Text>Элен</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_FEMALE_10" Language="ru_RU">
+			<Text>Марред</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_FEMALE_1" Language="ru_RU">
+			<Text>Мифанви</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_FEMALE_2" Language="ru_RU">
+			<Text>Шан</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_FEMALE_3" Language="ru_RU">
+			<Text>Шан</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_FEMALE_4" Language="ru_RU">
+			<Text>Меган</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_FEMALE_5" Language="ru_RU">
+			<Text>Морган</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_FEMALE_6" Language="ru_RU">
+			<Text>Мередит</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_FEMALE_7" Language="ru_RU">
+			<Text>Рианнон</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_FEMALE_8" Language="ru_RU">
+			<Text>Гвендолин</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_FEMALE_9" Language="ru_RU">
+			<Text>Гвиневера</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_JFD_WALES_MODERN_FEMALE_10" Language="ru_RU">
+			<Text>Глэдис</Text>
+		</Replace>
+		<!-- Named places -->
+		<Replace Tag="LOC_NAMED_RIVER_JFD_WALES_SEVERN_NAME" Language="ru_RU">
+			<Text>Река Северн</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_JFD_WALES_WYE_NAME" Language="ru_RU">
+			<Text>Река Уай</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_JFD_WALES_TEME_NAME" Language="ru_RU">
+			<Text>Река Тим</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_JFD_WALES_DEE_NAME" Language="ru_RU">
+			<Text>Река Ди</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_JFD_WALES_TOWY_NAME" Language="ru_RU">
+			<Text>Река Тауи</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_JFD_WALES_TEIFI_NAME" Language="ru_RU">
+			<Text>Река Тейви</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_JFD_WALES_USK_NAME" Language="ru_RU">
+			<Text>Река Аск</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_RIVER_JFD_WALES_TAFF_NAME" Language="ru_RU">
+			<Text>Река Тафф</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_JFD_WALES_SNOWDON_NAME" Language="ru_RU">
+			<Text>Сноудон</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_JFD_WALES_CARNEDD_NAME" Language="ru_RU">
+			<Text>Карнедд-Лливелин</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_JFD_WALES_GLYDER_NAME" Language="ru_RU">
+			<Text>Глайдер-Вавр</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_JFD_WALES_Y_GARN_NAME" Language="ru_RU">
+			<Text>И-Гарн</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_JFD_WALES_ELIDIR_NAME" Language="ru_RU">
+			<Text>Элидир-Вавр</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_JFD_WALES_TRYFAN_NAME" Language="ru_RU">
+			<Text>Трифан</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_JFD_WALES_ARAN_NAME" Language="ru_RU">
+			<Text>Аран-Вауддуи</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_JFD_WALES_Y_LLIWEDD_NAME" Language="ru_RU">
+			<Text>И-Лливедд</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_JFD_WALES_CADAIR_NAME" Language="ru_RU">
+			<Text>Кадайр-Идрис</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_MOUNTAIN_JFD_WALES_PEN_NAME" Language="ru_RU">
+			<Text>Пен-и-Ван</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_VOLCANO_JFD_WALES_SNOWDONIA_NAME" Language="ru_RU">
+			<Text>Сноудония</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_DESERT_JFD_WALES_ELENYDD_NAME" Language="ru_RU">
+			<Text>Эленидд</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_JFD_WALES_TEGID_NAME" Language="ru_RU">
+			<Text>Ллин-Тегид</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_JFD_WALES_TRAWSFYNYDD_NAME" Language="ru_RU">
+			<Text>Ллин-Траусфинидд</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_JFD_WALES_VYRNWY_NAME" Language="ru_RU">
+			<Text>Вирнви</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_JFD_WALES_BRENIG_NAME" Language="ru_RU">
+			<Text>Ллин-Бренинг</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_JFD_WALES_CELYN_NAME" Language="ru_RU">
+			<Text>Ллин-Келин</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_JFD_WALES_ALAW_NAME" Language="ru_RU">
+			<Text>Ллин-Алау</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_JFD_WALES_CLAERWEN_NAME" Language="ru_RU">
+			<Text>Водохранилище Клаэрвен</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_JFD_WALES_LLLYN_CLYWEDOG_NAME" Language="ru_RU">
+			<Text>Ллин-Клуидог</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_JFD_WALES_NANT_NAME" Language="ru_RU">
+			<Text>Водохранилище Нант-и-Мох</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_LAKE_JFD_WALES_CABAN_NAME" Language="ru_RU">
+			<Text>Водохранилище Кабан-Кох</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_JFD_WALES_BRISTOL_CHANNEL_NAME" Language="ru_RU">
+			<Text>Бристольский залив</Text>
+		</Replace>
+		<Replace Tag="LOC_NAMED_SEA_JFD_WALES_IRISH_SEA_NAME" Language="ru_RU">
+			<Text>Ирландское море</Text>
+		</Replace>
+		<!-- District -->
+		<Replace Tag="LOC_DISTRICT_JFD_CAER_NAME" Language="ru_RU">
+			<Text>Каэр|Каэра|Каэру|Каэр|Каэром|Каэре</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_JFD_CAER_DESCRIPTION" Language="ru_RU">
+			<Text>Отдельный оборонительный район, уникальный для Уэльса.[NEWLINE][NEWLINE]Получает стены и дальний удар одновременно с центром города. +2 к [ICON_HOUSING] жилью и +1 [ICON_PRODUCTION] производства за соседние пастбища. Открывает уникальный проект «Айстедвод», который приносит [ICON_CULTURE] культуру и [ICON_GOLD] золото, пока выполняется, а по завершении дает очки [ICON_GREATGENERAL] великого полководца и [ICON_GREATWRITER] великого писателя.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_JFD_CAER_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Каэры, валлийские замки, — основа средневековой валлийской архитектуры, обусловленная почти непрерывными междоусобными и международными войнами, терзавшими Уэльс до того, как Англия закрепила за собой территорию в XVI веке. Первые валлийские замки, как и на остальных островах, были просто земляными укреплениями. По мере того как валлийские королевства росли в престиже и силе, росли и их замки, и к XI веку в этой области были достигнуты значительные улучшения: деревянные и каменные сооружения выступали из плодородного валлийского ландшафта, словно хорошо вооруженные горы. С приходом англичан в 1075 году для обеих сторон стало еще важнее поддерживать крупные укрепления — те, что построил Эдуард I в XIII веке, — одни из лучших сохранившихся образцов. Во время восстания Глиндура впечатляющий характер валлийских каэров стал причиной его падения: англичане в поздней фазе войны заняли оборонительную позицию и распространяли контроль из крупных замков, в конце концов вернув себе страну.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_JFD_CAER_PRODUCTION" Language="ru_RU">
+			<Text>+{1_num} [ICON_PRODUCTION] производства за соседнее пастбище.</Text>
+		</Replace>
+		<!-- Project -->
+		<Replace Tag="LOC_PROJECT_JFD_EISTEDDFOD_NAME" Language="ru_RU">
+			<Text>Айстедвод</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_JFD_EISTEDDFOD_SHORT_NAME" Language="ru_RU">
+			<Text>Айстедвод</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_JFD_EISTEDDFOD_DESCRIPTION" Language="ru_RU">
+			<Text>«Айстедвод» — проект, уникальный для Уэльса: пока он выполняется, он дает [ICON_CULTURE] культуру и [ICON_GOLD] золото, а по завершении — всплеск очков [ICON_GREATGENERAL] великого полководца и [ICON_GREATWRITER] великого писателя.</Text>
+		</Replace>
+		<!-- Unit -->
+		<Replace Tag="LOC_UNIT_JFD_SAETHWYR_NAME" Language="ru_RU">
+			<Text>Саэтвир|Саэтвира|Саэтвиру|Саэтвира|Саэтвиром|Саэтвире</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JFD_SAETHWYR_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальный дальнобойный юнит Уэльса Средневековья, заменяющий арбалетчика. Имеет большую дальность, но слабее в защите и дороже в обучении. Открывается раньше, с технологией «Строительство».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JFD_SAETHWYR_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Хотя длинный лук славится по всем Британским островам, многие считают, что именно валлийские лучники довели это искусство до совершенства или даже изобрели его. Сведения об использовании длинного лука появляются в валлийской истории очень рано и стали серьезным препятствием для попыток англичан покорить маленькую нацию. Несколько вторжений были сорваны валлийскими лучниками с длинными луками, или саэтвирами (стрелками, умеющими с невероятной точностью поражать отдельные цели), на оборонительных позициях. Холмистая, лесистая валлийская местность оказалась большим подспорьем для стрелков, хорошо знавших земли, — что отмечено в многочисленных сокрушительных поражениях английских армий во время валлийских восстаний, таких как восстание Глиндура. В конце концов, после завоевания Уэльса, валлийский лучник стал основой английских армий: несколько валлийских полков присутствовали при Азенкуре и в других знаменитых английских сражениях и служили по всему королевству — от Шотландии до Испании.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
