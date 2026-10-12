@@ -1,0 +1,17 @@
+# сборка и релизы
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE и ОС
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# локальные настройки Claude Code (личные)
+.claude/settings.local.json
+.claude/*-workspace/
