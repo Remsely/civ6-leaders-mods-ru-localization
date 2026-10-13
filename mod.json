@@ -1,10 +1,10 @@
 {
   "guid": "11158719-6bb1-40bf-bd06-9fc3771aaf7e",
   "folder": "RuLocalization_LeadersAndCivs",
-  "name": "Русская локализация модов лидеров и цивилизаций",
+  "name": "Remsely's [COLOR_FLOAT_CULTURE]Russian Localization[ENDCOLOR]: Leaders & Civilizations",
   "version": 1,
-  "teaser": "Русский перевод для модов JFD, Sukritact и других авторов лидеров и цивилизаций.",
-  "description": "Добавляет русские тексты к модам лидеров и цивилизаций, у которых нет собственного перевода. Каждый перевод включается только если соответствующий мод включён в игре.",
-  "authors": "Remsely",
+  "teaser": "Русский перевод 28 модов лидеров и цивилизаций (JFD, Leugi, Bavaria). Нажмите, чтобы увидеть список.",
+  "description": "Добавляет русский язык к модам лидеров и цивилизаций, у которых нет собственного перевода. Переводятся названия, способности, уникальные юниты, здания и районы, реплики лидеров, агенды и страницы Цивилопедии.[NEWLINE][NEWLINE]Каждый перевод включается только вместе с соответствующим модом: если мода нет или он выключен, его текст не затрагивается. Этот мод сам ничего не добавляет в игру, поэтому его можно держать включённым постоянно.[NEWLINE][NEWLINE]ПЕРЕВЕДЕНЫ ЛИДЕРЫ И ЦИВИЛИЗАЦИИ[NEWLINE][ICON_BULLET] JFD: Ацтеки (Куаутемок)[NEWLINE][ICON_BULLET] JFD: Италия (Маргарита, Бенито Муссолини)[NEWLINE][ICON_BULLET] JFD: Япония (Мэйдзи)[NEWLINE][ICON_BULLET] JFD: Мексика (Карлота, Максимилиан I)[NEWLINE][ICON_BULLET] JFD: Папская область (Григорий I, Пий IX)[NEWLINE][ICON_BULLET] JFD: Рим (Антонин Пий, Каракалла, Коммод, Нерон)[NEWLINE][ICON_BULLET] JFD: Россия (Елизавета, Иван IV, Распутин, Владимир Путин)[NEWLINE][ICON_BULLET] JFD: Советский Союз (Ленин)[NEWLINE][ICON_BULLET] JFD: Шотландия (Мария)[NEWLINE][ICON_BULLET] JFD: Испания (Изабелла I, Изабелла II, Педро де Вальдивия, Филипп II, Торквемада)[NEWLINE][ICON_BULLET] JFD: Уэльс (Лливелин)[NEWLINE][ICON_BULLET] JFD: Зулусы (Кечвайо)[NEWLINE][ICON_BULLET] Leugi: Мексика (Порфирио Диас)[NEWLINE][ICON_BULLET] Бавария (Людвиг II)[NEWLINE][NEWLINE]Названия и термины приведены к официальному русскому тексту игры.[NEWLINE][NEWLINE]Перевод: Remsely и Claude Code (Anthropic). Исходные моды принадлежат их авторам.",
+  "authors": "Remsely, Claude Code",
   "load_order": 100
 }
